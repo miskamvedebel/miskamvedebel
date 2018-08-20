@@ -1,1001 +1,1001 @@
 orders;total_amount
-Dario Argento,Dante,Gigi D'Allesio;33.0
-Mario Merola,Alberto Sordi,Vanvitelli;29.5
-Federico Fellini,Pino Daniele,Michilangelo;37.0
-Sophia Loren,Gianni Morandi,Vesuvio;35.5
-De Sica,Michilangelo,Donatello;33.5
-Laura Pausini,Laura Pausini,De Sica;30.0
-De Sica,Alberto Sordi,Pino Daniele;33.0
-Mario Merola,Mario Merola,Rafaella;28.5
-Donatello,Marcello Mastroianni,Vanvitelli;33.5
-Federico Fellini,Donatello,Alberto Sordi;34.5
-Massimo Troisi,Gigi D'Allesio,Gianni Morandi;33.0
-Massimo Troisi,Federico Fellini,Sophia Loren;35.0
-Vittorio Gassman,Regina Margherita,Boticelli;29.5
-Michilangelo,Vesuvio,Alberto Sordi;33.0
-Dario Argento,Gianni Morandi,Rafaella;34.5
-Vanvitelli,Alberto Sordi,Gigi D'Allesio;32.0
-Michilangelo,Gigi D'Allesio,Boticelli;30.5
-Regina Margherita,Michilangelo,Gigi D'Allesio;31.5
-Vesuvio,Rafaella,Dario Argento;34.0
-Pino Daniele,Laura Pausini,Sophia Loren;35.0
-Vesuvio,Toto,Raffaello;34.0
-Dante,Donatello,De Sica;34.5
-Toto,Pavarotti;24.5
-Massimo Troisi,Gianni Morandi,Boticelli;31.0
-Gigi D'Allesio,Donatello,Dario Argento;32.5
-Vesuvio,Dario Argento,Toto;33.5
-Vanvitelli,Donatello,Boticelli;32.0
-Pavarotti,Donatello,Vittorio Gassman;36.0
-Toto,Federico Fellini,Gianni Morandi;36.5
-Laura Pausini,Federico Fellini,Mario Merola;30.5
-Regina Margherita,Dante,Pino Daniele;35.0
-Gigi D'Allesio,Federico Fellini;23.0
-De Sica,Michilangelo,Massimo Troisi;32.0
-Raffaello,De Sica,Michilangelo;32.0
-Dario Argento,Federico Fellini,Vanvitelli;34.0
-Federico Fellini,Raffaello,Raffaello;33.5
-Rafaella,Rafaella,Toto;37.0
-Pavarotti,Rafaella,Dante;37.5
-Federico Fellini,Vanvitelli,Massimo Troisi;34.5
-Vanvitelli,Pino Daniele,Gianni Morandi;36.5
-Dante,Toto,Rafaella;37.0
-Rafaella,Donatello,Marcello Mastroianni;34.5
-Gigi D'Allesio,Pino Daniele,Toto;35.5
-Dante,Boticelli,Vittorio Gassman;32.5
-Dante,Sophia Loren,Michilangelo;36.0
-Alberto Sordi,Massimo Troisi,Vittorio Gassman;32.0
-Vittorio Gassman,Vesuvio,Regina Margherita;32.5
-Sophia Loren,Alberto Sordi,Pavarotti;34.5
-Marcello Mastroianni,Vanvitelli,Alberto Sordi;31.5
-Alberto Sordi,Regina Margherita;19.5
-Toto,Vittorio Gassman,Laura Pausini;33.5
-Michilangelo,Mario Merola,Mario Merola;27.5
-Federico Fellini,Regina Margherita,Pavarotti;34.5
-Rafaella,Marcello Mastroianni,Marcello Mastroianni;32.5
-Vittorio Gassman,Pavarotti,Dario Argento;34.0
-Marcello Mastroianni,Vittorio Gassman,Gigi D'Allesio;32.0
-Boticelli,De Sica,Rafaella;31.0
-Gianni Morandi,Vittorio Gassman,Vanvitelli;35.0
-De Sica,Michilangelo,De Sica;31.5
-Marcello Mastroianni,Gianni Morandi,Gigi D'Allesio;32.5
-Pavarotti,Raffaello,Massimo Troisi;33.5
-Laura Pausini,Pino Daniele,Vesuvio;34.5
-Pino Daniele,Vittorio Gassman;24.5
-Marcello Mastroianni,Rafaella,Sophia Loren;34.5
-Boticelli,Gianni Morandi;20.5
-Michilangelo,Rafaella,Vanvitelli;35.5
-Raffaello,Federico Fellini,Alberto Sordi;33.0
-Alberto Sordi,Gianni Morandi,Michilangelo;33.5
-Rafaella,Gianni Morandi,Pino Daniele;37.5
-Raffaello,Rafaella,Massimo Troisi;33.5
-Vesuvio,Rafaella,Laura Pausini;34.0
-Sophia Loren,De Sica,Rafaella;34.5
-Donatello,Dante,Toto;36.5
-Dante,Toto,Donatello;36.5
-Marcello Mastroianni,Dario Argento,Raffaello;30.5
-Mario Merola,Vesuvio,Alberto Sordi;29.5
-Marcello Mastroianni,Mario Merola,Laura Pausini;28.0
-Pino Daniele,Toto;25.0
-De Sica,Vanvitelli,Donatello;33.5
-Raffaello,Vesuvio,Pino Daniele;35.0
-Pavarotti,Dario Argento,Gigi D'Allesio;33.0
-Toto,Mario Merola,Boticelli;28.5
-Dario Argento,Boticelli,Marcello Mastroianni;28.5
-Michilangelo,Raffaello,Mario Merola;30.0
-Pino Daniele,Gigi D'Allesio,Federico Fellini;36.0
-Rafaella,Marcello Mastroianni,Pavarotti;35.0
-Donatello,Alberto Sordi,Gianni Morandi;34.0
-Federico Fellini,Dante,Massimo Troisi;35.5
-Vanvitelli,Gigi D'Allesio,Mario Merola;30.0
-Gianni Morandi,Marcello Mastroianni,Boticelli;30.5
-Pavarotti,Michilangelo,Rafaella;36.5
-Donatello,Pavarotti,Toto;36.5
-Donatello,Sophia Loren;24.0
-Pavarotti,Federico Fellini;25.0
-Michilangelo,Pavarotti,Boticelli;32.5
-Laura Pausini,Marcello Mastroianni;20.0
-Rafaella,Dante,Vittorio Gassman;36.5
-Vittorio Gassman,Gigi D'Allesio,Pino Daniele;35.0
-Boticelli,Pino Daniele,Dante;34.0
-Donatello,Toto,Laura Pausini;34.0
-Toto,Vesuvio,Pavarotti;36.0
-Boticelli,Gianni Morandi,Laura Pausini;30.5
-Alberto Sordi,Sophia Loren,Vesuvio;33.5
-Massimo Troisi,Pino Daniele,Toto;35.5
-Boticelli,Pavarotti;21.0
-Vanvitelli,Pavarotti;24.0
-Rafaella,Vesuvio,Toto;36.0
-Donatello,Boticelli,Federico Fellini;33.0
-Gigi D'Allesio,Gianni Morandi,Dante;35.0
-Donatello,Laura Pausini,Pino Daniele;35.0
-Sophia Loren,De Sica;22.0
-Michilangelo,Gigi D'Allesio,Gianni Morandi;34.0
-Michilangelo,Pino Daniele,Pino Daniele;37.5
-Donatello,Federico Fellini,Federico Fellini;37.0
-Rafaella,Mario Merola,Pino Daniele;33.5
+Dario Argento,Laura Pausini,Dante;32.5
+Sophia Loren,Vesuvio,Rafaella;36.0
+Pino Daniele,Dante;25.5
+Laura Pausini,Gigi D'Allesio,Federico Fellini;33.0
+Marcello Mastroianni,Marcello Mastroianni,Regina Margherita;29.5
+Dario Argento,Michilangelo,Vesuvio;33.0
+Alberto Sordi,Regina Margherita,Mario Merola;27.5
+Dario Argento,Vesuvio,Pavarotti;34.0
+Pino Daniele,Donatello,Alberto Sordi;35.0
 Marcello Mastroianni,Dario Argento,Toto;32.0
-Massimo Troisi,Marcello Mastroianni,Laura Pausini;30.5
-Vanvitelli,Rafaella,Laura Pausini;34.0
-Massimo Troisi,Mario Merola,Donatello;30.5
-Regina Margherita,De Sica,Dario Argento;29.5
-Alberto Sordi,Toto,Vittorio Gassman;33.5
-Boticelli,Marcello Mastroianni,Vanvitelli;30.0
-Vanvitelli,Raffaello,Massimo Troisi;32.5
-Boticelli,Alberto Sordi,Dante;31.0
-Donatello,Vanvitelli,Raffaello;34.0
-Mario Merola,Pino Daniele;21.0
-Alberto Sordi,Pavarotti,Boticelli;31.0
-Boticelli,Marcello Mastroianni,Laura Pausini;28.5
-Gigi D'Allesio,Vittorio Gassman,Laura Pausini;32.0
-Gianni Morandi,Alberto Sordi;22.0
-Vanvitelli,Mario Merola,Raffaello;30.0
-Boticelli,Gianni Morandi;20.5
-Vesuvio,Laura Pausini,Regina Margherita;31.0
-Federico Fellini,Laura Pausini,Laura Pausini;32.5
-Pavarotti,Pavarotti,Pino Daniele;38.0
-Raffaello,Toto,Gianni Morandi;34.5
-Raffaello,Pino Daniele,Vittorio Gassman;35.0
-Dante,Federico Fellini,Gigi D'Allesio;35.5
-Sophia Loren,Laura Pausini,Sophia Loren;34.0
-Pavarotti,Pino Daniele,Marcello Mastroianni;35.5
-Boticelli,Vittorio Gassman,Massimo Troisi;30.5
-Raffaello,Raffaello,Alberto Sordi;31.0
-Vanvitelli,Alberto Sordi,Donatello;33.5
-Massimo Troisi,Raffaello,Pavarotti;33.5
-Vittorio Gassman,Raffaello,Alberto Sordi;32.0
-Rafaella,Marcello Mastroianni,Alberto Sordi;32.5
-Donatello,Dante,Dario Argento;34.5
-Regina Margherita,De Sica;19.5
-Sophia Loren,Laura Pausini,Gianni Morandi;34.0
-Alberto Sordi,Laura Pausini,Federico Fellini;32.5
-Boticelli,Gianni Morandi,Federico Fellini;33.0
-Boticelli,De Sica;18.5
-Gianni Morandi,Dante,Laura Pausini;34.5
-Laura Pausini,Sophia Loren,Vanvitelli;33.5
-Pino Daniele,Regina Margherita,Toto;34.5
-Massimo Troisi,Toto,Boticelli;31.0
-Toto,Vanvitelli,Federico Fellini;36.0
-Vittorio Gassman,Mario Merola,Sophia Loren;31.5
-Laura Pausini,Boticelli,Rafaella;31.0
-Donatello,Donatello,Toto;36.0
-Rafaella,Donatello,Michilangelo;36.0
-De Sica,Raffaello,Vanvitelli;32.0
-Marcello Mastroianni,Toto,Alberto Sordi;32.0
-Toto,Sophia Loren,Boticelli;32.5
-Mario Merola,Sophia Loren,Federico Fellini;32.5
-Gianni Morandi,Regina Margherita,Dante;34.0
-Laura Pausini,Vittorio Gassman,Alberto Sordi;31.5
-Donatello,Pavarotti;24.5
-Dario Argento,Vesuvio,Mario Merola;29.5
-Marcello Mastroianni,Dante,Boticelli;31.0
-Federico Fellini,Toto,Dante;37.0
-Dario Argento,Raffaello,Sophia Loren;32.5
-Vesuvio,Vanvitelli,Michilangelo;34.5
-Dario Argento,Laura Pausini,Gigi D'Allesio;30.5
-Laura Pausini,Dante,Gianni Morandi;34.5
-Dario Argento,Marcello Mastroianni,Pavarotti;32.5
-Gigi D'Allesio,Vittorio Gassman,Regina Margherita;31.5
-Boticelli,Donatello;20.5
-De Sica,Toto,Gianni Morandi;34.0
-Raffaello,De Sica,Alberto Sordi;30.5
-Vesuvio,Dante,Alberto Sordi;34.0
-Alberto Sordi,Pavarotti,Massimo Troisi;33.0
-Regina Margherita,Massimo Troisi,Donatello;32.0
-Marcello Mastroianni,Vittorio Gassman,Gigi D'Allesio;32.0
-Michilangelo,De Sica,Mario Merola;29.5
-Vesuvio,Regina Margherita,Dario Argento;31.0
-Pavarotti,Marcello Mastroianni,Regina Margherita;32.0
-Sophia Loren,Dario Argento;22.0
-Toto,Mario Merola,De Sica;30.0
-Gianni Morandi,Regina Margherita,Raffaello;32.0
-Dante,Donatello,Vesuvio;36.0
-Michilangelo,Gianni Morandi,Vanvitelli;35.0
-Mario Merola,Boticelli,Boticelli;25.0
-Pino Daniele,Gigi D'Allesio,Gianni Morandi;35.5
-Vesuvio,Mario Merola,Regina Margherita;29.0
-Toto,Gianni Morandi,Pavarotti;36.5
-Federico Fellini,Dario Argento,Marcello Mastroianni;32.5
-Raffaello,Vittorio Gassman,Gianni Morandi;34.0
-Mario Merola,Raffaello,Gianni Morandi;30.5
-Raffaello,Gigi D'Allesio,Michilangelo;32.5
-Donatello,Massimo Troisi,Michilangelo;34.0
-Massimo Troisi,Marcello Mastroianni,Vanvitelli;32.0
-Boticelli,Vesuvio,Pavarotti;32.5
-Mario Merola,Boticelli,Vanvitelli;28.0
-Massimo Troisi,Vesuvio,Vanvitelli;33.5
-Boticelli,Sophia Loren,Laura Pausini;30.5
-Gigi D'Allesio,Mario Merola,Laura Pausini;28.5
-Dario Argento,Marcello Mastroianni,Laura Pausini;30.0
-Massimo Troisi,Pino Daniele,Raffaello;34.0
-Sophia Loren,Gianni Morandi;24.0
-Vesuvio,Massimo Troisi,Vittorio Gassman;33.5
-Vittorio Gassman,Vanvitelli;23.0
-Regina Margherita,Alberto Sordi,Sophia Loren;31.5
-Boticelli,Michilangelo,Michilangelo;31.5
-Laura Pausini,De Sica,Massimo Troisi;30.5
-Massimo Troisi,Federico Fellini,Federico Fellini;35.5
-Federico Fellini,Marcello Mastroianni,Michilangelo;34.0
-Dario Argento,Marcello Mastroianni,Sophia Loren;32.0
-Marcello Mastroianni,Boticelli,Vittorio Gassman;30.0
-Mario Merola,Vittorio Gassman;19.5
-Dario Argento,Toto,Regina Margherita;31.5
-Vittorio Gassman,Regina Margherita,Vesuvio;32.5
-Vesuvio,Vesuvio,Sophia Loren;35.0
-Michilangelo,Vanvitelli,Rafaella;35.5
-Boticelli,Alberto Sordi,Donatello;30.5
-Alberto Sordi,Regina Margherita,Raffaello;30.0
-Vittorio Gassman,Laura Pausini,Vesuvio;33.0
-Pavarotti,Vesuvio,Marcello Mastroianni;34.0
-Regina Margherita,Mario Merola,Pino Daniele;30.5
-Raffaello,Marcello Mastroianni,Regina Margherita;30.0
-Raffaello,Massimo Troisi,Toto;33.0
-Sophia Loren,Vesuvio,Federico Fellini;36.0
-Regina Margherita,Marcello Mastroianni,Mario Merola;27.5
-Donatello,Raffaello,Marcello Mastroianni;32.5
-Sophia Loren,Laura Pausini,Alberto Sordi;32.0
-Pavarotti,Raffaello,Vesuvio;34.5
-Pavarotti,Dante,Laura Pausini;35.0
-Massimo Troisi,Laura Pausini;20.5
-Dario Argento,Massimo Troisi,Gianni Morandi;32.5
-Pavarotti,Vesuvio;24.0
-Raffaello,Mario Merola,Pavarotti;31.0
-Massimo Troisi,Alberto Sordi,Pavarotti;33.0
-Gigi D'Allesio,Dante,Mario Merola;31.0
-Rafaella,Raffaello,Donatello;35.0
-Vittorio Gassman,Raffaello,Dante;34.5
-Massimo Troisi,Vanvitelli,Gigi D'Allesio;32.5
-Vesuvio,Toto,Sophia Loren;35.5
-Gianni Morandi,Dante,Regina Margherita;34.0
-Alberto Sordi,Marcello Mastroianni,Vittorio Gassman;31.5
-Gigi D'Allesio,Gigi D'Allesio,Donatello;33.0
-Michilangelo,Mario Merola;19.5
-Mario Merola;8.0
-Donatello,Dario Argento,Marcello Mastroianni;32.0
-Vesuvio,Dario Argento,Gigi D'Allesio;32.0
-Massimo Troisi,Pino Daniele,Rafaella;36.0
-Massimo Troisi,De Sica,Sophia Loren;32.5
-Mario Merola,Regina Margherita,Toto;29.5
-Donatello,Massimo Troisi,Vittorio Gassman;34.0
-Alberto Sordi,Dante,Alberto Sordi;32.5
-Dante,Gianni Morandi,Pavarotti;37.0
-De Sica,Dante,Pavarotti;35.0
-Mario Merola,Mario Merola,Pavarotti;28.5
-Vanvitelli,Toto,Vittorio Gassman;35.0
-Gianni Morandi,Marcello Mastroianni,De Sica;32.0
-Toto,Alberto Sordi,Laura Pausini;32.0
-Donatello,Dario Argento,Sophia Loren;34.0
-Massimo Troisi,Toto,Marcello Mastroianni;32.5
-Rafaella,Gigi D'Allesio,Regina Margherita;32.5
-Gigi D'Allesio,De Sica,Vesuvio;32.0
-Marcello Mastroianni,Massimo Troisi,Federico Fellini;33.0
-Marcello Mastroianni,Vesuvio,Donatello;33.5
-Boticelli,Rafaella,Regina Margherita;30.5
-Alberto Sordi,Dante,Pavarotti;35.0
-Marcello Mastroianni,Gianni Morandi,Vittorio Gassman;33.5
-Laura Pausini,Vittorio Gassman,Toto;33.5
-Vanvitelli,Boticelli,Rafaella;32.5
-Toto,Vanvitelli;23.5
-Rafaella,Regina Margherita,Gigi D'Allesio;32.5
-Boticelli,Pino Daniele,Alberto Sordi;31.5
-Michilangelo,Pavarotti,Pino Daniele;37.0
-Vanvitelli,Regina Margherita,Pavarotti;33.5
-Sophia Loren,Regina Margherita,Regina Margherita;31.0
-Federico Fellini,Raffaello,Donatello;35.0
-Marcello Mastroianni,Dario Argento,Massimo Troisi;30.5
-Pavarotti,Michilangelo,Toto;36.0
-Rafaella,Raffaello,Boticelli;31.5
-Raffaello,Boticelli,Toto;31.0
-Michilangelo,Sophia Loren,Sophia Loren;35.5
-Alberto Sordi,Michilangelo,Raffaello;32.0
-Pino Daniele,Alberto Sordi,Gigi D'Allesio;33.5
-Gianni Morandi,Massimo Troisi,Federico Fellini;35.0
-Raffaello,Alberto Sordi,Mario Merola;28.5
-Pino Daniele,Dante,Michilangelo;37.0
-Pino Daniele,Marcello Mastroianni,Michilangelo;34.5
-Toto,Mario Merola,Gianni Morandi;32.0
-Vesuvio,Pino Daniele,Sophia Loren;36.5
-Dario Argento,Pavarotti,Marcello Mastroianni;32.5
-Rafaella,Marcello Mastroianni;22.5
-Sophia Loren,Rafaella,Alberto Sordi;34.5
-Alberto Sordi,Sophia Loren,Vesuvio;33.5
-Toto,Laura Pausini,Donatello;34.0
-Gianni Morandi,Mario Merola,Alberto Sordi;30.0
-Raffaello,Dario Argento,De Sica;30.5
-Alberto Sordi,Dario Argento,Pino Daniele;33.0
-Gigi D'Allesio,Mario Merola,Federico Fellini;31.0
-Raffaello,Massimo Troisi,Sophia Loren;33.0
-Michilangelo,Vittorio Gassman,Gigi D'Allesio;33.5
-Toto,Vesuvio,Mario Merola;31.5
-Pavarotti,Massimo Troisi,Vesuvio;34.5
-Boticelli,Boticelli,Dante;29.5
-Alberto Sordi,Boticelli,Laura Pausini;28.5
-Pavarotti,Raffaello,Toto;35.0
-Michilangelo,Vittorio Gassman;23.0
-Michilangelo,Vanvitelli,Pino Daniele;36.0
-De Sica,Sophia Loren,Gianni Morandi;34.0
-Pino Daniele,Pavarotti,Massimo Troisi;36.0
-Donatello,Dario Argento,Gianni Morandi;34.0
-Dante,Vittorio Gassman,Pavarotti;36.5
-Raffaello,Laura Pausini,Regina Margherita;30.0
-Gianni Morandi,Laura Pausini,Massimo Troisi;32.5
-Raffaello,Laura Pausini,Pavarotti;33.0
-Regina Margherita,Donatello,Laura Pausini;31.5
-Marcello Mastroianni,De Sica;20.0
-Pino Daniele,Alberto Sordi,Vesuvio;34.5
-Toto,Toto,Raffaello;34.5
-Gianni Morandi,Boticelli,De Sica;30.5
-Pavarotti,Sophia Loren,Vanvitelli;36.0
-Alberto Sordi,Vesuvio,Pavarotti;34.0
-Gigi D'Allesio,Vanvitelli;22.0
-Alberto Sordi,Boticelli,Boticelli;27.0
-Marcello Mastroianni,Alberto Sordi,Dante;32.5
-Federico Fellini,Boticelli,Gigi D'Allesio;31.5
-Alberto Sordi,Raffaello,Dario Argento;30.5
-Pino Daniele,Boticelli,Michilangelo;33.0
-Regina Margherita,Vanvitelli,Gigi D'Allesio;31.5
-Raffaello,De Sica,Donatello;32.5
-Gigi D'Allesio,Boticelli,Gianni Morandi;31.0
-Boticelli,Pino Daniele,De Sica;31.5
-Raffaello,Vittorio Gassman,Sophia Loren;34.0
-Alberto Sordi,Gianni Morandi,Dario Argento;32.0
-Dante,Laura Pausini,Vittorio Gassman;34.0
-Vanvitelli,Marcello Mastroianni,Regina Margherita;31.0
-Pino Daniele,Toto,Sophia Loren;37.0
-De Sica,Gigi D'Allesio,Laura Pausini;30.5
-Alberto Sordi,Vanvitelli,Sophia Loren;33.5
-Massimo Troisi,Pino Daniele,Alberto Sordi;33.5
-Boticelli,Pavarotti;21.0
-Sophia Loren,Rafaella,Alberto Sordi;34.5
-Sophia Loren,Dante,Donatello;36.5
-Michilangelo,Toto,Rafaella;36.0
-Raffaello,Dario Argento,Dario Argento;30.5
-Vittorio Gassman,Vittorio Gassman,Vittorio Gassman;34.5
-Federico Fellini,Gianni Morandi,Massimo Troisi;35.0
-De Sica,Massimo Troisi,Gianni Morandi;32.5
-Gigi D'Allesio,Federico Fellini;23.0
-Regina Margherita,Pino Daniele;22.5
-Boticelli,Marcello Mastroianni,Vanvitelli;30.0
-Raffaello,Federico Fellini,Boticelli;31.5
-Vesuvio,Sophia Loren,Vanvitelli;35.0
-Alberto Sordi,Vanvitelli,Vittorio Gassman;33.0
-De Sica,Vittorio Gassman,Gianni Morandi;33.5
-Marcello Mastroianni,De Sica;20.0
-Pino Daniele,Donatello,Donatello;37.0
-Federico Fellini,Michilangelo,Dante;36.5
-Pavarotti,Vanvitelli,Michilangelo;35.5
-Vittorio Gassman,Donatello,Vesuvio;35.0
-Marcello Mastroianni,Alberto Sordi,Rafaella;32.5
-Gianni Morandi,Vanvitelli,Massimo Troisi;34.0
-Dario Argento,Laura Pausini,Dario Argento;30.0
-Massimo Troisi,Dante,Sophia Loren;35.0
-Michilangelo,Federico Fellini,Gianni Morandi;36.0
-Raffaello,Pavarotti,Gianni Morandi;35.0
-Regina Margherita,Marcello Mastroianni,Massimo Troisi;30.0
-Gigi D'Allesio,Dante,Sophia Loren;35.0
-Gianni Morandi,Marcello Mastroianni,Rafaella;34.5
-Mario Merola,Vittorio Gassman,Mario Merola;27.5
-Massimo Troisi,Regina Margherita,Dario Argento;30.0
-Regina Margherita,Gigi D'Allesio,Pino Daniele;33.0
-Mario Merola,Vanvitelli;19.5
-Federico Fellini,Gigi D'Allesio,Rafaella;35.5
-Gianni Morandi,Donatello,Sophia Loren;36.0
-Alberto Sordi,Pavarotti,Pino Daniele;35.5
-Alberto Sordi,Regina Margherita,Boticelli;28.0
-Raffaello,Massimo Troisi,Donatello;33.0
-Massimo Troisi,Federico Fellini,Dante;35.5
-Federico Fellini,Boticelli,Dario Argento;31.0
-Vittorio Gassman,Pavarotti;24.0
-Federico Fellini,Regina Margherita,Pino Daniele;35.0
-Gianni Morandi,Mario Merola,Sophia Loren;32.0
-Donatello,Michilangelo,Gianni Morandi;35.5
-Regina Margherita,Rafaella,Pino Daniele;35.0
-Regina Margherita,Pino Daniele,Massimo Troisi;33.0
-Mario Merola,Vittorio Gassman,Dante;32.0
-Federico Fellini,Toto,Boticelli;33.0
-Gigi D'Allesio,Marcello Mastroianni,Pino Daniele;33.5
-Raffaello,Mario Merola,Pavarotti;31.0
-Mario Merola,Michilangelo,Mario Merola;27.5
-Dario Argento,Marcello Mastroianni,Dante;32.5
-Vanvitelli,Dario Argento,Alberto Sordi;31.5
-Sophia Loren,Vittorio Gassman,Pino Daniele;36.5
-Michilangelo,Michilangelo,Alberto Sordi;33.0
-Rafaella,Federico Fellini,Marcello Mastroianni;35.0
-Michilangelo,Michilangelo,Marcello Mastroianni;33.0
-Donatello,Federico Fellini,Alberto Sordi;34.5
-Michilangelo,Pino Daniele,Sophia Loren;36.5
-Toto,Rafaella,Michilangelo;36.0
-Marcello Mastroianni,Boticelli,Vanvitelli;30.0
-Pavarotti,Toto,Massimo Troisi;35.0
-Alberto Sordi,Dante,Massimo Troisi;33.0
-De Sica,Vanvitelli,Donatello;33.5
-Boticelli,Rafaella,Vittorio Gassman;32.5
-Michilangelo,Dante,Vanvitelli;35.5
-Federico Fellini,Toto,Marcello Mastroianni;34.5
-Massimo Troisi,Pino Daniele,Rafaella;36.0
-Massimo Troisi,Raffaello,Marcello Mastroianni;31.0
-Vesuvio,Vittorio Gassman,De Sica;33.0
-Federico Fellini,Pavarotti,Dante;37.5
-Dario Argento,Federico Fellini,Dario Argento;32.5
-Massimo Troisi,Raffaello,Marcello Mastroianni;31.0
-Massimo Troisi,Raffaello,Boticelli;29.5
-Rafaella,Federico Fellini;25.0
-Dario Argento,Pino Daniele,Vesuvio;34.5
-Alberto Sordi,Boticelli,Raffaello;29.0
-Dante,Laura Pausini;22.5
-Mario Merola,Raffaello,Vesuvio;30.0
-Pavarotti,Federico Fellini,Regina Margherita;34.5
-Raffaello,Massimo Troisi,Alberto Sordi;31.0
-Regina Margherita,Sophia Loren,Vittorio Gassman;33.0
-Massimo Troisi,Vesuvio,Massimo Troisi;32.5
-Pavarotti,Rafaella,Regina Margherita;34.5
-Boticelli,Toto,Vesuvio;32.0
-Pino Daniele,Gigi D'Allesio,Massimo Troisi;34.0
-Pavarotti,Regina Margherita,Vittorio Gassman;33.5
-Sophia Loren,Pino Daniele,Laura Pausini;35.0
-Rafaella,Regina Margherita,Federico Fellini;34.5
-Vanvitelli,Dante,Gianni Morandi;36.0
-Dario Argento,Alberto Sordi,Raffaello;30.5
-Mario Merola,Raffaello,Raffaello;29.0
-Laura Pausini,Massimo Troisi,Pino Daniele;33.5
-Alberto Sordi,Gianni Morandi,Gianni Morandi;34.0
-Gigi D'Allesio,Vanvitelli,Mario Merola;30.0
-Rafaella,De Sica,Sophia Loren;34.5
-Dario Argento,Federico Fellini,Mario Merola;30.5
-Boticelli,Marcello Mastroianni,Massimo Troisi;29.0
-Rafaella,Donatello,Boticelli;33.0
-Sophia Loren,Dario Argento,Vittorio Gassman;33.5
-Regina Margherita,Alberto Sordi,Mario Merola;27.5
-Dario Argento,Pino Daniele,Dario Argento;33.0
-Gigi D'Allesio,Marcello Mastroianni,Pavarotti;33.0
-Pino Daniele,Gigi D'Allesio,Laura Pausini;33.5
-De Sica,Raffaello,Pavarotti;33.0
-Sophia Loren,Rafaella,Pino Daniele;37.5
-Vesuvio,Regina Margherita,Federico Fellini;33.5
-Vittorio Gassman,De Sica,Toto;33.5
-Pino Daniele,Laura Pausini,Vesuvio;34.5
-Sophia Loren,Boticelli,Raffaello;31.0
-Raffaello,Raffaello,Regina Margherita;30.5
-Vanvitelli,Dario Argento,Dario Argento;31.5
-Federico Fellini,Dante,De Sica;35.0
-Pino Daniele,Raffaello,Michilangelo;35.0
-Marcello Mastroianni,Laura Pausini,Boticelli;28.5
-Vesuvio,Sophia Loren,Pavarotti;36.0
-Laura Pausini,Mario Merola,Sophia Loren;30.0
-Toto,Vittorio Gassman,Donatello;35.5
-Michilangelo,Donatello,Vesuvio;35.0
-Michilangelo,Michilangelo,De Sica;33.0
-Boticelli,Dante,Gianni Morandi;33.0
+Boticelli,Rafaella,Rafaella;33.5
+Laura Pausini,Michilangelo,Laura Pausini;31.5
+Dante,Michilangelo,Massimo Troisi;34.5
+Dario Argento,Mario Merola,De Sica;28.0
+Sophia Loren,Raffaello,Toto;34.5
+Michilangelo,Federico Fellini;24.0
+Sophia Loren,Marcello Mastroianni,Rafaella;34.5
+Raffaello,Michilangelo,Michilangelo;33.5
+Gigi D'Allesio,Donatello,Rafaella;35.0
+Mario Merola,Gianni Morandi,Gigi D'Allesio;30.5
+Raffaello,Dario Argento,Gianni Morandi;32.5
+Mario Merola,Pino Daniele,Alberto Sordi;31.0
+Vesuvio,Regina Margherita,Michilangelo;32.5
+Rafaella,Mario Merola,Regina Margherita;30.0
+Mario Merola,Gianni Morandi,Massimo Troisi;30.5
+Marcello Mastroianni,De Sica,Rafaella;32.5
+Massimo Troisi,Dante,Toto;35.0
+Marcello Mastroianni,Dario Argento,Michilangelo;31.5
+Pino Daniele,Pino Daniele,Donatello;38.0
+Dante,Dario Argento,Pavarotti;35.0
+Alberto Sordi,Raffaello,Regina Margherita;30.0
+Rafaella,Marcello Mastroianni,Pino Daniele;35.5
+Donatello,Alberto Sordi,Gianni Morandi;34.0
+Marcello Mastroianni,Pavarotti,Pavarotti;35.0
+Dario Argento,Toto,Massimo Troisi;32.5
+Massimo Troisi,Michilangelo,Vesuvio;33.5
 De Sica,Raffaello,Dario Argento;30.5
-Dante,Toto,Laura Pausini;34.5
-Michilangelo,Vanvitelli,De Sica;33.0
-Dante;12.5
-Gianni Morandi,Dario Argento,Donatello;34.0
-Federico Fellini,Boticelli;21.0
-Michilangelo,Sophia Loren,Raffaello;34.0
-Raffaello,Sophia Loren,Sophia Loren;34.5
-Gigi D'Allesio,Vittorio Gassman,Vanvitelli;33.5
-Massimo Troisi,Gigi D'Allesio,Marcello Mastroianni;31.0
-Marcello Mastroianni,Toto,Pino Daniele;35.0
-Laura Pausini,Sophia Loren,Donatello;34.0
-Vesuvio,Sophia Loren,Massimo Troisi;34.0
-De Sica,Massimo Troisi,Laura Pausini;30.5
-Gigi D'Allesio,Vanvitelli,Dante;34.5
-Pavarotti,Regina Margherita,Dante;34.5
-Sophia Loren,Raffaello,Vanvitelli;34.0
-Donatello,Raffaello,Alberto Sordi;32.5
-Sophia Loren,Massimo Troisi,Michilangelo;34.0
-Gigi D'Allesio,Toto,Rafaella;35.0
-Regina Margherita,Pino Daniele,Raffaello;33.0
-Sophia Loren,Raffaello,Massimo Troisi;33.0
-Federico Fellini,Toto,Marcello Mastroianni;34.5
-Gigi D'Allesio,Mario Merola;18.5
-Vanvitelli,Laura Pausini,De Sica;31.5
-Vanvitelli,Dante,Dante;36.5
-Donatello,Pino Daniele,Pavarotti;37.5
-Donatello,Vittorio Gassman,Mario Merola;31.5
-Gianni Morandi,Pavarotti,Toto;36.5
-Marcello Mastroianni,Gianni Morandi,De Sica;32.0
-Vanvitelli,Gianni Morandi,Dario Argento;33.5
-Vittorio Gassman,Toto,Dario Argento;33.5
-Pavarotti,Marcello Mastroianni,Dante;35.0
-Dario Argento,Vittorio Gassman;21.5
-Raffaello,Dante,Vanvitelli;34.5
-Laura Pausini,Pavarotti,Dante;35.0
-Gigi D'Allesio,Pavarotti,Pino Daniele;36.0
-Laura Pausini,Raffaello;20.5
-Donatello,Regina Margherita,Pavarotti;34.0
-Dario Argento,Dario Argento,Sophia Loren;32.0
-Mario Merola,Rafaella,De Sica;30.5
-Massimo Troisi,Boticelli;19.0
-Rafaella,Laura Pausini,Pino Daniele;35.5
-Gigi D'Allesio,Michilangelo,Rafaella;34.5
-Vittorio Gassman,Marcello Mastroianni;21.5
-Toto,Raffaello,Michilangelo;34.0
-Massimo Troisi,Sophia Loren,Gianni Morandi;34.5
-Pavarotti,Sophia Loren,Sophia Loren;36.5
-Boticelli,Michilangelo,Mario Merola;28.0
-Regina Margherita,Vanvitelli,Raffaello;31.5
-Gigi D'Allesio,Marcello Mastroianni,Boticelli;29.0
-Vittorio Gassman,Raffaello,Dario Argento;32.0
-De Sica,Gianni Morandi;22.0
-Dario Argento,Gianni Morandi,Federico Fellini;34.5
-Mario Merola,Laura Pausini,Gigi D'Allesio;28.5
-Dante,De Sica,Alberto Sordi;32.5
-Dante,Rafaella,Massimo Troisi;35.5
-Dario Argento,Vanvitelli;21.5
-Toto,Toto,Vesuvio;35.5
-De Sica,Vanvitelli;21.5
-Raffaello,Regina Margherita,Vittorio Gassman;31.5
-Laura Pausini,De Sica,Mario Merola;28.0
-Dario Argento,Vittorio Gassman,Mario Merola;29.5
-Regina Margherita,Raffaello,De Sica;30.0
-Gianni Morandi,Alberto Sordi,Michilangelo;33.5
-Regina Margherita,Toto,Gigi D'Allesio;32.0
-Toto,Dante,Laura Pausini;34.5
-Raffaello,Regina Margherita,Boticelli;28.5
-Dante,Boticelli,Marcello Mastroianni;31.0
-Laura Pausini,Laura Pausini,Gianni Morandi;32.0
-Sophia Loren,Alberto Sordi,Pino Daniele;35.0
-Donatello,Gigi D'Allesio,Vesuvio;34.0
-Sophia Loren,Dario Argento,Laura Pausini;32.0
-Boticelli,Dante,Raffaello;31.5
-Pino Daniele,Toto,Federico Fellini;37.5
-Dario Argento,Laura Pausini,Vesuvio;31.5
-Dario Argento,De Sica;20.0
-Pavarotti,Vittorio Gassman,Pino Daniele;37.0
-Toto,Sophia Loren,Toto;36.0
-Marcello Mastroianni,Vanvitelli,Donatello;33.5
-Pino Daniele,Rafaella;25.5
-Pavarotti,Donatello,De Sica;34.5
-Rafaella,Mario Merola,Pavarotti;33.0
-Alberto Sordi,Dario Argento,Michilangelo;31.5
-Alberto Sordi,Laura Pausini,Dario Argento;30.0
-Alberto Sordi,Dante,Laura Pausini;32.5
-Regina Margherita,Sophia Loren,Pavarotti;34.0
-Vittorio Gassman,Alberto Sordi,De Sica;31.5
-Pino Daniele,Federico Fellini,Gigi D'Allesio;36.0
-Pavarotti,Mario Merola,Gigi D'Allesio;31.0
-Gianni Morandi,Vanvitelli,Federico Fellini;36.0
-De Sica,Gianni Morandi,Gigi D'Allesio;32.5
-Dante,Donatello,De Sica;34.5
-Pino Daniele,Toto;25.0
-Gianni Morandi,Raffaello,Donatello;34.5
-Mario Merola,Massimo Troisi,Alberto Sordi;28.5
-Laura Pausini,Gianni Morandi,Pavarotti;34.5
-Pavarotti,Raffaello,Vittorio Gassman;34.5
-Vesuvio,Marcello Mastroianni,Pavarotti;34.0
-Raffaello,Gigi D'Allesio;21.0
-Sophia Loren,Gigi D'Allesio,Rafaella;35.0
-Raffaello,Laura Pausini,Toto;32.5
-Alberto Sordi,Vesuvio,Sophia Loren;33.5
-Boticelli,Regina Margherita;18.0
-Mario Merola,Toto,Dante;32.5
-Dante,Vanvitelli,Sophia Loren;36.0
-Gigi D'Allesio,Pino Daniele,Massimo Troisi;34.0
-Pino Daniele,De Sica,Raffaello;33.5
-Mario Merola,De Sica,Alberto Sordi;28.0
-Alberto Sordi,Toto,De Sica;32.0
-Federico Fellini,Rafaella,Alberto Sordi;35.0
-Dario Argento,Vesuvio,Vittorio Gassman;33.0
-Vesuvio,De Sica,Michilangelo;33.0
-Vesuvio,Dante;24.0
-Vesuvio,Gianni Morandi,De Sica;33.5
-Raffaello,Alberto Sordi,Michilangelo;32.0
-Mario Merola,Mario Merola,Toto;28.0
-Marcello Mastroianni,Vesuvio,Marcello Mastroianni;31.5
-Alberto Sordi,Laura Pausini,Marcello Mastroianni;30.0
-Alberto Sordi,Vanvitelli,Dario Argento;31.5
-Massimo Troisi,Donatello,Federico Fellini;35.0
-Donatello,Michilangelo,Vittorio Gassman;35.0
-Laura Pausini,Dante,Boticelli;31.0
-Gianni Morandi,Dario Argento,Laura Pausini;32.0
-Gianni Morandi,Marcello Mastroianni,Gigi D'Allesio;32.5
-Mario Merola,Sophia Loren,De Sica;30.0
-Raffaello,Vanvitelli,Vanvitelli;33.5
-Dante,Gigi D'Allesio,Laura Pausini;33.0
-Marcello Mastroianni,Boticelli,Donatello;30.5
-Dario Argento,Pino Daniele;23.0
-Sophia Loren,Toto,Regina Margherita;33.5
-Vittorio Gassman,Alberto Sordi,Massimo Troisi;32.0
-Alberto Sordi,Boticelli,Raffaello;29.0
-Dante,Vanvitelli,Marcello Mastroianni;34.0
-Rafaella,Michilangelo,Rafaella;36.5
-Mario Merola,Gigi D'Allesio,Boticelli;27.0
-Raffaello,Dante,Boticelli;31.5
-Massimo Troisi,Massimo Troisi,Sophia Loren;33.0
-Sophia Loren,Michilangelo,Toto;35.5
-Alberto Sordi,Dante;22.5
-Vanvitelli,Massimo Troisi,Vesuvio;33.5
-Vanvitelli,Federico Fellini,Dante;36.5
-Dario Argento,Federico Fellini,Regina Margherita;32.0
-Vanvitelli,Marcello Mastroianni,Pino Daniele;34.5
-Toto,Regina Margherita,Massimo Troisi;32.0
-Sophia Loren,De Sica,Massimo Troisi;32.5
-Toto,Gigi D'Allesio;22.5
-Gianni Morandi,Marcello Mastroianni,Laura Pausini;32.0
-Gigi D'Allesio,Federico Fellini,Gianni Morandi;35.0
-Vittorio Gassman,Dario Argento,Laura Pausini;31.5
-Raffaello,Vittorio Gassman,Dante;34.5
-Donatello,Federico Fellini,Vanvitelli;36.0
-Mario Merola,Donatello,De Sica;30.0
-Dante,Pino Daniele,Dante;38.0
-Dario Argento,Laura Pausini,Pino Daniele;33.0
-Regina Margherita,Regina Margherita,Regina Margherita;28.5
-Michilangelo,Vittorio Gassman,Dante;35.5
-Vesuvio,Toto,Pino Daniele;36.5
-Vittorio Gassman,Toto,Regina Margherita;33.0
-Gigi D'Allesio,Alberto Sordi,Sophia Loren;32.5
-Dario Argento,Raffaello,Boticelli;29.0
-De Sica,Massimo Troisi,Sophia Loren;32.5
-Dario Argento,Michilangelo;21.5
-De Sica,Vesuvio,Marcello Mastroianni;31.5
-Pavarotti,Massimo Troisi,Michilangelo;34.5
-Massimo Troisi,Marcello Mastroianni,Dario Argento;30.5
-Toto,Regina Margherita,Gianni Morandi;33.5
-Vanvitelli,Laura Pausini,Boticelli;30.0
-Vanvitelli,Gigi D'Allesio,Michilangelo;33.5
-Pavarotti,Michilangelo;24.0
-De Sica,Vesuvio,Toto;33.5
-Gianni Morandi,Dario Argento,Regina Margherita;31.5
-Pino Daniele;13.0
-Sophia Loren,Rafaella,Dario Argento;34.5
-Pavarotti,Alberto Sordi,Michilangelo;34.0
-Gianni Morandi,Donatello,Boticelli;32.5
-Marcello Mastroianni,Toto,Dario Argento;32.0
-Alberto Sordi,Raffaello;20.5
-Massimo Troisi,Marcello Mastroianni,Boticelli;29.0
-Vittorio Gassman,Federico Fellini,Marcello Mastroianni;34.0
-Toto,Raffaello,Massimo Troisi;33.0
-Dante,Donatello;24.5
-Vittorio Gassman,Vesuvio,Mario Merola;31.0
-Pavarotti,Federico Fellini,Massimo Troisi;35.5
-Dario Argento,Dante,Boticelli;31.0
-Marcello Mastroianni,Regina Margherita,Dante;32.0
-Vittorio Gassman,Boticelli,Dante;32.5
-Pavarotti,Gigi D'Allesio,Mario Merola;31.0
-Gianni Morandi,Sophia Loren,Gianni Morandi;36.0
-Rafaella,Mario Merola,Raffaello;31.0
-Michilangelo,Vanvitelli;23.0
-Vanvitelli,Vesuvio,Pino Daniele;36.0
-Laura Pausini,Mario Merola,Michilangelo;29.5
-Mario Merola,Vesuvio,Toto;31.5
-Marcello Mastroianni,Alberto Sordi,De Sica;30.0
-Raffaello,Regina Margherita,Alberto Sordi;30.0
-Rafaella,Sophia Loren,Alberto Sordi;34.5
-Pino Daniele,Dante,Pavarotti;38.0
-Laura Pausini,Massimo Troisi,Vesuvio;32.0
-Vanvitelli,Federico Fellini,Dante;36.5
-Sophia Loren,Regina Margherita;21.5
-Mario Merola,Sophia Loren,Michilangelo;31.5
-Alberto Sordi,Rafaella,Mario Merola;30.5
-Pavarotti,Sophia Loren,Pavarotti;37.0
-Dario Argento,Sophia Loren,Dante;34.5
-Vesuvio,Raffaello,Dante;34.5
-Rafaella,Raffaello,Pavarotti;35.5
-Pavarotti,Federico Fellini,De Sica;35.0
-Boticelli,Marcello Mastroianni,Massimo Troisi;29.0
-Vanvitelli,Alberto Sordi,Boticelli;30.0
-Dario Argento,Dario Argento,Toto;32.0
-Boticelli,Donatello,Dante;33.0
-Laura Pausini,De Sica,Dante;32.5
-Rafaella,Donatello,Pavarotti;37.0
-Donatello,Sophia Loren,Dante;36.5
-Raffaello,De Sica,Pavarotti;33.0
-Toto,Pino Daniele,Marcello Mastroianni;35.0
-Dante,Vesuvio,Vittorio Gassman;35.5
-Gigi D'Allesio,De Sica,Dante;33.0
-Pino Daniele,Boticelli,Dario Argento;31.5
-Vanvitelli,Mario Merola,Pavarotti;32.0
-Toto,Sophia Loren,Pino Daniele;37.0
-Dante,De Sica,Alberto Sordi;32.5
-Gigi D'Allesio,Alberto Sordi,Vanvitelli;32.0
-Raffaello,Boticelli,Dante;31.5
-Gianni Morandi,Raffaello,Sophia Loren;34.5
-Alberto Sordi,Marcello Mastroianni,Regina Margherita;29.5
-De Sica,Toto;22.0
-Alberto Sordi,Boticelli,Rafaella;31.0
-Pino Daniele,Gianni Morandi,Pino Daniele;38.0
-Massimo Troisi,Vanvitelli,Boticelli;30.5
-Gianni Morandi,Boticelli,Mario Merola;28.5
-Vanvitelli,Vanvitelli,Gianni Morandi;35.0
-Marcello Mastroianni,Pino Daniele,Michilangelo;34.5
-Massimo Troisi,Vittorio Gassman,Toto;34.0
-De Sica,Vesuvio,Massimo Troisi;32.0
-Vanvitelli,Rafaella,Toto;36.0
-Alberto Sordi,Toto,Gigi D'Allesio;32.5
-Alberto Sordi,Rafaella;22.5
-Vanvitelli,De Sica,Michilangelo;33.0
-Toto,Sophia Loren,Regina Margherita;33.5
-Toto,Massimo Troisi,Laura Pausini;32.5
-Gianni Morandi,Vittorio Gassman,Laura Pausini;33.5
-Donatello,Federico Fellini,Rafaella;37.0
-Vittorio Gassman,Boticelli,Pino Daniele;33.0
-Pavarotti,Regina Margherita;22.0
-Dante,Massimo Troisi,Vittorio Gassman;34.5
-Federico Fellini,Toto;24.5
-Michilangelo,Pino Daniele,Mario Merola;32.5
-De Sica,Regina Margherita,Massimo Troisi;30.0
-Raffaello,Pino Daniele,Dario Argento;33.5
-Alberto Sordi,Boticelli,Federico Fellini;31.0
-De Sica,Toto,Michilangelo;33.5
-Raffaello,Raffaello,Sophia Loren;33.0
-Sophia Loren,De Sica,Regina Margherita;31.5
-Sophia Loren,Michilangelo,De Sica;33.5
-Michilangelo,Raffaello,Gianni Morandi;34.0
-Laura Pausini,Vesuvio,Pino Daniele;34.5
-Donatello,Massimo Troisi,Michilangelo;34.0
-Vanvitelli,Boticelli,De Sica;30.0
-Federico Fellini,Massimo Troisi,Marcello Mastroianni;33.0
-Rafaella,Regina Margherita,Marcello Mastroianni;32.0
-Boticelli,Pavarotti,Regina Margherita;30.5
-Dante,Vesuvio,Vittorio Gassman;35.5
-Dante,Federico Fellini,De Sica;35.0
-Gigi D'Allesio,Sophia Loren,Michilangelo;34.0
-Raffaello,Vittorio Gassman;22.0
-Massimo Troisi,Vittorio Gassman,Dario Argento;32.0
-Vesuvio,Laura Pausini,Toto;33.5
-Vittorio Gassman,Donatello,Michilangelo;35.0
-Federico Fellini,Vittorio Gassman,Alberto Sordi;34.0
-Vittorio Gassman,Toto,Pino Daniele;36.5
-Sophia Loren,Federico Fellini,Toto;36.5
-Vesuvio,Gigi D'Allesio,Massimo Troisi;32.5
-Vanvitelli,Vanvitelli;23.0
-Dante,Rafaella,Raffaello;35.5
-Vanvitelli,Vesuvio,Dario Argento;33.0
-Mario Merola,Massimo Troisi,Boticelli;27.0
-Regina Margherita,Dario Argento,Alberto Sordi;29.5
-Donatello,Regina Margherita;21.5
-Laura Pausini,Laura Pausini;20.0
-Gigi D'Allesio,Rafaella,Vesuvio;34.5
-Boticelli,Massimo Troisi,Rafaella;31.5
-Dante,Federico Fellini,Vanvitelli;36.5
-De Sica,Pavarotti,Sophia Loren;34.5
-Raffaello,Gianni Morandi,Laura Pausini;32.5
-Rafaella,Dante,Dario Argento;35.0
-Dario Argento,Mario Merola,Donatello;30.0
-Vesuvio,Pino Daniele,Boticelli;33.0
+Vittorio Gassman,Michilangelo,Sophia Loren;35.0
+Michilangelo,Regina Margherita,Boticelli;29.5
+Federico Fellini,Federico Fellini,Michilangelo;36.5
+Vanvitelli,Pino Daniele,Sophia Loren;36.5
+Massimo Troisi,Pino Daniele;23.5
+Raffaello,Michilangelo,Alberto Sordi;32.0
+Mario Merola,Marcello Mastroianni,Laura Pausini;28.0
+Alberto Sordi,Marcello Mastroianni,Vesuvio;31.5
+Sophia Loren,Dario Argento,Sophia Loren;34.0
 Vanvitelli,Toto,Dario Argento;33.5
-Rafaella,Donatello;24.5
-Vittorio Gassman,Boticelli,Pino Daniele;33.0
-Vesuvio,Toto,Vesuvio;35.0
-Vanvitelli,Donatello,Pavarotti;36.0
-Raffaello,Alberto Sordi,Regina Margherita;30.0
-Vittorio Gassman,Toto,Regina Margherita;33.0
-Dante,Mario Merola,Regina Margherita;30.0
-Rafaella,Pino Daniele,Mario Merola;33.5
-Michilangelo,Dario Argento,Michilangelo;33.0
-Laura Pausini,Dante,Pino Daniele;35.5
-Vanvitelli,Gianni Morandi,Donatello;35.5
-Sophia Loren,Vittorio Gassman,Regina Margherita;33.0
-Federico Fellini,Vittorio Gassman,Vesuvio;35.5
-Toto,Dante,Dante;37.0
-Rafaella,Sophia Loren,Raffaello;35.0
-Mario Merola,Dario Argento,Regina Margherita;27.5
-Gianni Morandi,Michilangelo,Regina Margherita;33.0
-Rafaella,Donatello;24.5
-Boticelli,Laura Pausini,Rafaella;31.0
-Toto,Vanvitelli;23.5
-Marcello Mastroianni,Raffaello,Federico Fellini;33.0
-Laura Pausini,Alberto Sordi,Federico Fellini;32.5
-Toto,Regina Margherita,Dante;34.0
-Toto,Gianni Morandi,Pavarotti;36.5
-Donatello,Pavarotti,Laura Pausini;34.5
-Gianni Morandi,Michilangelo,Raffaello;34.0
-Gigi D'Allesio,Vittorio Gassman,Vittorio Gassman;33.5
-Pino Daniele,Alberto Sordi,Vanvitelli;34.5
-Laura Pausini,Dario Argento;20.0
-Gigi D'Allesio,Michilangelo,Boticelli;30.5
-Marcello Mastroianni,Regina Margherita,Boticelli;28.0
-Vittorio Gassman,Alberto Sordi,Donatello;33.5
-Rafaella,Pavarotti,Mario Merola;33.0
-Rafaella,Alberto Sordi,Rafaella;35.0
-Sophia Loren,Laura Pausini,De Sica;32.0
-Vesuvio,De Sica,Gigi D'Allesio;32.0
-Pavarotti,Vanvitelli,Boticelli;32.5
-Donatello,Pino Daniele,Gianni Morandi;37.0
-Boticelli,Dario Argento;18.5
-Marcello Mastroianni,Vanvitelli,Toto;33.5
-De Sica,Pavarotti;22.5
-Vesuvio,Rafaella,Vesuvio;35.5
-Mario Merola,Toto,Toto;32.0
-Vanvitelli,Massimo Troisi;22.0
-Sophia Loren,Federico Fellini,De Sica;34.5
-Pino Daniele,Pino Daniele,Pino Daniele;39.0
-Vesuvio,Sophia Loren,Sophia Loren;35.5
-Massimo Troisi,Dario Argento,Raffaello;31.0
-Laura Pausini,Mario Merola,Vittorio Gassman;29.5
-Dario Argento,Toto,Donatello;34.0
-Boticelli,Vesuvio,Rafaella;32.5
-Boticelli,Laura Pausini,Dante;31.0
-Rafaella,De Sica,Dario Argento;32.5
-Alberto Sordi,Toto,Gigi D'Allesio;32.5
-Dario Argento,Raffaello,Vanvitelli;32.0
-Vanvitelli,Federico Fellini,Mario Merola;32.0
-Laura Pausini,Sophia Loren,Pavarotti;34.5
-Marcello Mastroianni,Donatello,Vesuvio;33.5
-Toto,Pino Daniele,Regina Margherita;34.5
-Vanvitelli,Laura Pausini,Federico Fellini;34.0
-Pavarotti,Pavarotti,Boticelli;33.5
-Toto,Vesuvio,Pino Daniele;36.5
-Pino Daniele,Marcello Mastroianni,Pino Daniele;36.0
-Raffaello,Gianni Morandi,Vittorio Gassman;34.0
-Vittorio Gassman,Sophia Loren,Pavarotti;36.0
-Rafaella,Vittorio Gassman,Toto;36.0
-Pino Daniele,Massimo Troisi,Mario Merola;31.5
-Federico Fellini,Pavarotti,Pavarotti;37.5
-Dario Argento,Michilangelo;21.5
-Raffaello,Michilangelo;22.0
-Vanvitelli,De Sica,Toto;33.5
-Vanvitelli,Michilangelo,Laura Pausini;33.0
-Gianni Morandi,Vesuvio,Toto;35.5
-Raffaello,Pino Daniele;23.5
-Federico Fellini,Pavarotti,Mario Merola;33.0
-Dario Argento,Rafaella,Laura Pausini;32.5
-Dario Argento,Dario Argento;20.0
-Gianni Morandi,Donatello,Sophia Loren;36.0
-Gigi D'Allesio,Michilangelo,Raffaello;32.5
-Toto,De Sica,Federico Fellini;34.5
-Raffaello,Donatello,Vanvitelli;34.0
-Mario Merola,Michilangelo,Gigi D'Allesio;30.0
-Mario Merola,Gigi D'Allesio,Toto;30.5
-Rafaella,Federico Fellini,Donatello;37.0
-Vesuvio,Gianni Morandi,Vesuvio;35.0
-Donatello,Toto,Federico Fellini;36.5
-Gianni Morandi,Pavarotti,Sophia Loren;36.5
-Alberto Sordi,Gigi D'Allesio,Marcello Mastroianni;30.5
-Michilangelo,Mario Merola;19.5
-Rafaella,Raffaello;23.0
-Vesuvio,Raffaello,Federico Fellini;34.5
-Mario Merola,Massimo Troisi,Dante;31.0
-Michilangelo,Regina Margherita,Dario Argento;31.0
-Donatello,Regina Margherita,Dante;34.0
-Pavarotti,De Sica,Sophia Loren;34.5
-Laura Pausini,Mario Merola,Toto;30.0
-De Sica,Massimo Troisi;20.5
-Dante,Alberto Sordi,Federico Fellini;35.0
-Regina Margherita,Michilangelo,Gigi D'Allesio;31.5
-Toto,Raffaello,Michilangelo;34.0
-Mario Merola,Vesuvio,Alberto Sordi;29.5
-Michilangelo,Massimo Troisi;22.0
-Boticelli,Dante;21.0
-De Sica,Pino Daniele;23.0
-Gianni Morandi,Laura Pausini,Marcello Mastroianni;32.0
-Vittorio Gassman,Vittorio Gassman,Laura Pausini;33.0
-De Sica,Michilangelo,Gigi D'Allesio;32.0
-Dante,Alberto Sordi,Vittorio Gassman;34.0
-Alberto Sordi,Raffaello,Dante;33.0
-Laura Pausini,Federico Fellini;22.5
-Dante,Gianni Morandi,Regina Margherita;34.0
-Sophia Loren,Donatello,Michilangelo;35.5
-Donatello,Boticelli,Donatello;32.5
-Gigi D'Allesio,Donatello,Massimo Troisi;33.0
-Massimo Troisi,Toto,Sophia Loren;34.5
-Dante,Laura Pausini,Pino Daniele;35.5
-Mario Merola,Raffaello,Raffaello;29.0
-Raffaello,Massimo Troisi,Boticelli;29.5
-Dario Argento,Dante,Vittorio Gassman;34.0
-Sophia Loren,Dario Argento,Vanvitelli;33.5
-Laura Pausini,De Sica,Massimo Troisi;30.5
-Vittorio Gassman,Raffaello,Federico Fellini;34.5
-Sophia Loren,Vesuvio,Marcello Mastroianni;33.5
-Dante,Sophia Loren,Dario Argento;34.5
-Sophia Loren,Dante;24.5
-Massimo Troisi,Marcello Mastroianni,De Sica;30.5
-Vittorio Gassman,Vesuvio;23.0
-Raffaello,Vittorio Gassman,Massimo Troisi;32.5
-Dante,Donatello,De Sica;34.5
-Gigi D'Allesio,Gianni Morandi,Federico Fellini;35.0
-Michilangelo,Federico Fellini,Raffaello;34.5
-Laura Pausini,Raffaello,Mario Merola;28.5
-Regina Margherita,Alberto Sordi;19.5
-De Sica,Dante,Gianni Morandi;34.5
-Vesuvio,Vesuvio,Donatello;35.0
-Marcello Mastroianni,Vesuvio,Boticelli;30.0
-Vesuvio,Marcello Mastroianni,Laura Pausini;31.5
-Rafaella,Mario Merola;20.5
-Alberto Sordi,Regina Margherita,Boticelli;28.0
-Alberto Sordi,Raffaello,Donatello;32.5
-Michilangelo,Vesuvio,Vittorio Gassman;34.5
-Alberto Sordi,Pavarotti,Dante;35.0
-Marcello Mastroianni,Gianni Morandi,Laura Pausini;32.0
-Sophia Loren,Pavarotti,De Sica;34.5
-Mario Merola,Regina Margherita,Rafaella;30.0
-Raffaello,Dante,Federico Fellini;35.5
-Rafaella,Raffaello,Mario Merola;31.0
-Vittorio Gassman,Rafaella,Toto;36.0
-Boticelli,Raffaello,De Sica;29.0
-Vesuvio,Gianni Morandi,Alberto Sordi;33.5
-Marcello Mastroianni,Federico Fellini,Mario Merola;30.5
-De Sica,Boticelli;18.5
-Raffaello,Gigi D'Allesio,De Sica;31.0
-Vittorio Gassman,Gigi D'Allesio,Laura Pausini;32.0
-Vanvitelli,Gigi D'Allesio,Boticelli;30.5
-Raffaello,Massimo Troisi,Dario Argento;31.0
-Donatello,Raffaello;22.5
-Vanvitelli,Gianni Morandi,Donatello;35.5
-Vesuvio,Toto,Michilangelo;35.0
-Marcello Mastroianni,Gigi D'Allesio,Michilangelo;32.0
-Pavarotti,Pavarotti,Boticelli;33.5
-Toto,Regina Margherita,Vesuvio;33.0
-Toto,Raffaello,Marcello Mastroianni;32.5
+Laura Pausini,Michilangelo,Raffaello;32.0
 Dario Argento,Dario Argento,De Sica;30.0
-Michilangelo,Regina Margherita,Pino Daniele;34.0
-Raffaello,Raffaello,Alberto Sordi;31.0
-Raffaello,Rafaella,Sophia Loren;35.0
-Boticelli,Gigi D'Allesio,Dante;31.5
-Donatello,Massimo Troisi,Raffaello;33.0
-Sophia Loren,Michilangelo,De Sica;33.5
-Rafaella,Toto;24.5
-Federico Fellini,Dario Argento,Gianni Morandi;34.5
-Donatello,Laura Pausini,Michilangelo;33.5
-Dario Argento,Marcello Mastroianni,Dante;32.5
-Marcello Mastroianni,Mario Merola,De Sica;28.0
-Sophia Loren,Regina Margherita,Regina Margherita;31.0
-Dante,Marcello Mastroianni,Dario Argento;32.5
-Dante,Laura Pausini;22.5
-Dante,Gigi D'Allesio,Sophia Loren;35.0
-Federico Fellini,Rafaella,Regina Margherita;34.5
-Vittorio Gassman,Rafaella,Marcello Mastroianni;34.0
-Federico Fellini,Vesuvio,Toto;36.0
-Gianni Morandi,Donatello,Vanvitelli;35.5
-Massimo Troisi,Toto,Vesuvio;34.0
-Pino Daniele,Gigi D'Allesio,Laura Pausini;33.5
-Rafaella,Gigi D'Allesio,Vesuvio;34.5
-Boticelli,Vittorio Gassman,Sophia Loren;32.0
-Raffaello,Raffaello,Alberto Sordi;31.0
-Mario Merola,Laura Pausini,Sophia Loren;30.0
-Vanvitelli,Pavarotti,Mario Merola;32.0
-Dario Argento,Federico Fellini,Marcello Mastroianni;32.5
+Marcello Mastroianni,Massimo Troisi,Raffaello;31.0
 Vittorio Gassman,Mario Merola,Raffaello;30.0
-Vittorio Gassman,Dante;24.0
-Marcello Mastroianni,Federico Fellini,Alberto Sordi;32.5
-Regina Margherita,De Sica,Dante;32.0
-Regina Margherita,Dante,Federico Fellini;34.5
-Federico Fellini,Donatello,Vanvitelli;36.0
-Vanvitelli,Laura Pausini,Alberto Sordi;31.5
-Dario Argento,Pavarotti,Gianni Morandi;34.5
-Federico Fellini,Regina Margherita;22.0
-Toto,Donatello,Federico Fellini;36.5
-Gianni Morandi,Laura Pausini,Pavarotti;34.5
-Mario Merola,Rafaella,Gigi D'Allesio;31.0
-Toto,Michilangelo;23.5
-Vesuvio,Massimo Troisi,Mario Merola;30.0
-De Sica,Dante,Dante;35.0
+Laura Pausini,Boticelli,Laura Pausini;28.5
+Regina Margherita,Donatello,Dario Argento;31.5
+Michilangelo,Vittorio Gassman,Dario Argento;33.0
+Sophia Loren,Mario Merola,Pino Daniele;33.0
+Laura Pausini,Laura Pausini,Dario Argento;30.0
+Toto,Michilangelo,Regina Margherita;33.0
+Pino Daniele,Dario Argento,Michilangelo;34.5
+Mario Merola,Dario Argento,De Sica;28.0
+Sophia Loren,De Sica,Rafaella;34.5
+Vittorio Gassman,Dario Argento,Massimo Troisi;32.0
+Vanvitelli,Pino Daniele,Gianni Morandi;36.5
+Mario Merola,Gigi D'Allesio,Laura Pausini;28.5
+Laura Pausini,Vesuvio,Michilangelo;33.0
+Raffaello,Laura Pausini,Vittorio Gassman;32.0
+Pino Daniele,Alberto Sordi,Marcello Mastroianni;33.0
+Massimo Troisi,Marcello Mastroianni,Rafaella;33.0
+Sophia Loren,Dante,Boticelli;33.0
+Regina Margherita,Gigi D'Allesio,Vanvitelli;31.5
+Alberto Sordi,Dario Argento,Michilangelo;31.5
+Donatello,Alberto Sordi,Boticelli;30.5
+Regina Margherita,Michilangelo,Vesuvio;32.5
+Boticelli,Massimo Troisi;19.0
+Massimo Troisi,Boticelli,Donatello;31.0
+Donatello,Vittorio Gassman,Alberto Sordi;33.5
+Pavarotti,Dario Argento,Gianni Morandi;34.5
+Vanvitelli,Pavarotti,Federico Fellini;36.5
+Alberto Sordi,Alberto Sordi,Laura Pausini;30.0
+Donatello,Massimo Troisi,Pavarotti;35.0
+Vanvitelli,Michilangelo,Federico Fellini;35.5
+Pavarotti,Boticelli,Vittorio Gassman;32.5
+Vesuvio,Massimo Troisi,Sophia Loren;34.0
+Vesuvio,Michilangelo,Federico Fellini;35.5
+Raffaello,Marcello Mastroianni,Dario Argento;30.5
+Gigi D'Allesio,Laura Pausini,Regina Margherita;30.0
+Marcello Mastroianni,Dario Argento,Michilangelo;31.5
+Boticelli,Vesuvio,Gigi D'Allesio;30.5
+Rafaella,Mario Merola;20.5
+Pino Daniele,Rafaella,Alberto Sordi;35.5
+Mario Merola,Massimo Troisi,Laura Pausini;28.5
+Rafaella,Marcello Mastroianni,Rafaella;35.0
+Sophia Loren,Sophia Loren,Donatello;36.0
+Laura Pausini,Alberto Sordi,Marcello Mastroianni;30.0
+Vesuvio,Sophia Loren;23.5
+Marcello Mastroianni,Pavarotti,Michilangelo;34.0
+Alberto Sordi,Rafaella,Dante;35.0
+De Sica,Donatello;22.0
+Pavarotti,Laura Pausini,Gianni Morandi;34.5
+Pavarotti,Gianni Morandi,Dario Argento;34.5
+Laura Pausini,Donatello;22.0
+Pino Daniele,Pino Daniele;26.0
+Gigi D'Allesio,Marcello Mastroianni,Michilangelo;32.0
+Dante,Boticelli,Sophia Loren;33.0
+Pino Daniele,Mario Merola,Donatello;33.0
+Pino Daniele,Alberto Sordi,Marcello Mastroianni;33.0
+Michilangelo,Toto,Boticelli;32.0
+Dario Argento,Marcello Mastroianni,Pino Daniele;33.0
+Sophia Loren,Laura Pausini,Vittorio Gassman;33.5
+Dante,Regina Margherita,Sophia Loren;34.0
+Laura Pausini,Marcello Mastroianni,Michilangelo;31.5
+Pavarotti,Massimo Troisi,Gianni Morandi;35.0
+Pino Daniele,Massimo Troisi;23.5
+Regina Margherita,Rafaella,Laura Pausini;32.0
+Dante,Regina Margherita;22.0
+Vittorio Gassman,Michilangelo,Vanvitelli;34.5
+Rafaella,Regina Margherita,Regina Margherita;31.5
+Laura Pausini,Toto,Rafaella;34.5
+Donatello,Mario Merola,Vittorio Gassman;31.5
+Mario Merola,Pino Daniele,Dante;33.5
+Pino Daniele,Laura Pausini;23.0
+Rafaella,Federico Fellini,Michilangelo;36.5
+Vanvitelli,Vanvitelli,Vanvitelli;34.5
+Alberto Sordi,Vesuvio,Dario Argento;31.5
+Dante,Laura Pausini,Rafaella;35.0
+Mario Merola,Raffaello,Regina Margherita;28.0
+Toto,Vanvitelli,Pavarotti;36.0
+Toto,Gianni Morandi,Dante;36.5
+Michilangelo,Regina Margherita,Mario Merola;29.0
+Alberto Sordi,Mario Merola,Pino Daniele;31.0
+Mario Merola,Boticelli,Pino Daniele;29.5
+De Sica,Pavarotti,Regina Margherita;32.0
+Laura Pausini,Pino Daniele;23.0
+De Sica,Dante,Raffaello;33.0
+Dante,Alberto Sordi;22.5
+De Sica,Sophia Loren,Vanvitelli;33.5
+Sophia Loren,Sophia Loren,Donatello;36.0
+Sophia Loren,Mario Merola;20.0
+Gianni Morandi,Marcello Mastroianni,Gianni Morandi;34.0
+De Sica,Michilangelo,Raffaello;32.0
+Rafaella,Boticelli,Dante;33.5
+Pavarotti,Pavarotti,Dante;37.5
+Rafaella,Gianni Morandi,Rafaella;37.0
+Pino Daniele,Michilangelo,Raffaello;35.0
+Federico Fellini,Dario Argento,De Sica;32.5
+Pino Daniele,Boticelli,Rafaella;34.0
+Mario Merola,Marcello Mastroianni,Alberto Sordi;28.0
+Laura Pausini,Laura Pausini,Pavarotti;32.5
+Pino Daniele,Rafaella,Rafaella;38.0
+Alberto Sordi,Boticelli,Boticelli;27.0
+Dante,Gianni Morandi,Dario Argento;34.5
+Federico Fellini,Vesuvio,Gianni Morandi;36.0
+Marcello Mastroianni,Donatello,Mario Merola;30.0
+Gianni Morandi,Mario Merola,Pino Daniele;33.0
+Vittorio Gassman,Raffaello,Pino Daniele;35.0
+;0.0
+Toto,Michilangelo,Dante;36.0
+Vittorio Gassman,Vittorio Gassman,Sophia Loren;35.0
+Pino Daniele,Toto,Toto;37.0
+Vanvitelli,Donatello,Boticelli;32.0
+Vanvitelli,Dario Argento,Vesuvio;33.0
+Sophia Loren,Regina Margherita,Dario Argento;31.5
+Pino Daniele,Regina Margherita,Gianni Morandi;34.5
+De Sica,Federico Fellini,Gianni Morandi;34.5
+Gianni Morandi,Vittorio Gassman,Laura Pausini;33.5
+Sophia Loren,Massimo Troisi,Raffaello;33.0
+Mario Merola,Rafaella,Vesuvio;32.0
+Gianni Morandi,Vittorio Gassman,Vanvitelli;35.0
+Federico Fellini,Pino Daniele;25.5
+Alberto Sordi,Marcello Mastroianni,Dario Argento;30.0
+Marcello Mastroianni,Dante,Toto;34.5
+Vesuvio,Dante,Pino Daniele;37.0
+Rafaella,Pavarotti;25.0
+Massimo Troisi,Pavarotti,Gianni Morandi;35.0
+Mario Merola,Vanvitelli;19.5
+Regina Margherita,Alberto Sordi,Donatello;31.5
+Gigi D'Allesio,Toto,Toto;34.5
+Michilangelo,Pino Daniele;24.5
+Dante,Vanvitelli,Vesuvio;35.5
+Dante,Vittorio Gassman,Pavarotti;36.5
+Federico Fellini,Raffaello,Gianni Morandi;35.0
+Michilangelo,Boticelli,Vesuvio;31.5
+Rafaella,Vanvitelli,Donatello;36.0
+Regina Margherita,Vittorio Gassman,Dante;33.5
+Gianni Morandi,Toto,Dario Argento;34.0
+De Sica,Vanvitelli,Dante;34.0
+Federico Fellini,Pavarotti,Michilangelo;36.5
+De Sica,Raffaello,Raffaello;31.0
+Boticelli,Alberto Sordi;18.5
+Marcello Mastroianni,Regina Margherita,Toto;31.5
+Dario Argento,Toto,De Sica;32.0
+Donatello,De Sica,Pino Daniele;35.0
+Rafaella,Vesuvio,Massimo Troisi;34.5
+Raffaello,Massimo Troisi,De Sica;31.0
+Gianni Morandi,De Sica,Marcello Mastroianni;32.0
+Pavarotti,Pino Daniele,De Sica;35.5
+Donatello,Vesuvio,Laura Pausini;33.5
+Toto,Dario Argento,Michilangelo;33.5
+Vesuvio,Mario Merola,Massimo Troisi;30.0
+Vittorio Gassman,Vittorio Gassman,Toto;35.0
+Regina Margherita,Regina Margherita,Federico Fellini;31.5
+Federico Fellini,Regina Margherita,Vesuvio;33.5
+Regina Margherita,Pino Daniele,Gigi D'Allesio;33.0
+Massimo Troisi,Vesuvio,De Sica;32.0
+Vittorio Gassman,Gianni Morandi,Dante;36.0
+Vesuvio,Vanvitelli,Marcello Mastroianni;33.0
+Donatello,Massimo Troisi,Regina Margherita;32.0
+Michilangelo,Toto,Vesuvio;35.0
+Boticelli,Regina Margherita,Vanvitelli;29.5
+Dario Argento,Dante,Vittorio Gassman;34.0
+Boticelli,Vanvitelli,Federico Fellini;32.5
+Gigi D'Allesio,Marcello Mastroianni,Mario Merola;28.5
+Dante,Federico Fellini,Donatello;37.0
+Regina Margherita,De Sica,Dario Argento;29.5
+Vittorio Gassman,Marcello Mastroianni;21.5
+Michilangelo,Toto,Pavarotti;36.0
+Marcello Mastroianni,Toto,Regina Margherita;31.5
+Toto,Dario Argento,Gigi D'Allesio;32.5
+Federico Fellini,Michilangelo,Gigi D'Allesio;34.5
+Dante,Regina Margherita,Laura Pausini;32.0
+De Sica,Gigi D'Allesio,Marcello Mastroianni;30.5
+Vesuvio,Marcello Mastroianni,Toto;33.5
+Regina Margherita,Boticelli,De Sica;28.0
+Federico Fellini,Raffaello,Vanvitelli;34.5
+Raffaello,Marcello Mastroianni,De Sica;30.5
+Donatello,Dante;24.5
 Sophia Loren,Regina Margherita,Alberto Sordi;31.5
-Raffaello,Boticelli,Laura Pausini;29.0
-Toto,Vittorio Gassman;23.5
-Raffaello,Pino Daniele,Marcello Mastroianni;33.5
-Michilangelo,Michilangelo,Dario Argento;33.0
-Federico Fellini,Raffaello,Donatello;35.0
-Federico Fellini,Vittorio Gassman,Vesuvio;35.5
-Gianni Morandi,Vanvitelli,Toto;35.5
-Vesuvio,De Sica,Gianni Morandi;33.5
-Pino Daniele,Alberto Sordi,Mario Merola;31.0
-Dante,Dario Argento,Michilangelo;34.0
+Vittorio Gassman,Federico Fellini,Gigi D'Allesio;34.5
+Pino Daniele,Toto,Vittorio Gassman;36.5
+Marcello Mastroianni,De Sica,Vanvitelli;31.5
+Dario Argento,Pavarotti,Vittorio Gassman;34.0
+Toto,Alberto Sordi,Alberto Sordi;32.0
+Marcello Mastroianni,Massimo Troisi,Massimo Troisi;31.0
+Dario Argento,Rafaella,Dario Argento;32.5
+Gianni Morandi,Dante,Vanvitelli;36.0
+Laura Pausini,Mario Merola,Donatello;30.0
+Toto,Gianni Morandi,Sophia Loren;36.0
+Sophia Loren,De Sica,Massimo Troisi;32.5
+Michilangelo,Federico Fellini,Federico Fellini;36.5
+Alberto Sordi,Laura Pausini,Raffaello;30.5
+Vittorio Gassman,Pavarotti,Toto;36.0
+Vittorio Gassman,Rafaella,Regina Margherita;33.5
+Vanvitelli,Toto;23.5
+Pino Daniele,Gigi D'Allesio,Marcello Mastroianni;33.5
+Vanvitelli,Toto,Marcello Mastroianni;33.5
+Michilangelo,Rafaella,Vanvitelli;35.5
+Federico Fellini,Michilangelo,Vesuvio;35.5
+Gianni Morandi,De Sica,Boticelli;30.5
+Regina Margherita,Donatello,Laura Pausini;31.5
+Dante,Toto;24.5
+Federico Fellini,Raffaello,Mario Merola;31.0
+Pino Daniele,Alberto Sordi;23.0
+Donatello,Alberto Sordi;22.0
+Raffaello,Massimo Troisi,Toto;33.0
+Donatello,Federico Fellini,Rafaella;37.0
+Sophia Loren,Toto,Raffaello;34.5
+Michilangelo,Dante,Vittorio Gassman;35.5
+Dante,Regina Margherita,Gigi D'Allesio;32.5
+Toto,Vanvitelli,Pino Daniele;36.5
+Massimo Troisi,Gigi D'Allesio,Dante;33.5
+Alberto Sordi,Gigi D'Allesio,Regina Margherita;30.0
+Vittorio Gassman,Dario Argento,De Sica;31.5
+Rafaella,Pino Daniele,Gianni Morandi;37.5
+Pavarotti,Alberto Sordi,Mario Merola;30.5
+Pino Daniele,Vanvitelli,Gianni Morandi;36.5
+Toto,Massimo Troisi,Mario Merola;30.5
+Vesuvio,Regina Margherita,Federico Fellini;33.5
+Rafaella,Toto,Dario Argento;34.5
+Laura Pausini,Raffaello,Boticelli;29.0
+Marcello Mastroianni,Regina Margherita,Vesuvio;31.0
+Federico Fellini,Pino Daniele,Vanvitelli;37.0
+Dario Argento,Regina Margherita;19.5
+Marcello Mastroianni,Rafaella,Laura Pausini;32.5
+Dante,Raffaello,Mario Merola;31.0
+Michilangelo,Donatello,Rafaella;36.0
+Federico Fellini,Marcello Mastroianni,Federico Fellini;35.0
+Michilangelo,Rafaella,Dante;36.5
+Massimo Troisi,Raffaello,Marcello Mastroianni;31.0
+Gianni Morandi,Michilangelo,Rafaella;36.0
+Dario Argento,Marcello Mastroianni,Laura Pausini;30.0
+Dante,Vanvitelli,Toto;36.0
+De Sica,Gianni Morandi,Boticelli;30.5
+Rafaella,Vesuvio,Donatello;36.0
+Pino Daniele,Gigi D'Allesio,Vittorio Gassman;35.0
+Vanvitelli,Sophia Loren,Massimo Troisi;34.0
+Vanvitelli,Alberto Sordi,Sophia Loren;33.5
+Gianni Morandi,Alberto Sordi;22.0
+Massimo Troisi,Pavarotti;23.0
+Michilangelo,Marcello Mastroianni,Boticelli;30.0
+Federico Fellini,Pino Daniele,Sophia Loren;37.5
+Pino Daniele,Alberto Sordi,Marcello Mastroianni;33.0
+Raffaello,Vanvitelli,Massimo Troisi;32.5
+Dante,Donatello;24.5
+Gianni Morandi,Raffaello,Mario Merola;30.5
+Boticelli,Pino Daniele,Marcello Mastroianni;31.5
+Gianni Morandi,Toto,Toto;36.0
+Pino Daniele,Gigi D'Allesio;23.5
+Federico Fellini,Sophia Loren,Laura Pausini;34.5
+Regina Margherita,Vittorio Gassman;21.0
+Vesuvio,Gianni Morandi,De Sica;33.5
+Donatello,Sophia Loren,Mario Merola;32.0
+Michilangelo,Alberto Sordi,Gigi D'Allesio;32.0
+Toto,Raffaello,Rafaella;35.0
+Rafaella,Mario Merola,Dario Argento;30.5
+Federico Fellini,Michilangelo,De Sica;34.0
+Laura Pausini,De Sica,Pavarotti;32.5
+Mario Merola,Rafaella,Vittorio Gassman;32.0
+Marcello Mastroianni,Sophia Loren,Michilangelo;33.5
+Regina Margherita,Pino Daniele,Michilangelo;34.0
+Pino Daniele,Gianni Morandi,Dante;37.5
+Federico Fellini,Pino Daniele,Donatello;37.5
+Federico Fellini,Toto,Toto;36.5
+Alberto Sordi,Federico Fellini,Dario Argento;32.5
+Regina Margherita,Mario Merola,Alberto Sordi;27.5
+Marcello Mastroianni,Vittorio Gassman,Michilangelo;33.0
+Gigi D'Allesio,Raffaello,Donatello;33.0
+Rafaella,Vanvitelli,Regina Margherita;33.5
+Federico Fellini,Pino Daniele;25.5
+Donatello,Toto,Raffaello;34.5
+Sophia Loren,Gigi D'Allesio,Michilangelo;34.0
+Massimo Troisi,Federico Fellini,Gianni Morandi;35.0
+Michilangelo,Laura Pausini;21.5
+Pino Daniele,Toto,Dante;37.5
+Marcello Mastroianni,Toto,Vittorio Gassman;33.5
+Pavarotti,Federico Fellini;25.0
+Rafaella,Dante,Raffaello;35.5
+Rafaella,Dario Argento,Regina Margherita;32.0
+Pavarotti,Massimo Troisi,Toto;35.0
+Pino Daniele,Donatello,Toto;37.0
+Sophia Loren,Dante,Mario Merola;32.5
+Vittorio Gassman,Rafaella,Mario Merola;32.0
+Marcello Mastroianni,Rafaella,Michilangelo;34.0
+Michilangelo,Pavarotti,Federico Fellini;36.5
+Pino Daniele,Federico Fellini,Alberto Sordi;35.5
+Laura Pausini,Vesuvio,Gianni Morandi;33.5
+Vittorio Gassman,Massimo Troisi,Marcello Mastroianni;32.0
+Laura Pausini,De Sica,Michilangelo;31.5
+Dario Argento,Laura Pausini,Massimo Troisi;30.5
+Regina Margherita,Gigi D'Allesio,Gianni Morandi;32.0
+Vanvitelli,Mario Merola,Regina Margherita;29.0
+Marcello Mastroianni,Raffaello,Gigi D'Allesio;31.0
+Gigi D'Allesio,Vesuvio,Marcello Mastroianni;32.0
+Vittorio Gassman,Alberto Sordi,Michilangelo;33.0
+Boticelli,Alberto Sordi;18.5
+Donatello,Gianni Morandi,Rafaella;36.5
+Dante,Raffaello,Rafaella;35.5
+Laura Pausini,Alberto Sordi,Michilangelo;31.5
+Mario Merola;8.0
+Vittorio Gassman,De Sica,Pino Daniele;34.5
+Donatello,Massimo Troisi,Sophia Loren;34.5
+Regina Margherita,Rafaella,Sophia Loren;34.0
+Regina Margherita;9.5
+Toto,Alberto Sordi,Toto;34.0
+Raffaello,Gianni Morandi;22.5
+Vanvitelli,Toto,Vesuvio;35.0
+De Sica,Marcello Mastroianni,Rafaella;32.5
+Michilangelo,Michilangelo;23.0
+De Sica,Laura Pausini,Massimo Troisi;30.5
+De Sica,Boticelli;18.5
+Rafaella,Vittorio Gassman;24.0
+Laura Pausini,Dario Argento,Mario Merola;28.0
+De Sica,Laura Pausini,Vanvitelli;31.5
+Regina Margherita,Pino Daniele,Federico Fellini;35.0
+Regina Margherita,Mario Merola,Regina Margherita;27.0
+Rafaella,Alberto Sordi;22.5
+Alberto Sordi,Sophia Loren;22.0
+Regina Margherita,Pavarotti,Dario Argento;32.0
+Boticelli,De Sica,Vittorio Gassman;30.0
+Boticelli,Regina Margherita,Vesuvio;29.5
+Sophia Loren,Donatello;24.0
+Laura Pausini,Alberto Sordi,Pavarotti;32.5
+Gigi D'Allesio,Marcello Mastroianni;20.5
+Gianni Morandi,Dante,Raffaello;35.0
+Sophia Loren,Alberto Sordi,Boticelli;30.5
+Massimo Troisi,Laura Pausini,Marcello Mastroianni;30.5
+Laura Pausini,Vittorio Gassman,Michilangelo;33.0
+Vesuvio,Boticelli,Pino Daniele;33.0
+Gianni Morandi,Vittorio Gassman;23.5
+Laura Pausini,Sophia Loren,Pavarotti;34.5
+Rafaella,Vesuvio,Vanvitelli;35.5
+Massimo Troisi,Dante,Gigi D'Allesio;33.5
+Regina Margherita,Toto,Gigi D'Allesio;32.0
+Vanvitelli,Mario Merola,Donatello;31.5
+Alberto Sordi,Regina Margherita,Pavarotti;32.0
+Rafaella,Dario Argento,Pavarotti;35.0
+De Sica,Donatello,Dante;34.5
+Vesuvio,Dante,Dario Argento;34.0
+Toto,Sophia Loren,Sophia Loren;36.0
+Donatello,Sophia Loren,Sophia Loren;36.0
+Dante,Dario Argento,Laura Pausini;32.5
+Rafaella,Mario Merola,De Sica;30.5
+Gigi D'Allesio,Pino Daniele,Pavarotti;36.0
+Gianni Morandi,Sophia Loren,Boticelli;32.5
+Sophia Loren,Michilangelo,Alberto Sordi;33.5
+Marcello Mastroianni,Toto,Dario Argento;32.0
+Alberto Sordi,Gianni Morandi,Laura Pausini;32.0
+Vittorio Gassman,Raffaello,Massimo Troisi;32.5
+Raffaello,Gigi D'Allesio,Gianni Morandi;33.0
+Michilangelo,Regina Margherita,De Sica;31.0
+Gigi D'Allesio,Gianni Morandi,Mario Merola;30.5
+Mario Merola,Dario Argento;18.0
+Pino Daniele,Marcello Mastroianni,Toto;35.0
+Vanvitelli,Toto,Vanvitelli;35.0
+Dario Argento,Pavarotti,Dario Argento;32.5
+Pino Daniele,Vanvitelli,Dante;37.0
+Michilangelo,Regina Margherita,Laura Pausini;31.0
+Sophia Loren,Pavarotti,Raffaello;35.0
+Raffaello,Vesuvio;22.0
+Gianni Morandi,Vesuvio,Boticelli;32.0
+Marcello Mastroianni,Pavarotti,Gianni Morandi;34.5
+Regina Margherita,Mario Merola;17.5
+Dario Argento,Gianni Morandi,Raffaello;32.5
+Alberto Sordi,Vittorio Gassman,Toto;33.5
+Michilangelo,Vanvitelli,Dario Argento;33.0
+Mario Merola,Mario Merola,Dante;28.5
+Mario Merola,Gianni Morandi,Donatello;32.0
+Sophia Loren,Massimo Troisi,Dante;35.0
+Marcello Mastroianni,Vanvitelli,Vanvitelli;33.0
+Toto,Vittorio Gassman,Dario Argento;33.5
+Regina Margherita,Vittorio Gassman,Vanvitelli;32.5
+Laura Pausini,Rafaella,Alberto Sordi;32.5
+Federico Fellini,Rafaella,Vesuvio;36.5
+Boticelli,Laura Pausini,Toto;30.5
+Michilangelo,Vittorio Gassman;23.0
+Toto,Boticelli,Raffaello;31.0
+Dante,Michilangelo,Rafaella;36.5
+De Sica,Dario Argento,Boticelli;28.5
+Sophia Loren,Alberto Sordi,Vanvitelli;33.5
+Alberto Sordi,Mario Merola,Massimo Troisi;28.5
+Raffaello,Donatello,Rafaella;35.0
+Regina Margherita,Marcello Mastroianni;19.5
+Pavarotti,Donatello,Vittorio Gassman;36.0
+Boticelli,Marcello Mastroianni,Dante;31.0
+Raffaello,Regina Margherita;20.0
+Raffaello,Massimo Troisi,Pino Daniele;34.0
+Vesuvio,Gigi D'Allesio,Dante;34.5
+Massimo Troisi,Vanvitelli,Vanvitelli;33.5
+Boticelli,Gigi D'Allesio;19.0
+Mario Merola,Vittorio Gassman;19.5
+Michilangelo,Donatello,Gigi D'Allesio;34.0
+Marcello Mastroianni,Dante,Laura Pausini;32.5
+Mario Merola,Vittorio Gassman,Vittorio Gassman;31.0
+Raffaello,Pino Daniele,Rafaella;36.0
+Massimo Troisi,Toto,Pavarotti;35.0
+Marcello Mastroianni,Mario Merola,Boticelli;26.5
+Laura Pausini,Mario Merola,Donatello;30.0
+Mario Merola,Massimo Troisi,Michilangelo;30.0
+Pavarotti,Michilangelo,Vittorio Gassman;35.5
+Laura Pausini,Regina Margherita,Laura Pausini;29.5
+Vanvitelli,Gigi D'Allesio;22.0
+Raffaello,Gianni Morandi,Boticelli;31.0
+Rafaella,Mario Merola,Donatello;32.5
+Pavarotti,Dante;25.0
+Alberto Sordi,Mario Merola,Vesuvio;29.5
+Vanvitelli,De Sica,Boticelli;30.0
 Alberto Sordi;10.0
-Pavarotti,Pino Daniele,Gigi D'Allesio;36.0
-Vanvitelli,Michilangelo,Gigi D'Allesio;33.5
-Dante,Toto,Alberto Sordi;34.5
-Michilangelo,Pino Daniele,Federico Fellini;37.0
-Laura Pausini,Toto,Alberto Sordi;32.0
-Dante,De Sica,Laura Pausini;32.5
-Laura Pausini,Toto,Marcello Mastroianni;32.0
-Gigi D'Allesio,Mario Merola,Marcello Mastroianni;28.5
-Vesuvio,Vittorio Gassman,Vanvitelli;34.5
-Sophia Loren,Federico Fellini,Rafaella;37.0
-Donatello,Toto,Dario Argento;34.0
-Mario Merola,Regina Margherita;17.5
-Raffaello,Pavarotti,Raffaello;33.5
-Massimo Troisi,Laura Pausini,Dario Argento;30.5
-Alberto Sordi,Donatello,Gianni Morandi;34.0
-Marcello Mastroianni,Vanvitelli;21.5
-Boticelli,Donatello,Pavarotti;33.0
-Laura Pausini,Pino Daniele,Dario Argento;33.0
-Massimo Troisi,Rafaella,Alberto Sordi;33.0
-Pino Daniele,Gianni Morandi;25.0
-Regina Margherita,Regina Margherita,Michilangelo;30.5
-Vesuvio,Michilangelo,Marcello Mastroianni;33.0
-Vanvitelli,Laura Pausini,Dario Argento;31.5
-Pavarotti,Marcello Mastroianni,Gigi D'Allesio;33.0
-Vittorio Gassman,Gianni Morandi,Pino Daniele;36.5
+Pino Daniele,Donatello,Gianni Morandi;37.0
+Marcello Mastroianni,Regina Margherita,De Sica;29.5
+De Sica,Toto,Pavarotti;34.5
+Donatello,Dario Argento,Federico Fellini;34.5
+Gigi D'Allesio,Massimo Troisi,Pino Daniele;34.0
+Donatello,Vittorio Gassman,Pino Daniele;36.5
+Rafaella,Dario Argento,Gigi D'Allesio;33.0
+Mario Merola,Dario Argento,De Sica;28.0
+Federico Fellini,Vesuvio,Dante;36.5
+Sophia Loren,Gianni Morandi,Laura Pausini;34.0
+Alberto Sordi,Federico Fellini,Vanvitelli;34.0
+Pino Daniele,Michilangelo,Alberto Sordi;34.5
+Dario Argento,Raffaello,Marcello Mastroianni;30.5
+Pavarotti,Laura Pausini,Marcello Mastroianni;32.5
+De Sica,Federico Fellini,Vanvitelli;34.0
+Alberto Sordi,Massimo Troisi,Alberto Sordi;30.5
+Dario Argento,De Sica,Mario Merola;28.0
+Vanvitelli,Laura Pausini,Pavarotti;34.0
+Sophia Loren,Gigi D'Allesio,Mario Merola;30.5
+De Sica,Massimo Troisi,Laura Pausini;30.5
+Federico Fellini,Michilangelo,Gianni Morandi;36.0
+Regina Margherita,Marcello Mastroianni,Gianni Morandi;31.5
+Regina Margherita,Sophia Loren,De Sica;31.5
+Donatello,Vanvitelli,Rafaella;36.0
+Vesuvio,Dante,Raffaello;34.5
+Toto,Donatello,Donatello;36.0
+Raffaello,Marcello Mastroianni,Rafaella;33.0
+Vesuvio,Michilangelo,Dario Argento;33.0
+Marcello Mastroianni,Sophia Loren,Michilangelo;33.5
+Laura Pausini,Pino Daniele,Federico Fellini;35.5
+Gianni Morandi,Mario Merola,Gigi D'Allesio;30.5
+Laura Pausini,Marcello Mastroianni,Rafaella;32.5
+Raffaello,Sophia Loren,Mario Merola;30.5
+Michilangelo,Sophia Loren,Gigi D'Allesio;34.0
+Marcello Mastroianni,Dario Argento,De Sica;30.0
+Rafaella,Alberto Sordi,Boticelli;31.0
+Mario Merola,Vesuvio,Rafaella;32.0
+Vesuvio,Gigi D'Allesio;22.0
+Gigi D'Allesio,Vittorio Gassman,Boticelli;30.5
+De Sica,Boticelli,Vittorio Gassman;30.0
+Vesuvio,Alberto Sordi,Rafaella;34.0
+Raffaello,Vesuvio,Alberto Sordi;32.0
+Laura Pausini,Gigi D'Allesio;20.5
+De Sica,Alberto Sordi;20.0
+Sophia Loren,Dario Argento,Pino Daniele;35.0
+Pino Daniele,Marcello Mastroianni,De Sica;33.0
+Dante,Regina Margherita,Boticelli;30.5
+Federico Fellini,Marcello Mastroianni,Toto;34.5
+Boticelli,Pino Daniele;21.5
+Toto,Michilangelo;23.5
+Gianni Morandi,Boticelli,Michilangelo;32.0
+Mario Merola,Massimo Troisi,Sophia Loren;30.5
+Gigi D'Allesio,Vanvitelli,Rafaella;34.5
+Vanvitelli,Vanvitelli,Vittorio Gassman;34.5
+Vesuvio,Pino Daniele,Vittorio Gassman;36.0
+Pavarotti,Donatello,Pino Daniele;37.5
+Dario Argento,Laura Pausini,Michilangelo;31.5
+Laura Pausini,Vittorio Gassman,Gigi D'Allesio;32.0
+Michilangelo,Vanvitelli;23.0
+Regina Margherita,Federico Fellini,De Sica;32.0
+Vanvitelli,Michilangelo,Alberto Sordi;33.0
+Marcello Mastroianni,Dario Argento,Federico Fellini;32.5
+Vanvitelli,Toto,Pavarotti;36.0
+Vesuvio,Marcello Mastroianni,Pino Daniele;34.5
+Massimo Troisi,Toto,Vesuvio;34.0
+De Sica,Donatello,Pavarotti;34.5
+Raffaello,Pavarotti,Pavarotti;35.5
+Dante,De Sica,Donatello;34.5
+De Sica,Pavarotti,Pavarotti;35.0
+Toto,Laura Pausini,Toto;34.0
+Massimo Troisi,Pavarotti,Massimo Troisi;33.5
+Donatello,Vesuvio,Dario Argento;33.5
+Vittorio Gassman,Vanvitelli,Michilangelo;34.5
+Michilangelo,Alberto Sordi;21.5
+Dario Argento,Boticelli,Regina Margherita;28.0
+De Sica,Dario Argento,Federico Fellini;32.5
+Gianni Morandi,Boticelli,Gianni Morandi;32.5
+Dario Argento,Marcello Mastroianni,Laura Pausini;30.0
+Michilangelo,Marcello Mastroianni,Pavarotti;34.0
+Toto,Pavarotti,Marcello Mastroianni;34.5
+Massimo Troisi,Laura Pausini,Dante;33.0
+Regina Margherita,Laura Pausini,Gigi D'Allesio;30.0
+Vittorio Gassman,Boticelli,Gigi D'Allesio;30.5
+Pavarotti,Raffaello;23.0
+Vesuvio,Gigi D'Allesio,De Sica;32.0
+De Sica,Rafaella,De Sica;32.5
+Gigi D'Allesio,Vanvitelli,Federico Fellini;34.5
+Massimo Troisi,Dante;23.0
+Massimo Troisi,Sophia Loren,Vittorio Gassman;34.0
+Rafaella,Laura Pausini,De Sica;32.5
+Vesuvio,Gigi D'Allesio,Massimo Troisi;32.5
+Gigi D'Allesio;10.5
+Pino Daniele,Vittorio Gassman,Regina Margherita;34.0
+Dante,Mario Merola,Massimo Troisi;31.0
+Federico Fellini,Boticelli,Boticelli;29.5
+Gigi D'Allesio,Pavarotti;23.0
+Donatello,Pavarotti,Regina Margherita;34.0
+Laura Pausini,Pavarotti,Raffaello;33.0
+De Sica,Michilangelo,Raffaello;32.0
+Dante,Raffaello,Alberto Sordi;33.0
+Laura Pausini,Vanvitelli,Toto;33.5
+Gigi D'Allesio,Massimo Troisi,Michilangelo;32.5
+Rafaella,Gigi D'Allesio,Regina Margherita;32.5
+Marcello Mastroianni,Boticelli,Vittorio Gassman;30.0
+Laura Pausini,Vittorio Gassman,Vesuvio;33.0
+Alberto Sordi,Raffaello,Gigi D'Allesio;31.0
+Vittorio Gassman,Vesuvio;23.0
+Pavarotti,Rafaella,Mario Merola;33.0
+Pino Daniele,Vanvitelli,Pavarotti;37.0
+Alberto Sordi,Michilangelo,Laura Pausini;31.5
+Vittorio Gassman,Vittorio Gassman,Vanvitelli;34.5
+Mario Merola,Pavarotti,Gianni Morandi;32.5
+Federico Fellini,Regina Margherita,De Sica;32.0
+De Sica,Massimo Troisi,Vanvitelli;32.0
+Dante,Rafaella,Mario Merola;33.0
+Gianni Morandi,Pavarotti,Vittorio Gassman;36.0
+Pavarotti,Mario Merola,Federico Fellini;33.0
+Michilangelo,Raffaello,Toto;34.0
+Alberto Sordi,Vanvitelli,Vesuvio;33.0
+De Sica,Pino Daniele,Michilangelo;34.5
+Marcello Mastroianni,Vesuvio,Dario Argento;31.5
+Vanvitelli,Toto,Gianni Morandi;35.5
+Vanvitelli,Gianni Morandi,Regina Margherita;33.0
+Pino Daniele,Federico Fellini,Gigi D'Allesio;36.0
+Massimo Troisi,Pavarotti,Raffaello;33.5
+De Sica,Gianni Morandi,De Sica;32.0
+Raffaello,Gigi D'Allesio,Marcello Mastroianni;31.0
+Sophia Loren,Marcello Mastroianni,Vittorio Gassman;33.5
+Gianni Morandi,Laura Pausini;22.0
+Rafaella,Gigi D'Allesio,Marcello Mastroianni;33.0
+Vesuvio,Dario Argento,Dante;34.0
+Rafaella,Michilangelo,Pavarotti;36.5
+Marcello Mastroianni,Alberto Sordi,Boticelli;28.5
+Marcello Mastroianni,Rafaella,Boticelli;31.0
+Alberto Sordi,Sophia Loren,Sophia Loren;34.0
+Federico Fellini,Regina Margherita,Mario Merola;30.0
+Boticelli;8.5
+Federico Fellini,Federico Fellini,Vanvitelli;36.5
+Laura Pausini,Regina Margherita,Sophia Loren;31.5
+Raffaello,Mario Merola,Raffaello;29.0
+Raffaello,Mario Merola,Gigi D'Allesio;29.0
+Marcello Mastroianni,Pino Daniele,Pino Daniele;36.0
+Raffaello,Laura Pausini,Dario Argento;30.5
+Mario Merola,Gianni Morandi,Toto;32.0
+Gianni Morandi,Vanvitelli,Raffaello;34.0
+Alberto Sordi,Alberto Sordi,Regina Margherita;29.5
+Gigi D'Allesio,Rafaella,Vittorio Gassman;34.5
+Raffaello,Donatello,Rafaella;35.0
+Raffaello,Raffaello,Gigi D'Allesio;31.5
+Massimo Troisi,Vanvitelli,Rafaella;34.5
+Boticelli,Alberto Sordi,Dario Argento;28.5
+Michilangelo,Gigi D'Allesio,Laura Pausini;32.0
+Vittorio Gassman,Toto,Laura Pausini;33.5
+Marcello Mastroianni,Alberto Sordi,Mario Merola;28.0
+Raffaello,Rafaella,Laura Pausini;33.0
+Donatello,Sophia Loren,Raffaello;34.5
+Federico Fellini,Alberto Sordi,Gianni Morandi;34.5
+Pino Daniele,Donatello,De Sica;35.0
+Rafaella,Raffaello;23.0
+Regina Margherita,Massimo Troisi;20.0
+Vesuvio,Gigi D'Allesio,Gianni Morandi;34.0
+Gianni Morandi,Pavarotti;24.5
+Pavarotti,Dario Argento,Boticelli;31.0
+De Sica,Gigi D'Allesio;20.5
+Michilangelo,Sophia Loren,Laura Pausini;33.5
+Mario Merola,Dario Argento,Massimo Troisi;28.5
+De Sica,Michilangelo;21.5
+Marcello Mastroianni,Laura Pausini,Massimo Troisi;30.5
+Mario Merola,Vanvitelli,Dario Argento;29.5
+Vanvitelli,Raffaello,Federico Fellini;34.5
+Sophia Loren,Rafaella,Pino Daniele;37.5
+Dario Argento,Donatello,Raffaello;32.5
+Rafaella,Massimo Troisi,Gianni Morandi;35.0
+Dario Argento,Donatello,Toto;34.0
+Regina Margherita,Vanvitelli,Pino Daniele;34.0
+Alberto Sordi,Pino Daniele,Marcello Mastroianni;33.0
+Regina Margherita,Mario Merola,Gianni Morandi;29.5
+Dante,Laura Pausini,Pavarotti;35.0
+Marcello Mastroianni,Dario Argento,Toto;32.0
+Vanvitelli,Dante,Toto;36.0
+Michilangelo,Boticelli,Regina Margherita;29.5
+Vesuvio,Dario Argento,De Sica;31.5
+Rafaella,Gianni Morandi,Laura Pausini;34.5
+Laura Pausini,Donatello,Vesuvio;33.5
+Pavarotti,Laura Pausini,De Sica;32.5
+Dario Argento,Vesuvio,Rafaella;34.0
+Laura Pausini,Pino Daniele,Laura Pausini;33.0
+Laura Pausini,Michilangelo,Rafaella;34.0
+Boticelli,Regina Margherita,Pino Daniele;31.0
+Mario Merola,Laura Pausini,Federico Fellini;30.5
+Michilangelo,Michilangelo,Vanvitelli;34.5
+Federico Fellini,Gigi D'Allesio;23.0
+Pino Daniele,Vittorio Gassman,Massimo Troisi;35.0
+Marcello Mastroianni,De Sica,Boticelli;28.5
+Federico Fellini,Federico Fellini,De Sica;35.0
+Dario Argento,Gigi D'Allesio,Mario Merola;28.5
+Dante,Michilangelo;24.0
+Gigi D'Allesio,Laura Pausini,Massimo Troisi;31.0
+Pino Daniele,Sophia Loren,Rafaella;37.5
+Federico Fellini,Federico Fellini,Donatello;37.0
+Alberto Sordi,Boticelli,Michilangelo;30.0
+Pavarotti,Alberto Sordi,Pavarotti;35.0
+Dario Argento,Toto;22.0
+Alberto Sordi,Vittorio Gassman,Pavarotti;34.0
+Vanvitelli,Dante,Vanvitelli;35.5
+Marcello Mastroianni,Gianni Morandi;22.0
+Raffaello,De Sica,Pavarotti;33.0
+Regina Margherita,Pavarotti,Boticelli;30.5
+Boticelli,De Sica,De Sica;28.5
+Gianni Morandi,Federico Fellini,Regina Margherita;34.0
+Mario Merola,Federico Fellini,Gianni Morandi;32.5
+Vesuvio,Massimo Troisi,Boticelli;30.5
+Federico Fellini,Marcello Mastroianni;22.5
+Regina Margherita,Vanvitelli,Alberto Sordi;31.0
+Pino Daniele,Federico Fellini,De Sica;35.5
+De Sica,Regina Margherita,Federico Fellini;32.0
+Sophia Loren,De Sica,Dario Argento;32.0
+Dante,Alberto Sordi,Boticelli;31.0
+Dario Argento,Federico Fellini,Vittorio Gassman;34.0
+Rafaella,Raffaello,Boticelli;31.5
+Donatello,Pavarotti,Rafaella;37.0
+Sophia Loren,Regina Margherita,Marcello Mastroianni;31.5
+Federico Fellini,Alberto Sordi,Federico Fellini;35.0
+Pavarotti,Pavarotti,Vittorio Gassman;36.5
+Michilangelo,Boticelli,Pino Daniele;33.0
+Pavarotti,Alberto Sordi;22.5
+Michilangelo,Rafaella,Marcello Mastroianni;34.0
+Raffaello,Pino Daniele,Pino Daniele;36.5
+Vanvitelli,Vanvitelli,Dante;35.5
+Rafaella,De Sica,Alberto Sordi;32.5
+Federico Fellini,Dante,Regina Margherita;34.5
+Gigi D'Allesio,Raffaello,Donatello;33.0
+Dante,Gianni Morandi,Federico Fellini;37.0
+Vanvitelli,Regina Margherita,Federico Fellini;33.5
+Boticelli,Dario Argento;18.5
+Federico Fellini,Raffaello;23.0
+Dante,Regina Margherita,Pino Daniele;35.0
+Boticelli,Alberto Sordi,Laura Pausini;28.5
+Regina Margherita,Sophia Loren,Vesuvio;33.0
+Pino Daniele,Sophia Loren,Gianni Morandi;37.0
+Alberto Sordi,Vittorio Gassman,Gigi D'Allesio;32.0
+Toto,Toto,Dario Argento;34.0
+Alberto Sordi,Vanvitelli,Dario Argento;31.5
+Gigi D'Allesio,Vanvitelli,Federico Fellini;34.5
+Vesuvio,Donatello,Massimo Troisi;34.0
+Gigi D'Allesio,Vanvitelli,Michilangelo;33.5
+Pino Daniele,De Sica,Rafaella;35.5
+Michilangelo,Massimo Troisi,Pavarotti;34.5
+Toto,De Sica,Pino Daniele;35.0
+Rafaella,Dante;25.0
+Gigi D'Allesio,Laura Pausini,Marcello Mastroianni;30.5
+Federico Fellini,Vanvitelli,Gigi D'Allesio;34.5
+De Sica,Raffaello,Dario Argento;30.5
+Dario Argento,Donatello,Rafaella;34.5
+Massimo Troisi,Laura Pausini,Laura Pausini;30.5
+Pavarotti,Gigi D'Allesio;23.0
+Sophia Loren,Vanvitelli,Boticelli;32.0
+Rafaella,Raffaello,Alberto Sordi;33.0
+Donatello,Marcello Mastroianni,Regina Margherita;31.5
+Dante,Federico Fellini,Marcello Mastroianni;35.0
+Rafaella,Raffaello,De Sica;33.0
+Gianni Morandi,Regina Margherita,Michilangelo;33.0
+Sophia Loren,Alberto Sordi,Vesuvio;33.5
+Pavarotti,Dante,Alberto Sordi;35.0
+Alberto Sordi,Pino Daniele,Laura Pausini;33.0
+De Sica,Dante,Marcello Mastroianni;32.5
+Laura Pausini,Gigi D'Allesio,Dante;33.0
+Mario Merola,Boticelli,Vittorio Gassman;28.0
+Michilangelo,Gigi D'Allesio,Raffaello;32.5
+Rafaella,Raffaello,Raffaello;33.5
+Boticelli,Pavarotti,Toto;33.0
+Donatello,Pavarotti,Sophia Loren;36.5
+Raffaello,Raffaello,Gigi D'Allesio;31.5
+Raffaello,Federico Fellini;23.0
+Donatello,Regina Margherita,Donatello;33.5
+Michilangelo,Toto,Dario Argento;33.5
+Vittorio Gassman,Vanvitelli,Dante;35.5
+Federico Fellini,Rafaella,Pavarotti;37.5
+Raffaello,Vesuvio,Donatello;34.0
+Dario Argento,Raffaello,Marcello Mastroianni;30.5
+Gigi D'Allesio,Raffaello,Marcello Mastroianni;31.0
+Dante,Pavarotti;25.0
+Gigi D'Allesio,Mario Merola,Mario Merola;26.5
+Pavarotti,Massimo Troisi,Vittorio Gassman;34.5
+Mario Merola,De Sica;18.0
+Pino Daniele,Pino Daniele,Pavarotti;38.5
+Toto,Sophia Loren,Vanvitelli;35.5
+Boticelli,Vesuvio,Donatello;32.0
+De Sica,Regina Margherita,Toto;31.5
+Vesuvio,Vesuvio;23.0
+Federico Fellini,Michilangelo,Michilangelo;35.5
+Vesuvio,Vittorio Gassman,Donatello;35.0
+Sophia Loren,Michilangelo,Rafaella;36.0
+Mario Merola,Regina Margherita,Boticelli;26.0
+Raffaello,Vesuvio,De Sica;32.0
+Sophia Loren,Raffaello,Massimo Troisi;33.0
+Gianni Morandi,Federico Fellini,Marcello Mastroianni;34.5
+Laura Pausini,Marcello Mastroianni,Massimo Troisi;30.5
+Dario Argento,Laura Pausini,Marcello Mastroianni;30.0
+Regina Margherita,Massimo Troisi,Marcello Mastroianni;30.0
+Raffaello,Boticelli,Boticelli;27.5
+Sophia Loren,Boticelli,Federico Fellini;33.0
+Raffaello,Donatello,Gianni Morandi;34.5
+Sophia Loren,Pino Daniele,Laura Pausini;35.0
+Massimo Troisi,Vesuvio;22.0
+Mario Merola,Gigi D'Allesio;18.5
+Federico Fellini,Dante,Pavarotti;37.5
+Laura Pausini,Mario Merola,Vittorio Gassman;29.5
+Vanvitelli,Gianni Morandi,Regina Margherita;33.0
+Boticelli,Boticelli,Sophia Loren;29.0
+Gigi D'Allesio,Regina Margherita,Vittorio Gassman;31.5
+Vanvitelli,Marcello Mastroianni,Pino Daniele;34.5
+Raffaello,Massimo Troisi,Vanvitelli;32.5
+Vesuvio,Vesuvio,Vittorio Gassman;34.5
+Vittorio Gassman,Pavarotti,Dario Argento;34.0
+Pavarotti,Vesuvio,Boticelli;32.5
+Marcello Mastroianni,Boticelli,Marcello Mastroianni;28.5
+Raffaello,Alberto Sordi,Federico Fellini;33.0
+Pino Daniele,Regina Margherita,Rafaella;35.0
+Vesuvio,Sophia Loren,Marcello Mastroianni;33.5
+Michilangelo,Mario Merola,Vesuvio;31.0
+Toto,Vesuvio,Pavarotti;36.0
+Vanvitelli,Vittorio Gassman,Pino Daniele;36.0
+Boticelli,Vittorio Gassman,Laura Pausini;30.0
+Vanvitelli,Boticelli,Boticelli;28.5
+Vesuvio,Gigi D'Allesio,Sophia Loren;34.0
+Gigi D'Allesio,Marcello Mastroianni,Massimo Troisi;31.0
+Vesuvio,Laura Pausini;21.5
+Regina Margherita,Federico Fellini,Massimo Troisi;32.5
+Gigi D'Allesio,Dario Argento,Marcello Mastroianni;30.5
+Toto,Dante,Donatello;36.5
+Sophia Loren,Sophia Loren,Massimo Troisi;34.5
+Donatello,Pino Daniele,Massimo Troisi;35.5
+Raffaello,Federico Fellini,Massimo Troisi;33.5
+Mario Merola,Toto,Gianni Morandi;32.0
+De Sica,Vittorio Gassman,Gianni Morandi;33.5
+Vesuvio,De Sica,Marcello Mastroianni;31.5
+Michilangelo,De Sica,Dario Argento;31.5
+Alberto Sordi,Massimo Troisi,Mario Merola;28.5
+Vittorio Gassman,Alberto Sordi,Federico Fellini;34.0
+Rafaella,Pino Daniele,Boticelli;34.0
+Dante,Vittorio Gassman,Pino Daniele;37.0
+Pino Daniele,Alberto Sordi,Gigi D'Allesio;33.5
+Laura Pausini,Pavarotti,Sophia Loren;34.5
+Marcello Mastroianni,Massimo Troisi,Michilangelo;32.0
+Laura Pausini,Donatello,Vanvitelli;33.5
+Vesuvio,De Sica,Dario Argento;31.5
+Sophia Loren,Vesuvio,Mario Merola;31.5
+Boticelli,Gianni Morandi,Boticelli;29.0
+Pavarotti,Vittorio Gassman;24.0
+Federico Fellini,Boticelli,Vanvitelli;32.5
+Vesuvio,Pino Daniele,Mario Merola;32.5
+Boticelli,Boticelli,Marcello Mastroianni;27.0
+Rafaella,Marcello Mastroianni,Regina Margherita;32.0
+Pavarotti,Michilangelo,Marcello Mastroianni;34.0
+Federico Fellini,Dante;25.0
+Marcello Mastroianni,Mario Merola,Gianni Morandi;30.0
+Massimo Troisi,Vittorio Gassman,Alberto Sordi;32.0
+Michilangelo,Vanvitelli,Gigi D'Allesio;33.5
+Vanvitelli,Pino Daniele,Boticelli;33.0
+Vittorio Gassman,De Sica,Boticelli;30.0
+Rafaella,Regina Margherita,Michilangelo;33.5
+Pavarotti,Laura Pausini,Vesuvio;34.0
+Dante,Donatello,Pino Daniele;37.5
+Laura Pausini,Mario Merola,Michilangelo;29.5
+Dante,Pino Daniele,De Sica;35.5
+De Sica,Massimo Troisi,Michilangelo;32.0
+De Sica,Michilangelo,Alberto Sordi;31.5
+Boticelli,Dario Argento,Vesuvio;30.0
+Gigi D'Allesio,Michilangelo,Pino Daniele;35.0
+Rafaella,Boticelli,Michilangelo;32.5
+Dario Argento,Dante,Boticelli;31.0
+Dante,Marcello Mastroianni,Pavarotti;35.0
+Raffaello,Mario Merola,Regina Margherita;28.0
+Rafaella,Gigi D'Allesio,Vittorio Gassman;34.5
+Dante,Vittorio Gassman;24.0
+Vittorio Gassman,Alberto Sordi,Alberto Sordi;31.5
+Gigi D'Allesio,Federico Fellini,Pino Daniele;36.0
+Vanvitelli,Dante,Laura Pausini;34.0
+Alberto Sordi,Dario Argento,Vittorio Gassman;31.5
+Raffaello,Rafaella,Laura Pausini;33.0
+Mario Merola,Raffaello,Dario Argento;28.5
+Sophia Loren,Donatello;24.0
+Vesuvio,Boticelli,Donatello;32.0
+Massimo Troisi,Alberto Sordi,De Sica;30.5
+Rafaella,Mario Merola,Dario Argento;30.5
+Regina Margherita,Donatello,Vittorio Gassman;33.0
+Gigi D'Allesio,Pavarotti,Pavarotti;35.5
+Gigi D'Allesio,Vesuvio,Dante;34.5
+Sophia Loren,Donatello,Massimo Troisi;34.5
+Gigi D'Allesio,Boticelli,Boticelli;27.5
+Rafaella,Mario Merola,Gigi D'Allesio;31.0
+Gigi D'Allesio,Toto,Raffaello;33.0
+Pavarotti,Vesuvio,Regina Margherita;33.5
+Regina Margherita,Boticelli,Laura Pausini;28.0
+Dario Argento,Dante;22.5
+Vesuvio,Boticelli,Vanvitelli;31.5
+Vanvitelli,Donatello,Vesuvio;35.0
+Boticelli,Pavarotti,Vittorio Gassman;32.5
+Sophia Loren,Vanvitelli,Raffaello;34.0
+Michilangelo,De Sica;21.5
+Raffaello,Boticelli;19.0
+Vanvitelli,Gianni Morandi,Toto;35.5
+Toto,Sophia Loren,Regina Margherita;33.5
+Vesuvio,De Sica,Vanvitelli;33.0
+Gigi D'Allesio,De Sica,Dario Argento;30.5
+Sophia Loren,Toto,Michilangelo;35.5
+Pino Daniele,Massimo Troisi,Pino Daniele;36.5
+Vittorio Gassman,Pavarotti,Massimo Troisi;34.5
+De Sica,Dario Argento,Pavarotti;32.5
+Sophia Loren,Mario Merola,Massimo Troisi;30.5
+Vesuvio,Vesuvio;23.0
+Toto,Pavarotti,Laura Pausini;34.5
+Alberto Sordi,Pino Daniele,Laura Pausini;33.0
+Vittorio Gassman,Marcello Mastroianni,Rafaella;34.0
+Gianni Morandi,Gigi D'Allesio,Mario Merola;30.5
+Dante,Massimo Troisi,Massimo Troisi;33.5
+Pavarotti,Pino Daniele;25.5
+Toto,Gianni Morandi;24.0
+Marcello Mastroianni,Michilangelo,Gigi D'Allesio;32.0
+Dario Argento,Dante,Marcello Mastroianni;32.5
+Massimo Troisi,Regina Margherita,Michilangelo;31.5
+Laura Pausini,Marcello Mastroianni,Laura Pausini;30.0
+Vesuvio,Michilangelo,Pavarotti;35.5
+De Sica,Vesuvio,Boticelli;30.0
+Michilangelo,Toto,Mario Merola;31.5
+Toto,Marcello Mastroianni,Regina Margherita;31.5
+Dario Argento,Rafaella,Pavarotti;35.0
+Donatello,Regina Margherita,Raffaello;32.0
+Laura Pausini,Regina Margherita;19.5
+Gigi D'Allesio,Vanvitelli;22.0
+Dante,Mario Merola,Boticelli;29.0
+Raffaello,Gianni Morandi,Regina Margherita;32.0
+Michilangelo,Vesuvio,De Sica;33.0
+Gianni Morandi,Pavarotti,Pavarotti;37.0
+Gigi D'Allesio,Vittorio Gassman,Dario Argento;32.0
+Rafaella,Raffaello,Pino Daniele;36.0
+Boticelli,Rafaella,Alberto Sordi;31.0
+Gigi D'Allesio,Vittorio Gassman;22.0
+De Sica,Raffaello,Gigi D'Allesio;31.0
+Rafaella,Alberto Sordi,Dante;35.0
+Dante,Pavarotti,Vanvitelli;36.5
+Regina Margherita,Sophia Loren,Rafaella;34.0
+Vanvitelli,Pino Daniele,Donatello;36.5
+Gigi D'Allesio,Vesuvio,Pino Daniele;35.0
+Pavarotti,Vanvitelli,Gianni Morandi;36.0
+Laura Pausini,Toto,Rafaella;34.5
+Massimo Troisi,Dante,Toto;35.0
+Vanvitelli,Alberto Sordi,Gianni Morandi;33.5
+Pino Daniele,Rafaella,Pavarotti;38.0
+Sophia Loren,Mario Merola,Boticelli;28.5
+Boticelli,Massimo Troisi,Toto;31.0
+Vanvitelli,Gigi D'Allesio,Michilangelo;33.5
+Regina Margherita,Pavarotti,Dario Argento;32.0
+Dante,Dario Argento,De Sica;32.5
+Alberto Sordi,Dante,Massimo Troisi;33.0
+Massimo Troisi,Michilangelo,Laura Pausini;32.0
+Toto,De Sica,Federico Fellini;34.5
+Federico Fellini,Michilangelo,De Sica;34.0
+Michilangelo,Michilangelo,Boticelli;31.5
+Sophia Loren,Pavarotti,Vesuvio;36.0
+De Sica,Dario Argento,Vanvitelli;31.5
+Gigi D'Allesio,Vittorio Gassman,Pavarotti;34.5
+Gianni Morandi,De Sica;22.0
+Toto,Donatello,Pino Daniele;37.0
+Vanvitelli,Vanvitelli,Gigi D'Allesio;33.5
+Sophia Loren,Michilangelo,Gigi D'Allesio;34.0
+Vesuvio,Pino Daniele,Sophia Loren;36.5
+Laura Pausini,Toto,Massimo Troisi;32.5
+Donatello,Dario Argento,Pino Daniele;35.0
+Rafaella,Federico Fellini,Michilangelo;36.5
+Laura Pausini,Michilangelo;21.5
+Alberto Sordi,Federico Fellini,Federico Fellini;35.0
+Toto,Marcello Mastroianni,Dario Argento;32.0
+Dante,Vanvitelli,Federico Fellini;36.5
+Vesuvio,Alberto Sordi,Raffaello;32.0
+Massimo Troisi,Laura Pausini;20.5
+De Sica,Rafaella,Donatello;34.5
+Donatello,Rafaella,Mario Merola;32.5
+Massimo Troisi,Gigi D'Allesio,Vittorio Gassman;32.5
+Pavarotti,Pavarotti;25.0
+Federico Fellini,Federico Fellini,Gianni Morandi;37.0
+Gianni Morandi,Gigi D'Allesio,Laura Pausini;32.5
+Laura Pausini,De Sica,Gianni Morandi;32.0
+Gianni Morandi,Raffaello,Regina Margherita;32.0
+Vittorio Gassman,Rafaella,Michilangelo;35.5
+Massimo Troisi,Gigi D'Allesio,Donatello;33.0
+Pino Daniele,Donatello,Raffaello;35.5
+Michilangelo,Pino Daniele,Donatello;36.5
+Rafaella,Laura Pausini,Rafaella;35.0
+Marcello Mastroianni,Pavarotti;22.5
+Vesuvio,Pino Daniele,Gianni Morandi;36.5
+Dante,Michilangelo,Pino Daniele;37.0
+Michilangelo,Federico Fellini,Dario Argento;34.0
+Vittorio Gassman,Rafaella,Vanvitelli;35.5
+Michilangelo,Pino Daniele,Gianni Morandi;36.5
+Massimo Troisi,Pino Daniele,Alberto Sordi;33.5
+Rafaella,Pino Daniele,Vanvitelli;37.0
+Michilangelo,Vesuvio,Massimo Troisi;33.5
+Michilangelo,Regina Margherita,Laura Pausini;31.0
+Vesuvio,Raffaello,Laura Pausini;32.0
+Gianni Morandi,Vittorio Gassman,Regina Margherita;33.0
+Dante,Federico Fellini,Donatello;37.0
+Marcello Mastroianni,Michilangelo,Pavarotti;34.0
+Regina Margherita,Dante,Sophia Loren;34.0
+Boticelli,Dario Argento,Marcello Mastroianni;28.5
+Dante,Pavarotti,Dario Argento;35.0
+Boticelli,Vanvitelli,Pavarotti;32.5
+Federico Fellini,Rafaella,Dante;37.5
+Dante,Toto,Rafaella;37.0
+Toto,Boticelli,Gianni Morandi;32.5
+Boticelli,Gigi D'Allesio,Boticelli;27.5
+Vesuvio,Gigi D'Allesio,Rafaella;34.5
+Boticelli,Vittorio Gassman,Boticelli;28.5
+Mario Merola,Vanvitelli,Vesuvio;31.0
+Marcello Mastroianni,Alberto Sordi,Gigi D'Allesio;30.5
+Gigi D'Allesio,Pavarotti,Rafaella;35.5
+Gigi D'Allesio,Pino Daniele,Marcello Mastroianni;33.5
+Vittorio Gassman,Dante,Alberto Sordi;34.0
+Mario Merola,Dante,Vanvitelli;32.0
+Toto,Sophia Loren,Massimo Troisi;34.5
+Laura Pausini,Alberto Sordi,Michilangelo;31.5
+Raffaello,De Sica,Raffaello;31.0
+Gianni Morandi,Michilangelo,Gigi D'Allesio;34.0
+Michilangelo,Dario Argento,Gigi D'Allesio;32.0
+Gianni Morandi,Marcello Mastroianni,Massimo Troisi;32.5
+Rafaella,Raffaello,Raffaello;33.5
+Massimo Troisi,Dante;23.0
+Sophia Loren,Donatello,Massimo Troisi;34.5
+Regina Margherita,Sophia Loren,Donatello;33.5
+Pavarotti,Pavarotti,Dante;37.5
+Dante,Mario Merola,Mario Merola;28.5
+Gigi D'Allesio,Gianni Morandi,Regina Margherita;32.0
+Mario Merola,Pavarotti,Gigi D'Allesio;31.0
+Boticelli,Pavarotti,Boticelli;29.5
+Vanvitelli,Michilangelo,Laura Pausini;33.0
+Boticelli,Vesuvio,Rafaella;32.5
+Dario Argento,Massimo Troisi,Regina Margherita;30.0
+Massimo Troisi,Vesuvio,Raffaello;32.5
+Sophia Loren,Pavarotti,Federico Fellini;37.0
+Vanvitelli,Toto,Vesuvio;35.0
+Toto,Toto,De Sica;34.0
+Pavarotti,Alberto Sordi,Toto;34.5
+Mario Merola,Sophia Loren,Alberto Sordi;30.0
+Marcello Mastroianni,De Sica,Laura Pausini;30.0

@@ -2,32 +2,42 @@
 
 import pandas as pd
 import numpy as np
-from sklearn.tree import DecisionTreeRegressor
 from sklearn.linear_model import LinearRegression
-from sklearn.preprocessing import OneHotEncoder
 
-data = pd.read_csv('pizza_dataset.csv', sep=';')
-data_transformed = pd.DataFrame([i.split(',') for i in data['orders']], columns=['pizza1', 'pizza2', 'pizza3'])
-data_transformed['amount'] = data['total_amount']
+data = pd.read_csv('for_algorithm.csv', sep=';')
+X = data.iloc[:, :25].values
+y = data.iloc[:, 26].values
 
-orders_sorted = orders.copy()
-l = orders_sorted.values.tolist()
-for a in l:
-    a = a.sort()
-X = pd.DataFrame(l)
-X['synt'] = [str(X.loc[i, 0]) + str(X.loc[i, 1]) + str(X.loc[i, 2]) for i in range(len(X))]
-
-y = data_transformed.loc[:, 'amount']
-
-regressor = DecisionTreeRegressor(random_state=0)
-X_train = pd.get_dummies(X['synt'])
-
-regressor.fit(X_train, y)
-
-d = np.array([[0, 0, 1], [2, 0, 0], [1, 0, 0]])
-
-y_pred = regressor.predict(X=d)
-
+d = np.identity(25)
+# linear regression
 linear = LinearRegression()
 linear.fit(X, y)
 y_pred = linear.predict(d)
+
+# classification:
+
+y_class = data.iloc[:, 25].values
+
+from sklearn.linear_model import LogisticRegression
+log_reg = LogisticRegression(random_state=0)
+log_reg.fit(X, y_class)
+
+ctry_ = np.random.randint(0, 26, size=(20, 3))
+ctry_ = pd.DataFrame(ctry_)
+for c in ctry_.columns:
+    ctry_[c] = ctry_[c].map(mapping)
+ctry = pd.DataFrame(data=np.zeros(shape=(len(ctry_), len(sparse_columns))), columns=sparse_columns)
+for i in range(len(ctry_)):
+    for pizza in list(ctry_.loc[i, :]):
+        if pizza in sparse_columns:
+            ctry.loc[i, pizza] += 1
+y_test = ctry.iloc[:, :].values
+
+y_pred_class = log_reg.predict(y_test)
+y_pred_class_label = pd.Series(y_pred_class)
+y_pred_class_label = y_pred_class_label.map(country_map)
+
+proba = log_reg.predict_proba(y_test)
+
+outcome = pd.DataFrame(ctry_)
+outcome['predicted_country'] = y_pred_class_label

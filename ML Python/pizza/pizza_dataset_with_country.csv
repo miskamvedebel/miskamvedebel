@@ -1,0 +1,1001 @@
+orders;country;total_amount
+Dario Argento,Laura Pausini,Dante;Great Britain;32.5
+Sophia Loren,Vesuvio,Rafaella;Italy;36.0
+Pino Daniele,Dante;Great Britain;25.5
+Laura Pausini,Gigi D'Allesio,Federico Fellini;Italy;33.0
+Marcello Mastroianni,Marcello Mastroianni,Regina Margherita;Spain;29.5
+Dario Argento,Michilangelo,Vesuvio;Italy;33.0
+Alberto Sordi,Regina Margherita,Mario Merola;Germany;27.5
+Dario Argento,Vesuvio,Pavarotti;Finland;34.0
+Pino Daniele,Donatello,Alberto Sordi;Great Britain;35.0
+Marcello Mastroianni,Dario Argento,Toto;Great Britain;32.0
+Boticelli,Rafaella,Rafaella;Great Britain;33.5
+Laura Pausini,Michilangelo,Laura Pausini;Germany;31.5
+Dante,Michilangelo,Massimo Troisi;Finland;34.5
+Dario Argento,Mario Merola,De Sica;Germany;28.0
+Sophia Loren,Raffaello,Toto;Finland;34.5
+Michilangelo,Federico Fellini;Italy;24.0
+Sophia Loren,Marcello Mastroianni,Rafaella;Germany;34.5
+Raffaello,Michilangelo,Michilangelo;Spain;33.5
+Gigi D'Allesio,Donatello,Rafaella;Italy;35.0
+Mario Merola,Gianni Morandi,Gigi D'Allesio;Italy;30.5
+Raffaello,Dario Argento,Gianni Morandi;Germany;32.5
+Mario Merola,Pino Daniele,Alberto Sordi;Italy;31.0
+Vesuvio,Regina Margherita,Michilangelo;Italy;32.5
+Rafaella,Mario Merola,Regina Margherita;Finland;30.0
+Mario Merola,Gianni Morandi,Massimo Troisi;Italy;30.5
+Marcello Mastroianni,De Sica,Rafaella;Finland;32.5
+Massimo Troisi,Dante,Toto;Germany;35.0
+Marcello Mastroianni,Dario Argento,Michilangelo;Germany;31.5
+Pino Daniele,Pino Daniele,Donatello;Spain;38.0
+Dante,Dario Argento,Pavarotti;Italy;35.0
+Alberto Sordi,Raffaello,Regina Margherita;Spain;30.0
+Rafaella,Marcello Mastroianni,Pino Daniele;Spain;35.5
+Donatello,Alberto Sordi,Gianni Morandi;Finland;34.0
+Marcello Mastroianni,Pavarotti,Pavarotti;Germany;35.0
+Dario Argento,Toto,Massimo Troisi;Italy;32.5
+Massimo Troisi,Michilangelo,Vesuvio;Italy;33.5
+De Sica,Raffaello,Dario Argento;Great Britain;30.5
+Vittorio Gassman,Michilangelo,Sophia Loren;Germany;35.0
+Michilangelo,Regina Margherita,Boticelli;Great Britain;29.5
+Federico Fellini,Federico Fellini,Michilangelo;Germany;36.5
+Vanvitelli,Pino Daniele,Sophia Loren;Germany;36.5
+Massimo Troisi,Pino Daniele;Italy;23.5
+Raffaello,Michilangelo,Alberto Sordi;Italy;32.0
+Mario Merola,Marcello Mastroianni,Laura Pausini;Finland;28.0
+Alberto Sordi,Marcello Mastroianni,Vesuvio;Great Britain;31.5
+Sophia Loren,Dario Argento,Sophia Loren;Great Britain;34.0
+Vanvitelli,Toto,Dario Argento;Spain;33.5
+Laura Pausini,Michilangelo,Raffaello;Spain;32.0
+Dario Argento,Dario Argento,De Sica;Italy;30.0
+Marcello Mastroianni,Massimo Troisi,Raffaello;Spain;31.0
+Vittorio Gassman,Mario Merola,Raffaello;Italy;30.0
+Laura Pausini,Boticelli,Laura Pausini;Germany;28.5
+Regina Margherita,Donatello,Dario Argento;Spain;31.5
+Michilangelo,Vittorio Gassman,Dario Argento;Finland;33.0
+Sophia Loren,Mario Merola,Pino Daniele;Italy;33.0
+Laura Pausini,Laura Pausini,Dario Argento;Spain;30.0
+Toto,Michilangelo,Regina Margherita;Great Britain;33.0
+Pino Daniele,Dario Argento,Michilangelo;Finland;34.5
+Mario Merola,Dario Argento,De Sica;Finland;28.0
+Sophia Loren,De Sica,Rafaella;Germany;34.5
+Vittorio Gassman,Dario Argento,Massimo Troisi;Germany;32.0
+Vanvitelli,Pino Daniele,Gianni Morandi;Great Britain;36.5
+Mario Merola,Gigi D'Allesio,Laura Pausini;Italy;28.5
+Laura Pausini,Vesuvio,Michilangelo;Italy;33.0
+Raffaello,Laura Pausini,Vittorio Gassman;Germany;32.0
+Pino Daniele,Alberto Sordi,Marcello Mastroianni;Finland;33.0
+Massimo Troisi,Marcello Mastroianni,Rafaella;Great Britain;33.0
+Sophia Loren,Dante,Boticelli;Great Britain;33.0
+Regina Margherita,Gigi D'Allesio,Vanvitelli;Finland;31.5
+Alberto Sordi,Dario Argento,Michilangelo;Germany;31.5
+Donatello,Alberto Sordi,Boticelli;Italy;30.5
+Regina Margherita,Michilangelo,Vesuvio;Italy;32.5
+Boticelli,Massimo Troisi;Spain;19.0
+Massimo Troisi,Boticelli,Donatello;Finland;31.0
+Donatello,Vittorio Gassman,Alberto Sordi;Italy;33.5
+Pavarotti,Dario Argento,Gianni Morandi;Germany;34.5
+Vanvitelli,Pavarotti,Federico Fellini;Germany;36.5
+Alberto Sordi,Alberto Sordi,Laura Pausini;Finland;30.0
+Donatello,Massimo Troisi,Pavarotti;Great Britain;35.0
+Vanvitelli,Michilangelo,Federico Fellini;Spain;35.5
+Pavarotti,Boticelli,Vittorio Gassman;Great Britain;32.5
+Vesuvio,Massimo Troisi,Sophia Loren;Spain;34.0
+Vesuvio,Michilangelo,Federico Fellini;Italy;35.5
+Raffaello,Marcello Mastroianni,Dario Argento;Great Britain;30.5
+Gigi D'Allesio,Laura Pausini,Regina Margherita;Spain;30.0
+Marcello Mastroianni,Dario Argento,Michilangelo;Italy;31.5
+Boticelli,Vesuvio,Gigi D'Allesio;Germany;30.5
+Rafaella,Mario Merola;Finland;20.5
+Pino Daniele,Rafaella,Alberto Sordi;Italy;35.5
+Mario Merola,Massimo Troisi,Laura Pausini;Great Britain;28.5
+Rafaella,Marcello Mastroianni,Rafaella;Germany;35.0
+Sophia Loren,Sophia Loren,Donatello;Finland;36.0
+Laura Pausini,Alberto Sordi,Marcello Mastroianni;Spain;30.0
+Vesuvio,Sophia Loren;Finland;23.5
+Marcello Mastroianni,Pavarotti,Michilangelo;Spain;34.0
+Alberto Sordi,Rafaella,Dante;Italy;35.0
+De Sica,Donatello;Spain;22.0
+Pavarotti,Laura Pausini,Gianni Morandi;Great Britain;34.5
+Pavarotti,Gianni Morandi,Dario Argento;Finland;34.5
+Laura Pausini,Donatello;Finland;22.0
+Pino Daniele,Pino Daniele;Italy;26.0
+Gigi D'Allesio,Marcello Mastroianni,Michilangelo;Great Britain;32.0
+Dante,Boticelli,Sophia Loren;Spain;33.0
+Pino Daniele,Mario Merola,Donatello;Spain;33.0
+Pino Daniele,Alberto Sordi,Marcello Mastroianni;Spain;33.0
+Michilangelo,Toto,Boticelli;Spain;32.0
+Dario Argento,Marcello Mastroianni,Pino Daniele;Spain;33.0
+Sophia Loren,Laura Pausini,Vittorio Gassman;Finland;33.5
+Dante,Regina Margherita,Sophia Loren;Germany;34.0
+Laura Pausini,Marcello Mastroianni,Michilangelo;Finland;31.5
+Pavarotti,Massimo Troisi,Gianni Morandi;Spain;35.0
+Pino Daniele,Massimo Troisi;Italy;23.5
+Regina Margherita,Rafaella,Laura Pausini;Finland;32.0
+Dante,Regina Margherita;Spain;22.0
+Vittorio Gassman,Michilangelo,Vanvitelli;Germany;34.5
+Rafaella,Regina Margherita,Regina Margherita;Italy;31.5
+Laura Pausini,Toto,Rafaella;Finland;34.5
+Donatello,Mario Merola,Vittorio Gassman;Great Britain;31.5
+Mario Merola,Pino Daniele,Dante;Italy;33.5
+Pino Daniele,Laura Pausini;Italy;23.0
+Rafaella,Federico Fellini,Michilangelo;Germany;36.5
+Vanvitelli,Vanvitelli,Vanvitelli;Finland;34.5
+Alberto Sordi,Vesuvio,Dario Argento;Germany;31.5
+Dante,Laura Pausini,Rafaella;Finland;35.0
+Mario Merola,Raffaello,Regina Margherita;Germany;28.0
+Toto,Vanvitelli,Pavarotti;Germany;36.0
+Toto,Gianni Morandi,Dante;Italy;36.5
+Michilangelo,Regina Margherita,Mario Merola;Spain;29.0
+Alberto Sordi,Mario Merola,Pino Daniele;Italy;31.0
+Mario Merola,Boticelli,Pino Daniele;Italy;29.5
+De Sica,Pavarotti,Regina Margherita;Great Britain;32.0
+Laura Pausini,Pino Daniele;Germany;23.0
+De Sica,Dante,Raffaello;Finland;33.0
+Dante,Alberto Sordi;Spain;22.5
+De Sica,Sophia Loren,Vanvitelli;Spain;33.5
+Sophia Loren,Sophia Loren,Donatello;Germany;36.0
+Sophia Loren,Mario Merola;Italy;20.0
+Gianni Morandi,Marcello Mastroianni,Gianni Morandi;Great Britain;34.0
+De Sica,Michilangelo,Raffaello;Finland;32.0
+Rafaella,Boticelli,Dante;Italy;33.5
+Pavarotti,Pavarotti,Dante;Finland;37.5
+Rafaella,Gianni Morandi,Rafaella;Great Britain;37.0
+Pino Daniele,Michilangelo,Raffaello;Italy;35.0
+Federico Fellini,Dario Argento,De Sica;Finland;32.5
+Pino Daniele,Boticelli,Rafaella;Spain;34.0
+Mario Merola,Marcello Mastroianni,Alberto Sordi;Great Britain;28.0
+Laura Pausini,Laura Pausini,Pavarotti;Italy;32.5
+Pino Daniele,Rafaella,Rafaella;Germany;38.0
+Alberto Sordi,Boticelli,Boticelli;Great Britain;27.0
+Dante,Gianni Morandi,Dario Argento;Finland;34.5
+Federico Fellini,Vesuvio,Gianni Morandi;Spain;36.0
+Marcello Mastroianni,Donatello,Mario Merola;Italy;30.0
+Gianni Morandi,Mario Merola,Pino Daniele;Great Britain;33.0
+Vittorio Gassman,Raffaello,Pino Daniele;Italy;35.0
+;Spain;0.0
+Toto,Michilangelo,Dante;Italy;36.0
+Vittorio Gassman,Vittorio Gassman,Sophia Loren;Great Britain;35.0
+Pino Daniele,Toto,Toto;Germany;37.0
+Vanvitelli,Donatello,Boticelli;Finland;32.0
+Vanvitelli,Dario Argento,Vesuvio;Finland;33.0
+Sophia Loren,Regina Margherita,Dario Argento;Italy;31.5
+Pino Daniele,Regina Margherita,Gianni Morandi;Germany;34.5
+De Sica,Federico Fellini,Gianni Morandi;Germany;34.5
+Gianni Morandi,Vittorio Gassman,Laura Pausini;Spain;33.5
+Sophia Loren,Massimo Troisi,Raffaello;Finland;33.0
+Mario Merola,Rafaella,Vesuvio;Spain;32.0
+Gianni Morandi,Vittorio Gassman,Vanvitelli;Italy;35.0
+Federico Fellini,Pino Daniele;Finland;25.5
+Alberto Sordi,Marcello Mastroianni,Dario Argento;Germany;30.0
+Marcello Mastroianni,Dante,Toto;Spain;34.5
+Vesuvio,Dante,Pino Daniele;Germany;37.0
+Rafaella,Pavarotti;Finland;25.0
+Massimo Troisi,Pavarotti,Gianni Morandi;Italy;35.0
+Mario Merola,Vanvitelli;Germany;19.5
+Regina Margherita,Alberto Sordi,Donatello;Italy;31.5
+Gigi D'Allesio,Toto,Toto;Germany;34.5
+Michilangelo,Pino Daniele;Spain;24.5
+Dante,Vanvitelli,Vesuvio;Great Britain;35.5
+Dante,Vittorio Gassman,Pavarotti;Germany;36.5
+Federico Fellini,Raffaello,Gianni Morandi;Finland;35.0
+Michilangelo,Boticelli,Vesuvio;Germany;31.5
+Rafaella,Vanvitelli,Donatello;Germany;36.0
+Regina Margherita,Vittorio Gassman,Dante;Germany;33.5
+Gianni Morandi,Toto,Dario Argento;Italy;34.0
+De Sica,Vanvitelli,Dante;Spain;34.0
+Federico Fellini,Pavarotti,Michilangelo;Spain;36.5
+De Sica,Raffaello,Raffaello;Finland;31.0
+Boticelli,Alberto Sordi;Spain;18.5
+Marcello Mastroianni,Regina Margherita,Toto;Finland;31.5
+Dario Argento,Toto,De Sica;Great Britain;32.0
+Donatello,De Sica,Pino Daniele;Italy;35.0
+Rafaella,Vesuvio,Massimo Troisi;Spain;34.5
+Raffaello,Massimo Troisi,De Sica;Germany;31.0
+Gianni Morandi,De Sica,Marcello Mastroianni;Spain;32.0
+Pavarotti,Pino Daniele,De Sica;Great Britain;35.5
+Donatello,Vesuvio,Laura Pausini;Great Britain;33.5
+Toto,Dario Argento,Michilangelo;Finland;33.5
+Vesuvio,Mario Merola,Massimo Troisi;Finland;30.0
+Vittorio Gassman,Vittorio Gassman,Toto;Finland;35.0
+Regina Margherita,Regina Margherita,Federico Fellini;Finland;31.5
+Federico Fellini,Regina Margherita,Vesuvio;Italy;33.5
+Regina Margherita,Pino Daniele,Gigi D'Allesio;Italy;33.0
+Massimo Troisi,Vesuvio,De Sica;Italy;32.0
+Vittorio Gassman,Gianni Morandi,Dante;Germany;36.0
+Vesuvio,Vanvitelli,Marcello Mastroianni;Great Britain;33.0
+Donatello,Massimo Troisi,Regina Margherita;Spain;32.0
+Michilangelo,Toto,Vesuvio;Germany;35.0
+Boticelli,Regina Margherita,Vanvitelli;Great Britain;29.5
+Dario Argento,Dante,Vittorio Gassman;Great Britain;34.0
+Boticelli,Vanvitelli,Federico Fellini;Finland;32.5
+Gigi D'Allesio,Marcello Mastroianni,Mario Merola;Germany;28.5
+Dante,Federico Fellini,Donatello;Finland;37.0
+Regina Margherita,De Sica,Dario Argento;Italy;29.5
+Vittorio Gassman,Marcello Mastroianni;Spain;21.5
+Michilangelo,Toto,Pavarotti;Finland;36.0
+Marcello Mastroianni,Toto,Regina Margherita;Great Britain;31.5
+Toto,Dario Argento,Gigi D'Allesio;Great Britain;32.5
+Federico Fellini,Michilangelo,Gigi D'Allesio;Germany;34.5
+Dante,Regina Margherita,Laura Pausini;Italy;32.0
+De Sica,Gigi D'Allesio,Marcello Mastroianni;Germany;30.5
+Vesuvio,Marcello Mastroianni,Toto;Great Britain;33.5
+Regina Margherita,Boticelli,De Sica;Italy;28.0
+Federico Fellini,Raffaello,Vanvitelli;Germany;34.5
+Raffaello,Marcello Mastroianni,De Sica;Germany;30.5
+Donatello,Dante;Great Britain;24.5
+Sophia Loren,Regina Margherita,Alberto Sordi;Germany;31.5
+Vittorio Gassman,Federico Fellini,Gigi D'Allesio;Spain;34.5
+Pino Daniele,Toto,Vittorio Gassman;Great Britain;36.5
+Marcello Mastroianni,De Sica,Vanvitelli;Great Britain;31.5
+Dario Argento,Pavarotti,Vittorio Gassman;Spain;34.0
+Toto,Alberto Sordi,Alberto Sordi;Italy;32.0
+Marcello Mastroianni,Massimo Troisi,Massimo Troisi;Italy;31.0
+Dario Argento,Rafaella,Dario Argento;Finland;32.5
+Gianni Morandi,Dante,Vanvitelli;Spain;36.0
+Laura Pausini,Mario Merola,Donatello;Great Britain;30.0
+Toto,Gianni Morandi,Sophia Loren;Germany;36.0
+Sophia Loren,De Sica,Massimo Troisi;Finland;32.5
+Michilangelo,Federico Fellini,Federico Fellini;Italy;36.5
+Alberto Sordi,Laura Pausini,Raffaello;Finland;30.5
+Vittorio Gassman,Pavarotti,Toto;Spain;36.0
+Vittorio Gassman,Rafaella,Regina Margherita;Italy;33.5
+Vanvitelli,Toto;Italy;23.5
+Pino Daniele,Gigi D'Allesio,Marcello Mastroianni;Italy;33.5
+Vanvitelli,Toto,Marcello Mastroianni;Finland;33.5
+Michilangelo,Rafaella,Vanvitelli;Italy;35.5
+Federico Fellini,Michilangelo,Vesuvio;Germany;35.5
+Gianni Morandi,De Sica,Boticelli;Great Britain;30.5
+Regina Margherita,Donatello,Laura Pausini;Italy;31.5
+Dante,Toto;Italy;24.5
+Federico Fellini,Raffaello,Mario Merola;Great Britain;31.0
+Pino Daniele,Alberto Sordi;Finland;23.0
+Donatello,Alberto Sordi;Great Britain;22.0
+Raffaello,Massimo Troisi,Toto;Great Britain;33.0
+Donatello,Federico Fellini,Rafaella;Great Britain;37.0
+Sophia Loren,Toto,Raffaello;Finland;34.5
+Michilangelo,Dante,Vittorio Gassman;Finland;35.5
+Dante,Regina Margherita,Gigi D'Allesio;Italy;32.5
+Toto,Vanvitelli,Pino Daniele;Spain;36.5
+Massimo Troisi,Gigi D'Allesio,Dante;Finland;33.5
+Alberto Sordi,Gigi D'Allesio,Regina Margherita;Germany;30.0
+Vittorio Gassman,Dario Argento,De Sica;Great Britain;31.5
+Rafaella,Pino Daniele,Gianni Morandi;Italy;37.5
+Pavarotti,Alberto Sordi,Mario Merola;Italy;30.5
+Pino Daniele,Vanvitelli,Gianni Morandi;Germany;36.5
+Toto,Massimo Troisi,Mario Merola;Italy;30.5
+Vesuvio,Regina Margherita,Federico Fellini;Great Britain;33.5
+Rafaella,Toto,Dario Argento;Italy;34.5
+Laura Pausini,Raffaello,Boticelli;Italy;29.0
+Marcello Mastroianni,Regina Margherita,Vesuvio;Spain;31.0
+Federico Fellini,Pino Daniele,Vanvitelli;Germany;37.0
+Dario Argento,Regina Margherita;Finland;19.5
+Marcello Mastroianni,Rafaella,Laura Pausini;Great Britain;32.5
+Dante,Raffaello,Mario Merola;Finland;31.0
+Michilangelo,Donatello,Rafaella;Germany;36.0
+Federico Fellini,Marcello Mastroianni,Federico Fellini;Spain;35.0
+Michilangelo,Rafaella,Dante;Spain;36.5
+Massimo Troisi,Raffaello,Marcello Mastroianni;Spain;31.0
+Gianni Morandi,Michilangelo,Rafaella;Italy;36.0
+Dario Argento,Marcello Mastroianni,Laura Pausini;Italy;30.0
+Dante,Vanvitelli,Toto;Great Britain;36.0
+De Sica,Gianni Morandi,Boticelli;Italy;30.5
+Rafaella,Vesuvio,Donatello;Finland;36.0
+Pino Daniele,Gigi D'Allesio,Vittorio Gassman;Spain;35.0
+Vanvitelli,Sophia Loren,Massimo Troisi;Italy;34.0
+Vanvitelli,Alberto Sordi,Sophia Loren;Spain;33.5
+Gianni Morandi,Alberto Sordi;Spain;22.0
+Massimo Troisi,Pavarotti;Finland;23.0
+Michilangelo,Marcello Mastroianni,Boticelli;Germany;30.0
+Federico Fellini,Pino Daniele,Sophia Loren;Germany;37.5
+Pino Daniele,Alberto Sordi,Marcello Mastroianni;Germany;33.0
+Raffaello,Vanvitelli,Massimo Troisi;Italy;32.5
+Dante,Donatello;Germany;24.5
+Gianni Morandi,Raffaello,Mario Merola;Great Britain;30.5
+Boticelli,Pino Daniele,Marcello Mastroianni;Italy;31.5
+Gianni Morandi,Toto,Toto;Italy;36.0
+Pino Daniele,Gigi D'Allesio;Spain;23.5
+Federico Fellini,Sophia Loren,Laura Pausini;Italy;34.5
+Regina Margherita,Vittorio Gassman;Spain;21.0
+Vesuvio,Gianni Morandi,De Sica;Finland;33.5
+Donatello,Sophia Loren,Mario Merola;Great Britain;32.0
+Michilangelo,Alberto Sordi,Gigi D'Allesio;Great Britain;32.0
+Toto,Raffaello,Rafaella;Great Britain;35.0
+Rafaella,Mario Merola,Dario Argento;Finland;30.5
+Federico Fellini,Michilangelo,De Sica;Spain;34.0
+Laura Pausini,De Sica,Pavarotti;Finland;32.5
+Mario Merola,Rafaella,Vittorio Gassman;Finland;32.0
+Marcello Mastroianni,Sophia Loren,Michilangelo;Spain;33.5
+Regina Margherita,Pino Daniele,Michilangelo;Finland;34.0
+Pino Daniele,Gianni Morandi,Dante;Great Britain;37.5
+Federico Fellini,Pino Daniele,Donatello;Germany;37.5
+Federico Fellini,Toto,Toto;Great Britain;36.5
+Alberto Sordi,Federico Fellini,Dario Argento;Italy;32.5
+Regina Margherita,Mario Merola,Alberto Sordi;Finland;27.5
+Marcello Mastroianni,Vittorio Gassman,Michilangelo;Spain;33.0
+Gigi D'Allesio,Raffaello,Donatello;Great Britain;33.0
+Rafaella,Vanvitelli,Regina Margherita;Italy;33.5
+Federico Fellini,Pino Daniele;Spain;25.5
+Donatello,Toto,Raffaello;Germany;34.5
+Sophia Loren,Gigi D'Allesio,Michilangelo;Finland;34.0
+Massimo Troisi,Federico Fellini,Gianni Morandi;Italy;35.0
+Michilangelo,Laura Pausini;Germany;21.5
+Pino Daniele,Toto,Dante;Spain;37.5
+Marcello Mastroianni,Toto,Vittorio Gassman;Finland;33.5
+Pavarotti,Federico Fellini;Great Britain;25.0
+Rafaella,Dante,Raffaello;Italy;35.5
+Rafaella,Dario Argento,Regina Margherita;Finland;32.0
+Pavarotti,Massimo Troisi,Toto;Great Britain;35.0
+Pino Daniele,Donatello,Toto;Finland;37.0
+Sophia Loren,Dante,Mario Merola;Germany;32.5
+Vittorio Gassman,Rafaella,Mario Merola;Great Britain;32.0
+Marcello Mastroianni,Rafaella,Michilangelo;Germany;34.0
+Michilangelo,Pavarotti,Federico Fellini;Spain;36.5
+Pino Daniele,Federico Fellini,Alberto Sordi;Finland;35.5
+Laura Pausini,Vesuvio,Gianni Morandi;Italy;33.5
+Vittorio Gassman,Massimo Troisi,Marcello Mastroianni;Finland;32.0
+Laura Pausini,De Sica,Michilangelo;Great Britain;31.5
+Dario Argento,Laura Pausini,Massimo Troisi;Great Britain;30.5
+Regina Margherita,Gigi D'Allesio,Gianni Morandi;Finland;32.0
+Vanvitelli,Mario Merola,Regina Margherita;Great Britain;29.0
+Marcello Mastroianni,Raffaello,Gigi D'Allesio;Italy;31.0
+Gigi D'Allesio,Vesuvio,Marcello Mastroianni;Germany;32.0
+Vittorio Gassman,Alberto Sordi,Michilangelo;Germany;33.0
+Boticelli,Alberto Sordi;Great Britain;18.5
+Donatello,Gianni Morandi,Rafaella;Italy;36.5
+Dante,Raffaello,Rafaella;Italy;35.5
+Laura Pausini,Alberto Sordi,Michilangelo;Spain;31.5
+Mario Merola;Italy;8.0
+Vittorio Gassman,De Sica,Pino Daniele;Spain;34.5
+Donatello,Massimo Troisi,Sophia Loren;Finland;34.5
+Regina Margherita,Rafaella,Sophia Loren;Spain;34.0
+Regina Margherita;Great Britain;9.5
+Toto,Alberto Sordi,Toto;Italy;34.0
+Raffaello,Gianni Morandi;Germany;22.5
+Vanvitelli,Toto,Vesuvio;Spain;35.0
+De Sica,Marcello Mastroianni,Rafaella;Great Britain;32.5
+Michilangelo,Michilangelo;Great Britain;23.0
+De Sica,Laura Pausini,Massimo Troisi;Italy;30.5
+De Sica,Boticelli;Finland;18.5
+Rafaella,Vittorio Gassman;Finland;24.0
+Laura Pausini,Dario Argento,Mario Merola;Italy;28.0
+De Sica,Laura Pausini,Vanvitelli;Germany;31.5
+Regina Margherita,Pino Daniele,Federico Fellini;Spain;35.0
+Regina Margherita,Mario Merola,Regina Margherita;Finland;27.0
+Rafaella,Alberto Sordi;Italy;22.5
+Alberto Sordi,Sophia Loren;Spain;22.0
+Regina Margherita,Pavarotti,Dario Argento;Italy;32.0
+Boticelli,De Sica,Vittorio Gassman;Italy;30.0
+Boticelli,Regina Margherita,Vesuvio;Spain;29.5
+Sophia Loren,Donatello;Italy;24.0
+Laura Pausini,Alberto Sordi,Pavarotti;Italy;32.5
+Gigi D'Allesio,Marcello Mastroianni;Spain;20.5
+Gianni Morandi,Dante,Raffaello;Italy;35.0
+Sophia Loren,Alberto Sordi,Boticelli;Italy;30.5
+Massimo Troisi,Laura Pausini,Marcello Mastroianni;Italy;30.5
+Laura Pausini,Vittorio Gassman,Michilangelo;Italy;33.0
+Vesuvio,Boticelli,Pino Daniele;Italy;33.0
+Gianni Morandi,Vittorio Gassman;Finland;23.5
+Laura Pausini,Sophia Loren,Pavarotti;Great Britain;34.5
+Rafaella,Vesuvio,Vanvitelli;Great Britain;35.5
+Massimo Troisi,Dante,Gigi D'Allesio;Great Britain;33.5
+Regina Margherita,Toto,Gigi D'Allesio;Spain;32.0
+Vanvitelli,Mario Merola,Donatello;Finland;31.5
+Alberto Sordi,Regina Margherita,Pavarotti;Great Britain;32.0
+Rafaella,Dario Argento,Pavarotti;Finland;35.0
+De Sica,Donatello,Dante;Spain;34.5
+Vesuvio,Dante,Dario Argento;Italy;34.0
+Toto,Sophia Loren,Sophia Loren;Spain;36.0
+Donatello,Sophia Loren,Sophia Loren;Finland;36.0
+Dante,Dario Argento,Laura Pausini;Great Britain;32.5
+Rafaella,Mario Merola,De Sica;Italy;30.5
+Gigi D'Allesio,Pino Daniele,Pavarotti;Finland;36.0
+Gianni Morandi,Sophia Loren,Boticelli;Spain;32.5
+Sophia Loren,Michilangelo,Alberto Sordi;Great Britain;33.5
+Marcello Mastroianni,Toto,Dario Argento;Germany;32.0
+Alberto Sordi,Gianni Morandi,Laura Pausini;Italy;32.0
+Vittorio Gassman,Raffaello,Massimo Troisi;Great Britain;32.5
+Raffaello,Gigi D'Allesio,Gianni Morandi;Italy;33.0
+Michilangelo,Regina Margherita,De Sica;Finland;31.0
+Gigi D'Allesio,Gianni Morandi,Mario Merola;Great Britain;30.5
+Mario Merola,Dario Argento;Finland;18.0
+Pino Daniele,Marcello Mastroianni,Toto;Italy;35.0
+Vanvitelli,Toto,Vanvitelli;Germany;35.0
+Dario Argento,Pavarotti,Dario Argento;Italy;32.5
+Pino Daniele,Vanvitelli,Dante;Spain;37.0
+Michilangelo,Regina Margherita,Laura Pausini;Spain;31.0
+Sophia Loren,Pavarotti,Raffaello;Germany;35.0
+Raffaello,Vesuvio;Spain;22.0
+Gianni Morandi,Vesuvio,Boticelli;Italy;32.0
+Marcello Mastroianni,Pavarotti,Gianni Morandi;Germany;34.5
+Regina Margherita,Mario Merola;Germany;17.5
+Dario Argento,Gianni Morandi,Raffaello;Spain;32.5
+Alberto Sordi,Vittorio Gassman,Toto;Great Britain;33.5
+Michilangelo,Vanvitelli,Dario Argento;Italy;33.0
+Mario Merola,Mario Merola,Dante;Spain;28.5
+Mario Merola,Gianni Morandi,Donatello;Italy;32.0
+Sophia Loren,Massimo Troisi,Dante;Spain;35.0
+Marcello Mastroianni,Vanvitelli,Vanvitelli;Finland;33.0
+Toto,Vittorio Gassman,Dario Argento;Italy;33.5
+Regina Margherita,Vittorio Gassman,Vanvitelli;Italy;32.5
+Laura Pausini,Rafaella,Alberto Sordi;Italy;32.5
+Federico Fellini,Rafaella,Vesuvio;Finland;36.5
+Boticelli,Laura Pausini,Toto;Finland;30.5
+Michilangelo,Vittorio Gassman;Germany;23.0
+Toto,Boticelli,Raffaello;Finland;31.0
+Dante,Michilangelo,Rafaella;Finland;36.5
+De Sica,Dario Argento,Boticelli;Germany;28.5
+Sophia Loren,Alberto Sordi,Vanvitelli;Spain;33.5
+Alberto Sordi,Mario Merola,Massimo Troisi;Finland;28.5
+Raffaello,Donatello,Rafaella;Spain;35.0
+Regina Margherita,Marcello Mastroianni;Spain;19.5
+Pavarotti,Donatello,Vittorio Gassman;Finland;36.0
+Boticelli,Marcello Mastroianni,Dante;Germany;31.0
+Raffaello,Regina Margherita;Finland;20.0
+Raffaello,Massimo Troisi,Pino Daniele;Great Britain;34.0
+Vesuvio,Gigi D'Allesio,Dante;Great Britain;34.5
+Massimo Troisi,Vanvitelli,Vanvitelli;Great Britain;33.5
+Boticelli,Gigi D'Allesio;Italy;19.0
+Mario Merola,Vittorio Gassman;Germany;19.5
+Michilangelo,Donatello,Gigi D'Allesio;Germany;34.0
+Marcello Mastroianni,Dante,Laura Pausini;Great Britain;32.5
+Mario Merola,Vittorio Gassman,Vittorio Gassman;Great Britain;31.0
+Raffaello,Pino Daniele,Rafaella;Italy;36.0
+Massimo Troisi,Toto,Pavarotti;Great Britain;35.0
+Marcello Mastroianni,Mario Merola,Boticelli;Germany;26.5
+Laura Pausini,Mario Merola,Donatello;Great Britain;30.0
+Mario Merola,Massimo Troisi,Michilangelo;Spain;30.0
+Pavarotti,Michilangelo,Vittorio Gassman;Germany;35.5
+Laura Pausini,Regina Margherita,Laura Pausini;Great Britain;29.5
+Vanvitelli,Gigi D'Allesio;Great Britain;22.0
+Raffaello,Gianni Morandi,Boticelli;Italy;31.0
+Rafaella,Mario Merola,Donatello;Italy;32.5
+Pavarotti,Dante;Italy;25.0
+Alberto Sordi,Mario Merola,Vesuvio;Great Britain;29.5
+Vanvitelli,De Sica,Boticelli;Great Britain;30.0
+Alberto Sordi;Finland;10.0
+Pino Daniele,Donatello,Gianni Morandi;Finland;37.0
+Marcello Mastroianni,Regina Margherita,De Sica;Germany;29.5
+De Sica,Toto,Pavarotti;Germany;34.5
+Donatello,Dario Argento,Federico Fellini;Finland;34.5
+Gigi D'Allesio,Massimo Troisi,Pino Daniele;Great Britain;34.0
+Donatello,Vittorio Gassman,Pino Daniele;Great Britain;36.5
+Rafaella,Dario Argento,Gigi D'Allesio;Finland;33.0
+Mario Merola,Dario Argento,De Sica;Finland;28.0
+Federico Fellini,Vesuvio,Dante;Great Britain;36.5
+Sophia Loren,Gianni Morandi,Laura Pausini;Great Britain;34.0
+Alberto Sordi,Federico Fellini,Vanvitelli;Germany;34.0
+Pino Daniele,Michilangelo,Alberto Sordi;Germany;34.5
+Dario Argento,Raffaello,Marcello Mastroianni;Germany;30.5
+Pavarotti,Laura Pausini,Marcello Mastroianni;Great Britain;32.5
+De Sica,Federico Fellini,Vanvitelli;Germany;34.0
+Alberto Sordi,Massimo Troisi,Alberto Sordi;Germany;30.5
+Dario Argento,De Sica,Mario Merola;Great Britain;28.0
+Vanvitelli,Laura Pausini,Pavarotti;Spain;34.0
+Sophia Loren,Gigi D'Allesio,Mario Merola;Finland;30.5
+De Sica,Massimo Troisi,Laura Pausini;Italy;30.5
+Federico Fellini,Michilangelo,Gianni Morandi;Germany;36.0
+Regina Margherita,Marcello Mastroianni,Gianni Morandi;Great Britain;31.5
+Regina Margherita,Sophia Loren,De Sica;Spain;31.5
+Donatello,Vanvitelli,Rafaella;Germany;36.0
+Vesuvio,Dante,Raffaello;Spain;34.5
+Toto,Donatello,Donatello;Finland;36.0
+Raffaello,Marcello Mastroianni,Rafaella;Italy;33.0
+Vesuvio,Michilangelo,Dario Argento;Spain;33.0
+Marcello Mastroianni,Sophia Loren,Michilangelo;Germany;33.5
+Laura Pausini,Pino Daniele,Federico Fellini;Great Britain;35.5
+Gianni Morandi,Mario Merola,Gigi D'Allesio;Spain;30.5
+Laura Pausini,Marcello Mastroianni,Rafaella;Great Britain;32.5
+Raffaello,Sophia Loren,Mario Merola;Germany;30.5
+Michilangelo,Sophia Loren,Gigi D'Allesio;Spain;34.0
+Marcello Mastroianni,Dario Argento,De Sica;Great Britain;30.0
+Rafaella,Alberto Sordi,Boticelli;Germany;31.0
+Mario Merola,Vesuvio,Rafaella;Italy;32.0
+Vesuvio,Gigi D'Allesio;Finland;22.0
+Gigi D'Allesio,Vittorio Gassman,Boticelli;Spain;30.5
+De Sica,Boticelli,Vittorio Gassman;Germany;30.0
+Vesuvio,Alberto Sordi,Rafaella;Spain;34.0
+Raffaello,Vesuvio,Alberto Sordi;Germany;32.0
+Laura Pausini,Gigi D'Allesio;Spain;20.5
+De Sica,Alberto Sordi;Finland;20.0
+Sophia Loren,Dario Argento,Pino Daniele;Great Britain;35.0
+Pino Daniele,Marcello Mastroianni,De Sica;Great Britain;33.0
+Dante,Regina Margherita,Boticelli;Great Britain;30.5
+Federico Fellini,Marcello Mastroianni,Toto;Spain;34.5
+Boticelli,Pino Daniele;Great Britain;21.5
+Toto,Michilangelo;Italy;23.5
+Gianni Morandi,Boticelli,Michilangelo;Italy;32.0
+Mario Merola,Massimo Troisi,Sophia Loren;Finland;30.5
+Gigi D'Allesio,Vanvitelli,Rafaella;Finland;34.5
+Vanvitelli,Vanvitelli,Vittorio Gassman;Great Britain;34.5
+Vesuvio,Pino Daniele,Vittorio Gassman;Spain;36.0
+Pavarotti,Donatello,Pino Daniele;Italy;37.5
+Dario Argento,Laura Pausini,Michilangelo;Germany;31.5
+Laura Pausini,Vittorio Gassman,Gigi D'Allesio;Spain;32.0
+Michilangelo,Vanvitelli;Germany;23.0
+Regina Margherita,Federico Fellini,De Sica;Germany;32.0
+Vanvitelli,Michilangelo,Alberto Sordi;Finland;33.0
+Marcello Mastroianni,Dario Argento,Federico Fellini;Spain;32.5
+Vanvitelli,Toto,Pavarotti;Germany;36.0
+Vesuvio,Marcello Mastroianni,Pino Daniele;Finland;34.5
+Massimo Troisi,Toto,Vesuvio;Great Britain;34.0
+De Sica,Donatello,Pavarotti;Spain;34.5
+Raffaello,Pavarotti,Pavarotti;Spain;35.5
+Dante,De Sica,Donatello;Spain;34.5
+De Sica,Pavarotti,Pavarotti;Germany;35.0
+Toto,Laura Pausini,Toto;Great Britain;34.0
+Massimo Troisi,Pavarotti,Massimo Troisi;Spain;33.5
+Donatello,Vesuvio,Dario Argento;Germany;33.5
+Vittorio Gassman,Vanvitelli,Michilangelo;Germany;34.5
+Michilangelo,Alberto Sordi;Italy;21.5
+Dario Argento,Boticelli,Regina Margherita;Italy;28.0
+De Sica,Dario Argento,Federico Fellini;Spain;32.5
+Gianni Morandi,Boticelli,Gianni Morandi;Finland;32.5
+Dario Argento,Marcello Mastroianni,Laura Pausini;Finland;30.0
+Michilangelo,Marcello Mastroianni,Pavarotti;Italy;34.0
+Toto,Pavarotti,Marcello Mastroianni;Finland;34.5
+Massimo Troisi,Laura Pausini,Dante;Germany;33.0
+Regina Margherita,Laura Pausini,Gigi D'Allesio;Germany;30.0
+Vittorio Gassman,Boticelli,Gigi D'Allesio;Italy;30.5
+Pavarotti,Raffaello;Germany;23.0
+Vesuvio,Gigi D'Allesio,De Sica;Spain;32.0
+De Sica,Rafaella,De Sica;Great Britain;32.5
+Gigi D'Allesio,Vanvitelli,Federico Fellini;Great Britain;34.5
+Massimo Troisi,Dante;Italy;23.0
+Massimo Troisi,Sophia Loren,Vittorio Gassman;Finland;34.0
+Rafaella,Laura Pausini,De Sica;Great Britain;32.5
+Vesuvio,Gigi D'Allesio,Massimo Troisi;Germany;32.5
+Gigi D'Allesio;Great Britain;10.5
+Pino Daniele,Vittorio Gassman,Regina Margherita;Great Britain;34.0
+Dante,Mario Merola,Massimo Troisi;Spain;31.0
+Federico Fellini,Boticelli,Boticelli;Spain;29.5
+Gigi D'Allesio,Pavarotti;Germany;23.0
+Donatello,Pavarotti,Regina Margherita;Italy;34.0
+Laura Pausini,Pavarotti,Raffaello;Germany;33.0
+De Sica,Michilangelo,Raffaello;Italy;32.0
+Dante,Raffaello,Alberto Sordi;Spain;33.0
+Laura Pausini,Vanvitelli,Toto;Great Britain;33.5
+Gigi D'Allesio,Massimo Troisi,Michilangelo;Finland;32.5
+Rafaella,Gigi D'Allesio,Regina Margherita;Spain;32.5
+Marcello Mastroianni,Boticelli,Vittorio Gassman;Great Britain;30.0
+Laura Pausini,Vittorio Gassman,Vesuvio;Spain;33.0
+Alberto Sordi,Raffaello,Gigi D'Allesio;Finland;31.0
+Vittorio Gassman,Vesuvio;Great Britain;23.0
+Pavarotti,Rafaella,Mario Merola;Italy;33.0
+Pino Daniele,Vanvitelli,Pavarotti;Finland;37.0
+Alberto Sordi,Michilangelo,Laura Pausini;Great Britain;31.5
+Vittorio Gassman,Vittorio Gassman,Vanvitelli;Spain;34.5
+Mario Merola,Pavarotti,Gianni Morandi;Spain;32.5
+Federico Fellini,Regina Margherita,De Sica;Spain;32.0
+De Sica,Massimo Troisi,Vanvitelli;Spain;32.0
+Dante,Rafaella,Mario Merola;Germany;33.0
+Gianni Morandi,Pavarotti,Vittorio Gassman;Germany;36.0
+Pavarotti,Mario Merola,Federico Fellini;Italy;33.0
+Michilangelo,Raffaello,Toto;Italy;34.0
+Alberto Sordi,Vanvitelli,Vesuvio;Germany;33.0
+De Sica,Pino Daniele,Michilangelo;Spain;34.5
+Marcello Mastroianni,Vesuvio,Dario Argento;Spain;31.5
+Vanvitelli,Toto,Gianni Morandi;Germany;35.5
+Vanvitelli,Gianni Morandi,Regina Margherita;Germany;33.0
+Pino Daniele,Federico Fellini,Gigi D'Allesio;Great Britain;36.0
+Massimo Troisi,Pavarotti,Raffaello;Great Britain;33.5
+De Sica,Gianni Morandi,De Sica;Spain;32.0
+Raffaello,Gigi D'Allesio,Marcello Mastroianni;Finland;31.0
+Sophia Loren,Marcello Mastroianni,Vittorio Gassman;Spain;33.5
+Gianni Morandi,Laura Pausini;Spain;22.0
+Rafaella,Gigi D'Allesio,Marcello Mastroianni;Germany;33.0
+Vesuvio,Dario Argento,Dante;Spain;34.0
+Rafaella,Michilangelo,Pavarotti;Germany;36.5
+Marcello Mastroianni,Alberto Sordi,Boticelli;Spain;28.5
+Marcello Mastroianni,Rafaella,Boticelli;Finland;31.0
+Alberto Sordi,Sophia Loren,Sophia Loren;Great Britain;34.0
+Federico Fellini,Regina Margherita,Mario Merola;Great Britain;30.0
+Boticelli;Spain;8.5
+Federico Fellini,Federico Fellini,Vanvitelli;Great Britain;36.5
+Laura Pausini,Regina Margherita,Sophia Loren;Germany;31.5
+Raffaello,Mario Merola,Raffaello;Finland;29.0
+Raffaello,Mario Merola,Gigi D'Allesio;Finland;29.0
+Marcello Mastroianni,Pino Daniele,Pino Daniele;Germany;36.0
+Raffaello,Laura Pausini,Dario Argento;Great Britain;30.5
+Mario Merola,Gianni Morandi,Toto;Finland;32.0
+Gianni Morandi,Vanvitelli,Raffaello;Italy;34.0
+Alberto Sordi,Alberto Sordi,Regina Margherita;Spain;29.5
+Gigi D'Allesio,Rafaella,Vittorio Gassman;Finland;34.5
+Raffaello,Donatello,Rafaella;Germany;35.0
+Raffaello,Raffaello,Gigi D'Allesio;Italy;31.5
+Massimo Troisi,Vanvitelli,Rafaella;Finland;34.5
+Boticelli,Alberto Sordi,Dario Argento;Germany;28.5
+Michilangelo,Gigi D'Allesio,Laura Pausini;Italy;32.0
+Vittorio Gassman,Toto,Laura Pausini;Spain;33.5
+Marcello Mastroianni,Alberto Sordi,Mario Merola;Italy;28.0
+Raffaello,Rafaella,Laura Pausini;Great Britain;33.0
+Donatello,Sophia Loren,Raffaello;Spain;34.5
+Federico Fellini,Alberto Sordi,Gianni Morandi;Great Britain;34.5
+Pino Daniele,Donatello,De Sica;Spain;35.0
+Rafaella,Raffaello;Spain;23.0
+Regina Margherita,Massimo Troisi;Spain;20.0
+Vesuvio,Gigi D'Allesio,Gianni Morandi;Spain;34.0
+Gianni Morandi,Pavarotti;Italy;24.5
+Pavarotti,Dario Argento,Boticelli;Italy;31.0
+De Sica,Gigi D'Allesio;Great Britain;20.5
+Michilangelo,Sophia Loren,Laura Pausini;Great Britain;33.5
+Mario Merola,Dario Argento,Massimo Troisi;Great Britain;28.5
+De Sica,Michilangelo;Spain;21.5
+Marcello Mastroianni,Laura Pausini,Massimo Troisi;Germany;30.5
+Mario Merola,Vanvitelli,Dario Argento;Spain;29.5
+Vanvitelli,Raffaello,Federico Fellini;Great Britain;34.5
+Sophia Loren,Rafaella,Pino Daniele;Italy;37.5
+Dario Argento,Donatello,Raffaello;Spain;32.5
+Rafaella,Massimo Troisi,Gianni Morandi;Finland;35.0
+Dario Argento,Donatello,Toto;Finland;34.0
+Regina Margherita,Vanvitelli,Pino Daniele;Germany;34.0
+Alberto Sordi,Pino Daniele,Marcello Mastroianni;Germany;33.0
+Regina Margherita,Mario Merola,Gianni Morandi;Italy;29.5
+Dante,Laura Pausini,Pavarotti;Italy;35.0
+Marcello Mastroianni,Dario Argento,Toto;Germany;32.0
+Vanvitelli,Dante,Toto;Germany;36.0
+Michilangelo,Boticelli,Regina Margherita;Finland;29.5
+Vesuvio,Dario Argento,De Sica;Spain;31.5
+Rafaella,Gianni Morandi,Laura Pausini;Finland;34.5
+Laura Pausini,Donatello,Vesuvio;Spain;33.5
+Pavarotti,Laura Pausini,De Sica;Great Britain;32.5
+Dario Argento,Vesuvio,Rafaella;Spain;34.0
+Laura Pausini,Pino Daniele,Laura Pausini;Italy;33.0
+Laura Pausini,Michilangelo,Rafaella;Spain;34.0
+Boticelli,Regina Margherita,Pino Daniele;Finland;31.0
+Mario Merola,Laura Pausini,Federico Fellini;Germany;30.5
+Michilangelo,Michilangelo,Vanvitelli;Italy;34.5
+Federico Fellini,Gigi D'Allesio;Italy;23.0
+Pino Daniele,Vittorio Gassman,Massimo Troisi;Italy;35.0
+Marcello Mastroianni,De Sica,Boticelli;Germany;28.5
+Federico Fellini,Federico Fellini,De Sica;Germany;35.0
+Dario Argento,Gigi D'Allesio,Mario Merola;Italy;28.5
+Dante,Michilangelo;Italy;24.0
+Gigi D'Allesio,Laura Pausini,Massimo Troisi;Great Britain;31.0
+Pino Daniele,Sophia Loren,Rafaella;Spain;37.5
+Federico Fellini,Federico Fellini,Donatello;Great Britain;37.0
+Alberto Sordi,Boticelli,Michilangelo;Great Britain;30.0
+Pavarotti,Alberto Sordi,Pavarotti;Italy;35.0
+Dario Argento,Toto;Spain;22.0
+Alberto Sordi,Vittorio Gassman,Pavarotti;Italy;34.0
+Vanvitelli,Dante,Vanvitelli;Italy;35.5
+Marcello Mastroianni,Gianni Morandi;Great Britain;22.0
+Raffaello,De Sica,Pavarotti;Italy;33.0
+Regina Margherita,Pavarotti,Boticelli;Great Britain;30.5
+Boticelli,De Sica,De Sica;Finland;28.5
+Gianni Morandi,Federico Fellini,Regina Margherita;Spain;34.0
+Mario Merola,Federico Fellini,Gianni Morandi;Finland;32.5
+Vesuvio,Massimo Troisi,Boticelli;Great Britain;30.5
+Federico Fellini,Marcello Mastroianni;Italy;22.5
+Regina Margherita,Vanvitelli,Alberto Sordi;Great Britain;31.0
+Pino Daniele,Federico Fellini,De Sica;Germany;35.5
+De Sica,Regina Margherita,Federico Fellini;Great Britain;32.0
+Sophia Loren,De Sica,Dario Argento;Finland;32.0
+Dante,Alberto Sordi,Boticelli;Spain;31.0
+Dario Argento,Federico Fellini,Vittorio Gassman;Italy;34.0
+Rafaella,Raffaello,Boticelli;Great Britain;31.5
+Donatello,Pavarotti,Rafaella;Great Britain;37.0
+Sophia Loren,Regina Margherita,Marcello Mastroianni;Italy;31.5
+Federico Fellini,Alberto Sordi,Federico Fellini;Italy;35.0
+Pavarotti,Pavarotti,Vittorio Gassman;Spain;36.5
+Michilangelo,Boticelli,Pino Daniele;Finland;33.0
+Pavarotti,Alberto Sordi;Great Britain;22.5
+Michilangelo,Rafaella,Marcello Mastroianni;Spain;34.0
+Raffaello,Pino Daniele,Pino Daniele;Germany;36.5
+Vanvitelli,Vanvitelli,Dante;Spain;35.5
+Rafaella,De Sica,Alberto Sordi;Spain;32.5
+Federico Fellini,Dante,Regina Margherita;Finland;34.5
+Gigi D'Allesio,Raffaello,Donatello;Spain;33.0
+Dante,Gianni Morandi,Federico Fellini;Italy;37.0
+Vanvitelli,Regina Margherita,Federico Fellini;Great Britain;33.5
+Boticelli,Dario Argento;Spain;18.5
+Federico Fellini,Raffaello;Germany;23.0
+Dante,Regina Margherita,Pino Daniele;Germany;35.0
+Boticelli,Alberto Sordi,Laura Pausini;Finland;28.5
+Regina Margherita,Sophia Loren,Vesuvio;Finland;33.0
+Pino Daniele,Sophia Loren,Gianni Morandi;Finland;37.0
+Alberto Sordi,Vittorio Gassman,Gigi D'Allesio;Finland;32.0
+Toto,Toto,Dario Argento;Spain;34.0
+Alberto Sordi,Vanvitelli,Dario Argento;Spain;31.5
+Gigi D'Allesio,Vanvitelli,Federico Fellini;Finland;34.5
+Vesuvio,Donatello,Massimo Troisi;Germany;34.0
+Gigi D'Allesio,Vanvitelli,Michilangelo;Spain;33.5
+Pino Daniele,De Sica,Rafaella;Great Britain;35.5
+Michilangelo,Massimo Troisi,Pavarotti;Italy;34.5
+Toto,De Sica,Pino Daniele;Germany;35.0
+Rafaella,Dante;Germany;25.0
+Gigi D'Allesio,Laura Pausini,Marcello Mastroianni;Spain;30.5
+Federico Fellini,Vanvitelli,Gigi D'Allesio;Great Britain;34.5
+De Sica,Raffaello,Dario Argento;Italy;30.5
+Dario Argento,Donatello,Rafaella;Germany;34.5
+Massimo Troisi,Laura Pausini,Laura Pausini;Germany;30.5
+Pavarotti,Gigi D'Allesio;Italy;23.0
+Sophia Loren,Vanvitelli,Boticelli;Finland;32.0
+Rafaella,Raffaello,Alberto Sordi;Spain;33.0
+Donatello,Marcello Mastroianni,Regina Margherita;Finland;31.5
+Dante,Federico Fellini,Marcello Mastroianni;Spain;35.0
+Rafaella,Raffaello,De Sica;Great Britain;33.0
+Gianni Morandi,Regina Margherita,Michilangelo;Finland;33.0
+Sophia Loren,Alberto Sordi,Vesuvio;Finland;33.5
+Pavarotti,Dante,Alberto Sordi;Spain;35.0
+Alberto Sordi,Pino Daniele,Laura Pausini;Italy;33.0
+De Sica,Dante,Marcello Mastroianni;Great Britain;32.5
+Laura Pausini,Gigi D'Allesio,Dante;Great Britain;33.0
+Mario Merola,Boticelli,Vittorio Gassman;Great Britain;28.0
+Michilangelo,Gigi D'Allesio,Raffaello;Finland;32.5
+Rafaella,Raffaello,Raffaello;Great Britain;33.5
+Boticelli,Pavarotti,Toto;Germany;33.0
+Donatello,Pavarotti,Sophia Loren;Italy;36.5
+Raffaello,Raffaello,Gigi D'Allesio;Germany;31.5
+Raffaello,Federico Fellini;Great Britain;23.0
+Donatello,Regina Margherita,Donatello;Italy;33.5
+Michilangelo,Toto,Dario Argento;Spain;33.5
+Vittorio Gassman,Vanvitelli,Dante;Italy;35.5
+Federico Fellini,Rafaella,Pavarotti;Great Britain;37.5
+Raffaello,Vesuvio,Donatello;Germany;34.0
+Dario Argento,Raffaello,Marcello Mastroianni;Finland;30.5
+Gigi D'Allesio,Raffaello,Marcello Mastroianni;Great Britain;31.0
+Dante,Pavarotti;Finland;25.0
+Gigi D'Allesio,Mario Merola,Mario Merola;Great Britain;26.5
+Pavarotti,Massimo Troisi,Vittorio Gassman;Italy;34.5
+Mario Merola,De Sica;Germany;18.0
+Pino Daniele,Pino Daniele,Pavarotti;Germany;38.5
+Toto,Sophia Loren,Vanvitelli;Finland;35.5
+Boticelli,Vesuvio,Donatello;Spain;32.0
+De Sica,Regina Margherita,Toto;Finland;31.5
+Vesuvio,Vesuvio;Great Britain;23.0
+Federico Fellini,Michilangelo,Michilangelo;Finland;35.5
+Vesuvio,Vittorio Gassman,Donatello;Spain;35.0
+Sophia Loren,Michilangelo,Rafaella;Finland;36.0
+Mario Merola,Regina Margherita,Boticelli;Finland;26.0
+Raffaello,Vesuvio,De Sica;Spain;32.0
+Sophia Loren,Raffaello,Massimo Troisi;Great Britain;33.0
+Gianni Morandi,Federico Fellini,Marcello Mastroianni;Finland;34.5
+Laura Pausini,Marcello Mastroianni,Massimo Troisi;Spain;30.5
+Dario Argento,Laura Pausini,Marcello Mastroianni;Germany;30.0
+Regina Margherita,Massimo Troisi,Marcello Mastroianni;Italy;30.0
+Raffaello,Boticelli,Boticelli;Italy;27.5
+Sophia Loren,Boticelli,Federico Fellini;Spain;33.0
+Raffaello,Donatello,Gianni Morandi;Great Britain;34.5
+Sophia Loren,Pino Daniele,Laura Pausini;Spain;35.0
+Massimo Troisi,Vesuvio;Spain;22.0
+Mario Merola,Gigi D'Allesio;Great Britain;18.5
+Federico Fellini,Dante,Pavarotti;Finland;37.5
+Laura Pausini,Mario Merola,Vittorio Gassman;Italy;29.5
+Vanvitelli,Gianni Morandi,Regina Margherita;Finland;33.0
+Boticelli,Boticelli,Sophia Loren;Great Britain;29.0
+Gigi D'Allesio,Regina Margherita,Vittorio Gassman;Spain;31.5
+Vanvitelli,Marcello Mastroianni,Pino Daniele;Italy;34.5
+Raffaello,Massimo Troisi,Vanvitelli;Finland;32.5
+Vesuvio,Vesuvio,Vittorio Gassman;Italy;34.5
+Vittorio Gassman,Pavarotti,Dario Argento;Italy;34.0
+Pavarotti,Vesuvio,Boticelli;Germany;32.5
+Marcello Mastroianni,Boticelli,Marcello Mastroianni;Finland;28.5
+Raffaello,Alberto Sordi,Federico Fellini;Italy;33.0
+Pino Daniele,Regina Margherita,Rafaella;Great Britain;35.0
+Vesuvio,Sophia Loren,Marcello Mastroianni;Spain;33.5
+Michilangelo,Mario Merola,Vesuvio;Finland;31.0
+Toto,Vesuvio,Pavarotti;Finland;36.0
+Vanvitelli,Vittorio Gassman,Pino Daniele;Germany;36.0
+Boticelli,Vittorio Gassman,Laura Pausini;Great Britain;30.0
+Vanvitelli,Boticelli,Boticelli;Finland;28.5
+Vesuvio,Gigi D'Allesio,Sophia Loren;Italy;34.0
+Gigi D'Allesio,Marcello Mastroianni,Massimo Troisi;Spain;31.0
+Vesuvio,Laura Pausini;Italy;21.5
+Regina Margherita,Federico Fellini,Massimo Troisi;Great Britain;32.5
+Gigi D'Allesio,Dario Argento,Marcello Mastroianni;Finland;30.5
+Toto,Dante,Donatello;Spain;36.5
+Sophia Loren,Sophia Loren,Massimo Troisi;Great Britain;34.5
+Donatello,Pino Daniele,Massimo Troisi;Finland;35.5
+Raffaello,Federico Fellini,Massimo Troisi;Spain;33.5
+Mario Merola,Toto,Gianni Morandi;Italy;32.0
+De Sica,Vittorio Gassman,Gianni Morandi;Great Britain;33.5
+Vesuvio,De Sica,Marcello Mastroianni;Germany;31.5
+Michilangelo,De Sica,Dario Argento;Great Britain;31.5
+Alberto Sordi,Massimo Troisi,Mario Merola;Finland;28.5
+Vittorio Gassman,Alberto Sordi,Federico Fellini;Spain;34.0
+Rafaella,Pino Daniele,Boticelli;Italy;34.0
+Dante,Vittorio Gassman,Pino Daniele;Finland;37.0
+Pino Daniele,Alberto Sordi,Gigi D'Allesio;Finland;33.5
+Laura Pausini,Pavarotti,Sophia Loren;Great Britain;34.5
+Marcello Mastroianni,Massimo Troisi,Michilangelo;Spain;32.0
+Laura Pausini,Donatello,Vanvitelli;Italy;33.5
+Vesuvio,De Sica,Dario Argento;Great Britain;31.5
+Sophia Loren,Vesuvio,Mario Merola;Great Britain;31.5
+Boticelli,Gianni Morandi,Boticelli;Great Britain;29.0
+Pavarotti,Vittorio Gassman;Germany;24.0
+Federico Fellini,Boticelli,Vanvitelli;Germany;32.5
+Vesuvio,Pino Daniele,Mario Merola;Great Britain;32.5
+Boticelli,Boticelli,Marcello Mastroianni;Spain;27.0
+Rafaella,Marcello Mastroianni,Regina Margherita;Italy;32.0
+Pavarotti,Michilangelo,Marcello Mastroianni;Great Britain;34.0
+Federico Fellini,Dante;Great Britain;25.0
+Marcello Mastroianni,Mario Merola,Gianni Morandi;Spain;30.0
+Massimo Troisi,Vittorio Gassman,Alberto Sordi;Spain;32.0
+Michilangelo,Vanvitelli,Gigi D'Allesio;Great Britain;33.5
+Vanvitelli,Pino Daniele,Boticelli;Germany;33.0
+Vittorio Gassman,De Sica,Boticelli;Germany;30.0
+Rafaella,Regina Margherita,Michilangelo;Germany;33.5
+Pavarotti,Laura Pausini,Vesuvio;Italy;34.0
+Dante,Donatello,Pino Daniele;Finland;37.5
+Laura Pausini,Mario Merola,Michilangelo;Germany;29.5
+Dante,Pino Daniele,De Sica;Italy;35.5
+De Sica,Massimo Troisi,Michilangelo;Great Britain;32.0
+De Sica,Michilangelo,Alberto Sordi;Great Britain;31.5
+Boticelli,Dario Argento,Vesuvio;Germany;30.0
+Gigi D'Allesio,Michilangelo,Pino Daniele;Germany;35.0
+Rafaella,Boticelli,Michilangelo;Spain;32.5
+Dario Argento,Dante,Boticelli;Germany;31.0
+Dante,Marcello Mastroianni,Pavarotti;Spain;35.0
+Raffaello,Mario Merola,Regina Margherita;Spain;28.0
+Rafaella,Gigi D'Allesio,Vittorio Gassman;Spain;34.5
+Dante,Vittorio Gassman;Italy;24.0
+Vittorio Gassman,Alberto Sordi,Alberto Sordi;Germany;31.5
+Gigi D'Allesio,Federico Fellini,Pino Daniele;Finland;36.0
+Vanvitelli,Dante,Laura Pausini;Great Britain;34.0
+Alberto Sordi,Dario Argento,Vittorio Gassman;Finland;31.5
+Raffaello,Rafaella,Laura Pausini;Finland;33.0
+Mario Merola,Raffaello,Dario Argento;Finland;28.5
+Sophia Loren,Donatello;Germany;24.0
+Vesuvio,Boticelli,Donatello;Italy;32.0
+Massimo Troisi,Alberto Sordi,De Sica;Finland;30.5
+Rafaella,Mario Merola,Dario Argento;Germany;30.5
+Regina Margherita,Donatello,Vittorio Gassman;Italy;33.0
+Gigi D'Allesio,Pavarotti,Pavarotti;Germany;35.5
+Gigi D'Allesio,Vesuvio,Dante;Great Britain;34.5
+Sophia Loren,Donatello,Massimo Troisi;Great Britain;34.5
+Gigi D'Allesio,Boticelli,Boticelli;Finland;27.5
+Rafaella,Mario Merola,Gigi D'Allesio;Spain;31.0
+Gigi D'Allesio,Toto,Raffaello;Italy;33.0
+Pavarotti,Vesuvio,Regina Margherita;Germany;33.5
+Regina Margherita,Boticelli,Laura Pausini;Germany;28.0
+Dario Argento,Dante;Spain;22.5
+Vesuvio,Boticelli,Vanvitelli;Finland;31.5
+Vanvitelli,Donatello,Vesuvio;Italy;35.0
+Boticelli,Pavarotti,Vittorio Gassman;Great Britain;32.5
+Sophia Loren,Vanvitelli,Raffaello;Italy;34.0
+Michilangelo,De Sica;Germany;21.5
+Raffaello,Boticelli;Spain;19.0
+Vanvitelli,Gianni Morandi,Toto;Great Britain;35.5
+Toto,Sophia Loren,Regina Margherita;Italy;33.5
+Vesuvio,De Sica,Vanvitelli;Finland;33.0
+Gigi D'Allesio,De Sica,Dario Argento;Finland;30.5
+Sophia Loren,Toto,Michilangelo;Great Britain;35.5
+Pino Daniele,Massimo Troisi,Pino Daniele;Italy;36.5
+Vittorio Gassman,Pavarotti,Massimo Troisi;Germany;34.5
+De Sica,Dario Argento,Pavarotti;Spain;32.5
+Sophia Loren,Mario Merola,Massimo Troisi;Italy;30.5
+Vesuvio,Vesuvio;Great Britain;23.0
+Toto,Pavarotti,Laura Pausini;Germany;34.5
+Alberto Sordi,Pino Daniele,Laura Pausini;Germany;33.0
+Vittorio Gassman,Marcello Mastroianni,Rafaella;Great Britain;34.0
+Gianni Morandi,Gigi D'Allesio,Mario Merola;Germany;30.5
+Dante,Massimo Troisi,Massimo Troisi;Italy;33.5
+Pavarotti,Pino Daniele;Italy;25.5
+Toto,Gianni Morandi;Great Britain;24.0
+Marcello Mastroianni,Michilangelo,Gigi D'Allesio;Finland;32.0
+Dario Argento,Dante,Marcello Mastroianni;Italy;32.5
+Massimo Troisi,Regina Margherita,Michilangelo;Spain;31.5
+Laura Pausini,Marcello Mastroianni,Laura Pausini;Great Britain;30.0
+Vesuvio,Michilangelo,Pavarotti;Finland;35.5
+De Sica,Vesuvio,Boticelli;Spain;30.0
+Michilangelo,Toto,Mario Merola;Germany;31.5
+Toto,Marcello Mastroianni,Regina Margherita;Great Britain;31.5
+Dario Argento,Rafaella,Pavarotti;Spain;35.0
+Donatello,Regina Margherita,Raffaello;Spain;32.0
+Laura Pausini,Regina Margherita;Spain;19.5
+Gigi D'Allesio,Vanvitelli;Spain;22.0
+Dante,Mario Merola,Boticelli;Spain;29.0
+Raffaello,Gianni Morandi,Regina Margherita;Italy;32.0
+Michilangelo,Vesuvio,De Sica;Italy;33.0
+Gianni Morandi,Pavarotti,Pavarotti;Spain;37.0
+Gigi D'Allesio,Vittorio Gassman,Dario Argento;Germany;32.0
+Rafaella,Raffaello,Pino Daniele;Germany;36.0
+Boticelli,Rafaella,Alberto Sordi;Great Britain;31.0
+Gigi D'Allesio,Vittorio Gassman;Finland;22.0
+De Sica,Raffaello,Gigi D'Allesio;Italy;31.0
+Rafaella,Alberto Sordi,Dante;Italy;35.0
+Dante,Pavarotti,Vanvitelli;Spain;36.5
+Regina Margherita,Sophia Loren,Rafaella;Great Britain;34.0
+Vanvitelli,Pino Daniele,Donatello;Finland;36.5
+Gigi D'Allesio,Vesuvio,Pino Daniele;Spain;35.0
+Pavarotti,Vanvitelli,Gianni Morandi;Germany;36.0
+Laura Pausini,Toto,Rafaella;Finland;34.5
+Massimo Troisi,Dante,Toto;Germany;35.0
+Vanvitelli,Alberto Sordi,Gianni Morandi;Spain;33.5
+Pino Daniele,Rafaella,Pavarotti;Germany;38.0
+Sophia Loren,Mario Merola,Boticelli;Spain;28.5
+Boticelli,Massimo Troisi,Toto;Italy;31.0
+Vanvitelli,Gigi D'Allesio,Michilangelo;Spain;33.5
+Regina Margherita,Pavarotti,Dario Argento;Finland;32.0
+Dante,Dario Argento,De Sica;Spain;32.5
+Alberto Sordi,Dante,Massimo Troisi;Germany;33.0
+Massimo Troisi,Michilangelo,Laura Pausini;Great Britain;32.0
+Toto,De Sica,Federico Fellini;Great Britain;34.5
+Federico Fellini,Michilangelo,De Sica;Germany;34.0
+Michilangelo,Michilangelo,Boticelli;Italy;31.5
+Sophia Loren,Pavarotti,Vesuvio;Finland;36.0
+De Sica,Dario Argento,Vanvitelli;Great Britain;31.5
+Gigi D'Allesio,Vittorio Gassman,Pavarotti;Spain;34.5
+Gianni Morandi,De Sica;Finland;22.0
+Toto,Donatello,Pino Daniele;Germany;37.0
+Vanvitelli,Vanvitelli,Gigi D'Allesio;Finland;33.5
+Sophia Loren,Michilangelo,Gigi D'Allesio;Germany;34.0
+Vesuvio,Pino Daniele,Sophia Loren;Great Britain;36.5
+Laura Pausini,Toto,Massimo Troisi;Great Britain;32.5
+Donatello,Dario Argento,Pino Daniele;Italy;35.0
+Rafaella,Federico Fellini,Michilangelo;Italy;36.5
+Laura Pausini,Michilangelo;Finland;21.5
+Alberto Sordi,Federico Fellini,Federico Fellini;Great Britain;35.0
+Toto,Marcello Mastroianni,Dario Argento;Spain;32.0
+Dante,Vanvitelli,Federico Fellini;Finland;36.5
+Vesuvio,Alberto Sordi,Raffaello;Finland;32.0
+Massimo Troisi,Laura Pausini;Italy;20.5
+De Sica,Rafaella,Donatello;Spain;34.5
+Donatello,Rafaella,Mario Merola;Germany;32.5
+Massimo Troisi,Gigi D'Allesio,Vittorio Gassman;Great Britain;32.5
+Pavarotti,Pavarotti;Finland;25.0
+Federico Fellini,Federico Fellini,Gianni Morandi;Spain;37.0
+Gianni Morandi,Gigi D'Allesio,Laura Pausini;Great Britain;32.5
+Laura Pausini,De Sica,Gianni Morandi;Finland;32.0
+Gianni Morandi,Raffaello,Regina Margherita;Germany;32.0
+Vittorio Gassman,Rafaella,Michilangelo;Spain;35.5
+Massimo Troisi,Gigi D'Allesio,Donatello;Finland;33.0
+Pino Daniele,Donatello,Raffaello;Great Britain;35.5
+Michilangelo,Pino Daniele,Donatello;Germany;36.5
+Rafaella,Laura Pausini,Rafaella;Finland;35.0
+Marcello Mastroianni,Pavarotti;Great Britain;22.5
+Vesuvio,Pino Daniele,Gianni Morandi;Finland;36.5
+Dante,Michilangelo,Pino Daniele;Germany;37.0
+Michilangelo,Federico Fellini,Dario Argento;Spain;34.0
+Vittorio Gassman,Rafaella,Vanvitelli;Great Britain;35.5
+Michilangelo,Pino Daniele,Gianni Morandi;Italy;36.5
+Massimo Troisi,Pino Daniele,Alberto Sordi;Italy;33.5
+Rafaella,Pino Daniele,Vanvitelli;Spain;37.0
+Michilangelo,Vesuvio,Massimo Troisi;Germany;33.5
+Michilangelo,Regina Margherita,Laura Pausini;Finland;31.0
+Vesuvio,Raffaello,Laura Pausini;Italy;32.0
+Gianni Morandi,Vittorio Gassman,Regina Margherita;Italy;33.0
+Dante,Federico Fellini,Donatello;Spain;37.0
+Marcello Mastroianni,Michilangelo,Pavarotti;Germany;34.0
+Regina Margherita,Dante,Sophia Loren;Spain;34.0
+Boticelli,Dario Argento,Marcello Mastroianni;Finland;28.5
+Dante,Pavarotti,Dario Argento;Spain;35.0
+Boticelli,Vanvitelli,Pavarotti;Italy;32.5
+Federico Fellini,Rafaella,Dante;Germany;37.5
+Dante,Toto,Rafaella;Italy;37.0
+Toto,Boticelli,Gianni Morandi;Finland;32.5
+Boticelli,Gigi D'Allesio,Boticelli;Spain;27.5
+Vesuvio,Gigi D'Allesio,Rafaella;Spain;34.5
+Boticelli,Vittorio Gassman,Boticelli;Germany;28.5
+Mario Merola,Vanvitelli,Vesuvio;Italy;31.0
+Marcello Mastroianni,Alberto Sordi,Gigi D'Allesio;Finland;30.5
+Gigi D'Allesio,Pavarotti,Rafaella;Spain;35.5
+Gigi D'Allesio,Pino Daniele,Marcello Mastroianni;Germany;33.5
+Vittorio Gassman,Dante,Alberto Sordi;Germany;34.0
+Mario Merola,Dante,Vanvitelli;Germany;32.0
+Toto,Sophia Loren,Massimo Troisi;Germany;34.5
+Laura Pausini,Alberto Sordi,Michilangelo;Germany;31.5
+Raffaello,De Sica,Raffaello;Germany;31.0
+Gianni Morandi,Michilangelo,Gigi D'Allesio;Finland;34.0
+Michilangelo,Dario Argento,Gigi D'Allesio;Great Britain;32.0
+Gianni Morandi,Marcello Mastroianni,Massimo Troisi;Great Britain;32.5
+Rafaella,Raffaello,Raffaello;Spain;33.5
+Massimo Troisi,Dante;Great Britain;23.0
+Sophia Loren,Donatello,Massimo Troisi;Germany;34.5
+Regina Margherita,Sophia Loren,Donatello;Spain;33.5
+Pavarotti,Pavarotti,Dante;Great Britain;37.5
+Dante,Mario Merola,Mario Merola;Great Britain;28.5
+Gigi D'Allesio,Gianni Morandi,Regina Margherita;Germany;32.0
+Mario Merola,Pavarotti,Gigi D'Allesio;Finland;31.0
+Boticelli,Pavarotti,Boticelli;Spain;29.5
+Vanvitelli,Michilangelo,Laura Pausini;Italy;33.0
+Boticelli,Vesuvio,Rafaella;Italy;32.5
+Dario Argento,Massimo Troisi,Regina Margherita;Spain;30.0
+Massimo Troisi,Vesuvio,Raffaello;Finland;32.5
+Sophia Loren,Pavarotti,Federico Fellini;Finland;37.0
+Vanvitelli,Toto,Vesuvio;Spain;35.0
+Toto,Toto,De Sica;Finland;34.0
+Pavarotti,Alberto Sordi,Toto;Germany;34.5
+Mario Merola,Sophia Loren,Alberto Sordi;Italy;30.0
+Marcello Mastroianni,De Sica,Laura Pausini;Italy;30.0

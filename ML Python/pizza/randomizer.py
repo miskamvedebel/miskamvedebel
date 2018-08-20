@@ -89,17 +89,40 @@ final['orders'] = orders_concat.values
 final['total_amount'] = orders_cost['total']
 final.to_csv('pizza_dataset.csv', index=False, sep=';')
     
+#adding source market
+country = np.random.randint(0, 5, size=1000)
+country_map = {0: 'Spain',
+               1: 'Germany',
+               2: 'Great Britain', 
+               3: 'Finland', 
+               4: 'Italy',
+               }
+country = pd.Series(country)
+country_mapped = country.map(country_map)   
+
+final_with_country = final.copy()
+final_with_country['country'] = country_mapped    
+
+cols_ = ['orders', 'country', 'total_amount']   
+final_with_country = final_with_country[cols_]
+
+final_with_country.to_csv('pizza_dataset_with_country.csv', sep=';', index=False) 
     
+sparse_columns = list(mapping.values())    
+sparse_columns = sparse_columns[:25]    
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
+sparse_matrix = pd.DataFrame(data=np.zeros(shape=(len(final_with_country), len(sparse_columns))), 
+                             columns=sparse_columns)  
+  
+for p in range(len(final_with_country)):
+    for pizza in final_with_country['orders'][p].split(','):
+        if pizza in sparse_columns:
+            sparse_matrix.loc[p, str(pizza)] += 1
+        else:
+            pass
+        
+sparse_matrix['country'], sparse_matrix['total_amount'] = country, final_with_country['total_amount']    
+sparse_matrix.to_csv('for_algorithm.csv', sep=';', index=False)    
     
     
     
