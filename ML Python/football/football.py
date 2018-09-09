@@ -241,3 +241,14 @@ def pca_results(good_data, pca):
 	return pd.concat([variance_ratios, components], axis = 1)
 
 pca_results(real_madrid_clf, pca)
+from sklearn.preprocessing import MinMaxScaler
+scaler = MinMaxScaler().fit(real_madrid_clf)
+rm_log = pd.DataFrame(scaler.transform(real_madrid_clf), columns=real_madrid_clf.columns)
+pca_log = PCA(random_state=0, n_components=4)
+pca_log.fit(rm_log)
+pca_results(rm_log, pca_log)
+
+print(f'First two explain: {np.sum(pca_log.explained_variance_ratio_[:2])}')
+print(f'First four explain: {np.sum(pca_log.explained_variance_ratio_[:4])}')
+
+data2 = pd.read_csv(f'{path}\\2016_2017.csv', sep=',')
