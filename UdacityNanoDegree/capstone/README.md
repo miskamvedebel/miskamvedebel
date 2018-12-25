@@ -17,3 +17,12 @@ Quick description:
 business.json file contains data about businesses, that are available on yelp.com. it contains aroun 170k businesses.
 review.json - contains arou 5 millions of reviews, that are left by yelp.com users, which are available in user.json file.
 tip.json - contains tips for different businesses.
+
+Packages:
+pandas: 0.23.0
+Cython: 0.28.2
+numpy: 1.15.4
+matplotlib: 2.2.2
+spaCy:   2.0.18
+gensim: 3.6.0
+keras: 2.2.2
