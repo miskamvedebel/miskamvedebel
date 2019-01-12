@@ -1,0 +1,32 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron text-center">
+    <h1>Welcome To Sentiment Analysis App</h1>
+    <p>Please insert your text to the form below and then click submit button</p>
+  </div>
+  <form method="post" action="/analyze/" method="post">
+    <div class="form-group">
+      <label for="exampleFormControlTextarea1">Enter your text here:</label>
+      <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="text"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mb-2">Analyze</button>
+  </form>
+  <table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Sentence</th>
+      <th scope="col">Tokenized Sentence</th>
+      <th scope="col">Sentiment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>{{sentence}}</td>
+      <td>{{tokenized}}</td>
+      <td>{{sentiment}}</td>
+    </tr>
+  </tbody>
+</table>
+
+{% endblock %}
